@@ -6,7 +6,7 @@
 #### 2. Każdy commit powinien dotyczyć jednej funkcjonalności
 
 #### 3. Każdy commit powinnien mieć odpowiednią nazwę:
-* w formie trybu rozkazującego
+* w formie trybu oznajmującego
 * jeżeli jest po angielsku - powinna dopełniać zdanie: *This commit will...*
 
 #### 4. Błędy oraz propozycje nowych funkcjonalności powinny być zgłaszanie poprzez Issue na GitHubie, a commity, które ich dotyczą powinny zawierać odpowiednie referencje
