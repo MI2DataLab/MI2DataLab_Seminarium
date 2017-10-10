@@ -1,2 +1,4 @@
-# MI2DataLab_Seminarium
-Materiały z seminariów prowadzonych w MI^2 DataLabie.
+# Materiały z Seminarium Badawczego prowadzonego w MI^2 DataLab
+
+## 1. [Git, GitHub](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2017_10_10_git)
+
