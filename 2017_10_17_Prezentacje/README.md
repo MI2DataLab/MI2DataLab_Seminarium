@@ -19,5 +19,3 @@
 * [TED's secret to great public speaking, Chris Anderson](https://www.ted.com/talks/chris_anderson_teds_secret_to_great_public_speaking#t-109471)
 
 * [The secret structure of great talks, Nancy Duarte](https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks#t-268243)
-
-*[]()
