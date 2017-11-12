@@ -4,3 +4,5 @@
 
 ## 2. [Prezentacje naukowe](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2017_10_17_Prezentacje)
 
+## 3. [Cheatsheety](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2017_11_14_Cheatsheets)
+
