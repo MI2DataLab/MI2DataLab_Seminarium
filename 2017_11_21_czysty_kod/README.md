@@ -35,3 +35,5 @@ W książce omówione zostały najlepsze praktyki pisania czystego kodu. Częś�
 	- [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/ref=sr_1_1?s=books&ie=UTF8&qid=1510591728&sr=1-1&keywords=The+Clean+Coder%3A+A+Code+of+Conduct+for+Professional+Programmers.)
 		
 	- [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
+	
+- [Przepis na jajecznicę](http://pawelwlodarski.blogspot.com/2011/02/poziomy-abstrakcji.html)
