@@ -1,6 +1,6 @@
 ﻿# Czysty kod 
 
-### [Prezentacja]()
+### [Prezentacja](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2017_11_21_czysty_kod/czysty_kod.pdf)
 
 Zagadnienia poruszone w trakcie seminarium pochodzą z książki [Czysty kod. Podręcznik dobrego programisty](http://lubimyczytac.pl/ksiazka/83492/czysty-kod-podrecznik-dobrego-programisty) Roberta C. Martina (Uncle Bob). 
 
