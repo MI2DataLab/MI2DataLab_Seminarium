@@ -8,6 +8,7 @@
 
 ## 4. [Czysty kod](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2017_11_21_czysty_kod)
 
+## 5. [pkgdown](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2017_11_28_pkgdown)
 
 # TextMining
 
