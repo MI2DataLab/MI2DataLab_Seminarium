@@ -16,3 +16,5 @@ pkgdown::build_site()
 ```
 
 Instrukcja pozwalająca wygenerować stronę z szablonem MI2 DataLabu znajduje się w repozytorium pakietu [MI2template](https://github.com/mi2-warsaw/MI2template).
+
+Więcej o dostosowywaniu wyglądu i struktury strony można znaleźć w artykule [Building a website with pkgdown: a short guide ](https://lbusettspatialr.blogspot.it/2017/08/building-website-with-pkgdown-short.html).
