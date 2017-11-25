@@ -4,7 +4,7 @@
 
 ## Przykładowe strony pakietów wygenerowane przy pomocy *pkgdown*:
 - Standardowy szablon: [archivist](http://pbiecek.github.io/archivist/),
-- Szablon grupy MI2: [auditor](https://github.com/mi2-warsaw/auditor).
+- Szablon grupy MI2: [auditor](https://mi2-warsaw.github.io/auditor/index.html).
 
 ## Jak wygenerować taką stronę?
 
