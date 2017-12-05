@@ -1,0 +1,169 @@
+condvis Package - visualize black box by sections
+========================================================
+author: 
+date: 
+autosize: true
+
+<style>
+.reveal h1, .reveal h2, .reveal h3 {
+  word-wrap: normal;
+  -moz-hyphens: none;
+}
+.slides {
+  width: 1700px !important;
+  height: 900px !important;
+}
+</style>
+
+Background
+========================================================
+
+$X = (X1, \ldots, X_{N})$ and $Y$.<br>
+$X$ and $Y$ related by unknown $\ f$, <br>
+$Y = f(X)$
+
+Black box model outputs $\ \hat{f}$ - estimation of $\ f$.
+
+Issue
+========================================================
+
+How to visualize $\hat{f}$?
+
+One dimension:
+========================================================
+
+```{r, eval = FALSE}
+svm(mpg ~ wt, data = mtcars)
+```
+
+<img src = "condvis-figure/one_dim.png">
+
+Two dimensions:
+========================================================
+
+```{r, eval = FALSE}
+svm(mpg ~ wt + hp, data = mtcars)
+```
+
+<img src = "condvis-figure/two_dim.png">
+
+Idea of sections:
+========================================================
+
+<img src = "condvis-figure/section.png">
+
+More dimensions:
+========================================================
+
+```{r echo = FALSE}
+library(condvis)
+library(covreg)
+library(e1071)
+data(fev)
+fev$male <- as.factor(c("female", "male")[fev$male + 1])
+names(fev)[4] <- "gender"
+fev$smoke <- as.factor(c("no", "yes")[fev$smoke + 1])
+```
+
+
+FEV data (from covreg package):
+```{r}
+str(fev)
+```
+
+More dimensions:
+========================================================
+
+```{r}
+plot(fev$smoke, fev$fev, xlab = "smokes", ylab = "FEV", col = "gray", boxwex = 0.35)
+```
+
+More dimensions:
+========================================================
+
+```{r eval = FALSE}
+ceplot(data, model, response = NULL, sectionvars = NULL,
+  conditionvars = NULL, threshold = NULL, lambda = NULL,
+  distance = c("euclidean", "maxnorm"), 
+  type = c("default", "separate", "shiny"), view3d = FALSE, 
+  Corder = "default", selectortype = "minimal", conf = FALSE, 
+  probs = FALSE, col = "black", pch = NULL)
+```
+
+Some examples:
+========================================================
+
+```{r eval = FALSE}
+m <- svm(fev ~ gender + smoke + age + height, data = fev)
+
+ceplot(data = fev, model = m, sectionvars = "smoke")
+
+ceplot(data = fev, model = m, sectionvars = "smoke", type = "shiny")
+
+ceplot(data = fev, model = m, sectionvars = "smoke", type = "separate", selectortype = "pcp")
+
+ceplot(data = fev, model = m, sectionvars = "smoke", type = "separate", selectortype = "full")
+
+ceplot(data = fev, model = m, sectionvars = "smoke", conditionvars = list(c("height", "gender"), "age"))
+
+ceplot(data = fev, model = m, sectionvars = c("height", "age"))
+
+ceplot(data = fev, model = m, sectionvars = c("height", "age"), view3d = TRUE)
+
+ceplot(data = fev, model = m, sectionvars = c("height", "age"), view3d = TRUE, col = "blue")
+```
+
+Possible sections types
+========================================================
+
+<img src = "condvis-figure/methods.png">
+
+Multiple models:
+========================================================
+
+```{r eval = FALSE}
+library("randomForest")
+library("mgcv")
+m3 <- list(
+  RF = randomForest(fev ~ ., data = fev),
+  lm = lm(fev ~ ., data = fev),
+  gam = mgcv::gam(fev ~ smoke + gender + s(age) + s(height), 
+                  data = fev))
+ceplot(data = fev, model = m3, sectionvars = "smoke")
+```
+
+
+Plotting probability
+========================================================
+
+```{r}
+data(wine)
+str(wine)
+```
+
+Plotting probability
+========================================================
+
+```{r eval = FALSE}
+svm(Class ~ ., data = wine, probability = TRUE)
+
+ceplot(data = wine, model = model5, sectionvars = c("Hue", "Flavanoids"),
+       threshold = 3, probs = TRUE)
+```
+
+The end
+========================================================
+</br></br></br>
+<center>
+**Thank you for your attention**
+</br>
+*Questions?*
+</center>
+
+<small>
+Resources:
+- https://arxiv.org/abs/1610.00290
+
+</small>
+
+
