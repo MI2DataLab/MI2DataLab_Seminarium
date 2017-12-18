@@ -1,29 +1,29 @@
 # Travis
 
-**Ci¹g³a integracja** to praktyka tworzenia oprogramowania, polegaj¹ca na czêstej integracji kodu, zazwyczaj pochodz¹cego od róznych programistów. 
-Oprócz integracji nale¿y zapewnieniæ tak¿e poprawnoœæ kompilacji kodu Ÿród³owego.
-Dlatego do naszego kodu powinniœmy mieæ napisane odpowiednie testy, które sprawdz¹ jego poprawnoœæ. 
+**CiÄ…gÅ‚a integracja** to praktyka tworzenia oprogramowania, polegajÄ…ca na czÄ™stej integracji kodu, zazwyczaj pochodzÄ…cego od rÃ³znych programistÃ³w. 
+OprÃ³cz integracji naleÅ¼y zapewnieniÄ‡ takÅ¼e poprawnoÅ›Ä‡ kompilacji kodu ÅºrÃ³dÅ‚owego.
+Dlatego do naszego kodu powinniÅ›my mieÄ‡ napisane odpowiednie testy, ktÃ³re sprawdzÄ… jego poprawnoÅ›Ä‡. 
 
-Korzyœci z automatycznego uruchamiania testów:
-- nie trzeba pamiêtaæ o uruchamianiu testów,
-- w wypadku wykrycia b³êdu automatycznie wszyscy zainteresowaniu mog¹ dostaæ stosowne powiadomienie,
-- dostêpna jest historia przebiegu testów kolejnych wersji kodu,
-- zwiêksza poziom zaufania do pakietu.
+KorzyÅ›ci z automatycznego uruchamiania testÃ³w:
+- nie trzeba pamiÄ™taÄ‡ o uruchamianiu testÃ³w,
+- w wypadku wykrycia bÅ‚Ä™du automatycznie wszyscy zainteresowaniu mogÄ… dostaÄ‡ stosowne powiadomienie,
+- dostÄ™pna jest historia przebiegu testÃ³w kolejnych wersji kodu,
+- zwiÄ™ksza poziom zaufania do pakietu.
 
-[**Travis CI**](https://travis-ci.org/) - narzêdzie wspomagaj¹ce ci¹g³¹ integracjê projektów znajduj¹cych siê na GitHubie.
+[**Travis CI**](https://travis-ci.org/) - narzÄ™dzie wspomagajÄ…ce ciÄ…gÅ‚Ä… integracjÄ™ projektÃ³w znajdujÄ…cych siÄ™ na GitHubie.
+
+[Core Concepts for Beginners](https://docs.travis-ci.com/user/for-beginners)
 
 [Getting started](https://docs.travis-ci.com/user/getting-started/)
 
 [Building na R Project](https://docs.travis-ci.com/user/languages/r/)
 
-[Building a Python Project](https://docs.travis-ci.com/user/languages/python/)
-
 [Checking after every commit with Travis by Hadley Wickham](http://r-pkgs.had.co.nz/check.html#travis)
 
 ## Konfiguracja
 
-Travisa konfiguruje siê poprzez plik .travis.yml umieszczony w repozytorium projektu. 
-Przyk³adowa zawartoœæ [pliku konfiguracyjnego](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2017_12_19_travis/.travis.yml):
+Travisa konfiguruje siÄ™ poprzez plik .travis.yml umieszczony w repozytorium projektu. 
+PrzykÅ‚adowa zawartoÅ›Ä‡ [pliku konfiguracyjnego](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2017_12_19_travis/.travis.yml):
 
 ```
 language: R
@@ -36,15 +36,15 @@ notifications:
 
 Inne przydatne opcje:
 
-`r_github_packages` - instalacja pakietów z GitHuba
+`r_github_packages` - instalacja pakietÃ³w z GitHuba,
 
-`r_binary_packages` - instalowanie prekompilowanych pakietów. Ta opcja pozwala zredukowaæ czas budowy Travisa. 
-Listê dostêpnych pakietów mo¿na znaleŸæ na [stronie z pakietami dla systemu Ubuntu](https://packages.ubuntu.com/)
+`r_binary_packages` - instalowanie prekompilowanych pakietÃ³w. Ta opcja pozwala zredukowaÄ‡ czas budowy Travisa. 
+ListÄ™ dostÄ™pnych pakietÃ³w moÅ¼na znaleÅºÄ‡ na [stronie z pakietami dla systemu Ubuntu](https://packages.ubuntu.com/).
 
 
 
 # AppVeyor
 
-[AppVeyor](https://www.appveyor.com/) -  ci¹g³a integracja - budowanie i testowanie projektów hostowanych na GitHubie na wirtualnej maszynie z Microsoft Windows.
+[AppVeyor](https://www.appveyor.com/) -  ciÄ…gÅ‚a integracja - budowanie i testowanie projektÃ³w hostowanych na GitHubie na wirtualnej maszynie z Microsoft Windows.
 
-[Jak u¿ywaæ AppVeyor w projektach R.](https://github.com/krlmlr/r-appveyor)
+[Jak uÅ¼ywaÄ‡ AppVeyor w projektach R.](https://github.com/krlmlr/r-appveyor)
