@@ -1,8 +1,16 @@
 # Travis
 
-*Ci¹g³a* integracja to praktyka tworzenia oprogramowania, polegaj¹ca na czêstej integracji kodu, zazwyczaj pochodz¹cego od róznych programistów. 
+**Ci¹g³a integracja** to praktyka tworzenia oprogramowania, polegaj¹ca na czêstej integracji kodu, zazwyczaj pochodz¹cego od róznych programistów. 
+Oprócz integracji nale¿y zapewnieniæ tak¿e poprawnoœæ kompilacji kodu Ÿród³owego.
+Dlatego do naszego kodu powinniœmy mieæ napisane odpowiednie testy, które sprawdz¹ jego poprawnoœæ. 
 
-[*Travis CI*](https://travis-ci.org/) - narzêdzie wspomagaj¹ce ci¹g³¹ integracjê projektów znajduj¹cych siê na GitHubie.
+Korzyœci z automatycznego uruchamiania testów:
+- nie trzeba pamiêtaæ o uruchamianiu testów,
+- w wypadku wykrycia b³êdu automatycznie wszyscy zainteresowaniu mog¹ dostaæ stosowne powiadomienie,
+- dostêpna jest historia przebiegu testów kolejnych wersji kodu,
+- zwiêksza poziom zaufania do pakietu.
+
+[**Travis CI**](https://travis-ci.org/) - narzêdzie wspomagaj¹ce ci¹g³¹ integracjê projektów znajduj¹cych siê na GitHubie.
 
 [Getting started](https://docs.travis-ci.com/user/getting-started/)
 
