@@ -1,5 +1,13 @@
 # Materiały z Seminarium Badawczego prowadzonego w MI^2 DataLab
 
+
+# Rok 2018/2019
+
+## 2018 10 08 - [Interpretability & Security in NLP models - Dominika Basaj](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2018_10_08_QA/seminarum_08_10.pdf)
+## 2018 10 15 - Mateusz Staniak, Przemyslaw Biecek
+
+# Rok 2017/2018
+
 ## 1. [Git, GitHub](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2017_10_10_git)
 
 ## 2. [Prezentacje naukowe](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2017_10_17_Prezentacje)
@@ -12,6 +20,4 @@
 
 ## 6. [Travis](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2017_12_19_travis)
 
-# TextMining
-
-## [Web service](https://git.applica.pl/services-doc/nlp-ws/blob/master/NLP-WS-1.0.0.md)
+## 7. [Web service](https://git.applica.pl/services-doc/nlp-ws/blob/master/NLP-WS-1.0.0.md)
