@@ -7,7 +7,7 @@
 * 2018-11-19 - (zaplanowane) Atencja - Bartłomiej Prus Zajączkowski, Tomasz Stanisławek
 * 2018-11-12 - Wolne (100-lecie dnia po odzyskaniu niepodległości)
 * 2018-11-6 - (zaplanowane) Christoph Molnar (LMU), Alicja Gosiewska, Przemysław Biecek
-* 2018-10-29 - (zaplanowane) Mythos of Interpretability - Mateusz Staniak
+* 2018-10-29 - [Mythos of Interpretability - Mateusz Staniak](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2018_10_29_interpretability/Interpretowalnosc.pdf)
 * 2018-10-22 - [The Family of Relief algorithms - Alicja Gosiewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2018_10_22_RReliefF/RReliefF.pdf)
 * 2018-10-15 - [Concept drift & IML - Mateusz Staniak](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2018_10_15_Drift/Concept_drift___IML.pdf), Przemyslaw Biecek
 * 2018-10-8 - [Interpretability & Security in NLP models - Dominika Basaj](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2018_10_08_QA/seminarum_08_10.pdf)
