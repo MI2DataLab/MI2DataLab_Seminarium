@@ -2,8 +2,9 @@
 
 # Rok 2018/2019
 
-* TBA - (zaplanowane) Przewidywanie właściwości sekwencji biologicznych w oparciu o analizę n-gramów - Michał Burdukiewicz
-* 2018-11-26 - (zaplanowane) Porównanie platform do wizualnej eksploracji modeli (Manifold, Model describer, Explanation Explorer, Prospector) - Agnieszka Ciepielewska
+* 2018-12-10 - (zaplanowane) Porównanie platform do wizualnej eksploracji modeli (Manifold, Model describer, Explanation Explorer, Prospector) - Agnieszka Ciepielewska
+* 2018-12-03 - (zaplanowane) Przewidywanie właściwości sekwencji biologicznych w oparciu o analizę n-gramów - Michał Burdukiewicz
+* 2018-11-26 - TBA
 * 2018-11-19 - (zaplanowane) Atencja - Bartłomiej Prus Zajączkowski, Tomasz Stanisławek
 * 2018-11-12 - Wolne (100-lecie dnia po odzyskaniu niepodległości)
 * 2018-11-6 - (zaplanowane) Christoph Molnar (LMU), [Alicja Gosiewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2018_11_06_survxai/survxai.pdf), Przemysław Biecek
