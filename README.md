@@ -7,7 +7,7 @@
 * 2018-11-26 - (zaplanowane) Wrażenia z konferencji EMNLP - Dominika Basaj
 * 2018-11-19 - Atencja - Tomasz Stanisławek
 * 2018-11-12 - Wolne (100-lecie dnia po odzyskaniu niepodległości)
-* 2018-11-5, 2018-11-6 - Christoph Molnar (LMU), [Alicja Gosiewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2018_11_06_survxai/survxai.pdf), Przemysław Biecek, [Michał Kuźba](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2018_11_05_active/active.pdf) (seminarium robocze)
+* 2018-11-5, 2018-11-6 - Christoph Molnar (LMU), [Alicja Gosiewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2018_11_06_survxai/survxai.pdf), Przemysław Biecek, [Klasyfikacja tekstów z użyciem Transfer Learning i Active Learning - Michał Kuźba](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2018_11_05_active/active.pdf) (seminarium robocze)
 * 2018-10-29 - [Mythos of Interpretability - Mateusz Staniak](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2018_10_29_interpretability/Interpretowalnosc.pdf)
 * 2018-10-22 - [The Family of Relief algorithms - Alicja Gosiewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2018_10_22_RReliefF/RReliefF.pdf)
 * 2018-10-15 - [Concept drift & IML - Mateusz Staniak](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2018_10_15_Drift/Concept_drift___IML.pdf), Przemyslaw Biecek
