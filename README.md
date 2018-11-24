@@ -4,7 +4,7 @@
 
 * 2018-12-10 - (zaplanowane) Porównanie platform do wizualnej eksploracji modeli (Manifold, Model describer, Explanation Explorer, Prospector) - Agnieszka Ciepielewska
 * 2018-12-03 - (zaplanowane) Przewidywanie właściwości sekwencji biologicznych w oparciu o analizę n-gramów - Michał Burdukiewicz
-* 2018-11-26 - (zaplanowane) Wrażenia z konferencji EMNLP - Dominika Basaj
+* 2018-11-26 - (zaplanowane) Wrażenia z konferencji EMNLP - Dominika Basaj, wrażenia z wizyty na UJ - Alicja Gosiewska
 * 2018-11-19 - Atencja - Tomasz Stanisławek
 * 2018-11-12 - Wolne (100-lecie dnia po odzyskaniu niepodległości)
 * 2018-11-5, 2018-11-6 - Christoph Molnar (LMU), [Alicja Gosiewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2018_11_06_survxai/survxai.pdf), Przemysław Biecek, [Klasyfikacja tekstów z użyciem Transfer Learning i Active Learning - Michał Kuźba](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2018_11_05_active/active.pdf) (seminarium robocze)
