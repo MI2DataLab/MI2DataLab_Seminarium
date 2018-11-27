@@ -2,7 +2,7 @@
 
 # Rok 2018/2019
 
-* 2018-01 - (zaplanowane) Porównanie platform do wizualnej eksploracji modeli (Manifold, Model describer, Explanation Explorer, Prospector) - Agnieszka Ciepielewska
+* 2019-01 - (zaplanowane) Porównanie platform do wizualnej eksploracji modeli (Manifold, Model describer, Explanation Explorer, Prospector) - Agnieszka Ciepielewska
 * 2018-12-10 - (zaplanowane) Przewidywanie właściwości sekwencji biologicznych w oparciu o analizę n-gramów - Michał Burdukiewicz
 * 2018-12-03 - TBA
 * 2018-11-26 - Wrażenia z konferencji EMNLP - Dominika Basaj
