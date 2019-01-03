@@ -6,7 +6,7 @@
 * 2019-01-07 - (zaplanowane) Propensity Weighting to Investigate Health Disparities and Assess Indirect Effects - Chris Drake, UC Davis
   (Uwaga: zmiana terminu - seminarium zaczyna się o 12:00)
 * 2018-12-10 - Przewidywanie właściwości sekwencji biologicznych w oparciu o analizę n-gramów - Michał Burdukiewicz
-* 2018-12-03 - Noisy labels & uncertainty - Alicja Gosiewska, Mateusz Staniak
+* 2018-12-03 - [Wrażenia z Krakowa - Alicja Gosiewska, Mateusz Staniak](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2018_12_03_krakow)
 * 2018-11-26 - [EMNLP Conference Highlights - Dominika Basaj](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2018_11_26_emnlp/EMNLP_reading_club.pdf)
 * 2018-11-19 - [Atencja - Tomasz Stanisławek](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2018_11_19_atencja/TS_Atencja_19.11.2018.pdf)
 * 2018-11-12 - Wolne (100-lecie dnia po odzyskaniu niepodległości)
