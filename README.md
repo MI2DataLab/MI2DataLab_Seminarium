@@ -2,7 +2,8 @@
 
 # Rok 2018/2019
 
-* 2019-01 - (zaplanowane) Porównanie platform do wizualnej eksploracji modeli (Manifold, Model describer, Explanation Explorer, Prospector) - Agnieszka Ciepielewska
+* 2019-01-21 - (zaplanowane) Porównanie platform do wizualnej eksploracji modeli (Manifold, Model describer, Explanation Explorer, Prospector) - Agnieszka Ciepielewska
+* 2019-01-14 - TBA
 * 2019-01-07 - (zaplanowane) Propensity Weighting to Investigate Health Disparities and Assess Indirect Effects - Chris Drake, UC Davis
   (Uwaga: zmiana terminu - seminarium zaczyna się o 12:00)
 * 2018-12-10 - Przewidywanie właściwości sekwencji biologicznych w oparciu o analizę n-gramów - Michał Burdukiewicz
