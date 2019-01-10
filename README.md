@@ -2,6 +2,7 @@
 
 # Rok 2018/2019
 
+* 2019-01-28 - (zaplanowane) Przegląd prac z konferencji FATML - Dominika Basaj
 * 2019-01-21 - (zaplanowane) Porównanie platform do wizualnej eksploracji modeli (Manifold, Model describer, Explanation Explorer, Prospector) - Agnieszka Ciepielewska
 * 2019-01-14 - (zaplanowane) NA - Alicja Gosiewska
 * 2019-01-07 - Propensity Weighting to Investigate Health Disparities and Assess Indirect Effects - Chris Drake, UC Davis
