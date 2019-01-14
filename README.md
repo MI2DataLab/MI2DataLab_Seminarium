@@ -4,7 +4,7 @@
 
 * 2019-01-28 - (zaplanowane) Przegląd prac z konferencji FATML - Dominika Basaj
 * 2019-01-21 - (zaplanowane) Porównanie platform do wizualnej eksploracji modeli (Manifold, Model describer, Explanation Explorer, Prospector) - Agnieszka Ciepielewska
-* 2019-01-14 - (zaplanowane) NA - Alicja Gosiewska
+* 2019-01-14 - [NA - Alicja Gosiewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2019_01_14_na/prezentacja_braki_danych_seminariumMI2.pdf)
 * 2019-01-07 - Propensity Weighting to Investigate Health Disparities and Assess Indirect Effects - Chris Drake, UC Davis
 * 2018-12-10 - Przewidywanie właściwości sekwencji biologicznych w oparciu o analizę n-gramów - Michał Burdukiewicz
 * 2018-12-03 - [Wrażenia z Krakowa - Alicja Gosiewska, Mateusz Staniak](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2018_12_03_krakow)
