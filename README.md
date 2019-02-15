@@ -2,7 +2,8 @@
 
 # Rok 2018/2019
 
-* 2019-01-28 - (zaplanowane) Przegląd prac z konferencji FATML - Dominika Basaj
+* 2019-02-18 - Seminarium organizacyjne
+* 2019-01-28 - [Przegląd prac z konferencji FATML - Dominika Basaj](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2019_01_28_fatml/fat_ml_basaj.pdf)
 * 2019-01-21 - [Wizualna eksploracja modeli - Agnieszka Ciepielewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2019_01_21_modelvis/Wizualna_eksploracja_modeli.pdf)
 * 2019-01-14 - [NA - Alicja Gosiewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2019_01_14_na/prezentacja_braki_danych_seminariumMI2.pdf)
 * 2019-01-07 - Propensity Weighting to Investigate Health Disparities and Assess Indirect Effects - Chris Drake, UC Davis
