@@ -1,7 +1,27 @@
 # Materiały z Seminarium Badawczego prowadzonego w MI^2 DataLab
 
-# Rok 2018/2019
+Termin seminarium:
 
+Poniedziałki, 10:00 w Mi2 Data Lab 
+(sala 044 na MiNI PW).
+
+## Rok 2018/2019
+
+* 2019-06-10 - Podsumowanie roku (edited) 
+* 2019-06-03 - TBA
+* 2019-05-27 - TBA
+* 2019-05-20 - (zaplanowane) Analiza danych marketingowych - Adrian Foltyn
+* 2019-05-13 - (zaplanowane) Mikrosegmentacja - Adam Dobrakowski
+* 2019-05-06 - (zaplanowane) Przyczynowość - Mateusz Kobos
+* 2019-04-29 - (zaplanowane) Optymalizacja bayesowska - magistrant Michała Burdukiewicza
+* 2019-04-15 - (zaplanowane) AutoML - Alicja Gosiewska
+* 2019-04-08 - (zaplanowane) Feast - Przemysław Biecek
+* 2019-04-01 - (zaplanowane) NLP - Tomasz Stanisławek
+* 2019-03-25 - (zaplanowane) Artykuł na ACL - Dominika Basaj i Alicja Gosiewska
+* 2019-03-18 - (zaplanowane) Lokalne wyjaśnienia, Robnik-Sikonja - Mateusz Staniak
+* 2019-03-11 - (zaplanowane) TFML - Michał Kuźba
+* 2019-03-04 - (zaplanowane) Pakiet ExplainPrediction i metodologia - Katarzyna Kobylińska
+* 2019-02-25 - (zaplanowane) Bioinformatyka - Michał Burdukiewicz
 * 2019-02-18 - Seminarium organizacyjne
 * 2019-01-28 - [Przegląd prac z konferencji FATML - Dominika Basaj](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2019_01_28_fatml/fat_ml_basaj.pdf)
 * 2019-01-21 - [Wizualna eksploracja modeli - Agnieszka Ciepielewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2019_01_21_modelvis/Wizualna_eksploracja_modeli.pdf)
@@ -18,8 +38,7 @@
 * 2018-10-15 - [Concept drift & IML - Mateusz Staniak](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2018_10_15_Drift/Concept_drift___IML.pdf), Przemyslaw Biecek
 * 2018-10-8 - [Interpretability & Security in NLP models - Dominika Basaj](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2018_10_08_QA/seminarum_08_10.pdf)
 
-
-# Rok 2017/2018
+## Rok 2017/2018
 
 * [Git, GitHub](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2017_10_10_git)
 * [Prezentacje naukowe](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2017_10_17_Prezentacje)
