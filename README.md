@@ -9,7 +9,7 @@ Poniedziałki, 10:00 w Mi2 Data Lab
 
 * 2019-06-10 - Podsumowanie roku (edited) 
 * 2019-06-03 - TBA
-* 2019-05-27 - TBA
+* 2019-05-27 - (zaplanowane) Adversarial training on text datasets - Kamil Grabowski
 * 2019-05-20 - (zaplanowane) Analiza danych marketingowych - Adrian Foltyn
 * 2019-05-13 - (zaplanowane) Mikrosegmentacja - Adam Dobrakowski
 * 2019-05-06 - (zaplanowane) Przyczynowość - Mateusz Kobos
