@@ -18,9 +18,9 @@ Poniedziałki, 10:00 w Mi2 Data Lab
 * 2019-04-08 - (zaplanowane) Feast - Przemysław Biecek
 * 2019-04-01 - (zaplanowane) NLP - Tomasz Stanisławek
 * 2019-03-25 - (zaplanowane) Artykuł na ACL - Dominika Basaj i Alicja Gosiewska
-* 2019-03-18 - (zaplanowane) Lokalne wyjaśnienia, Robnik-Sikonja - Mateusz Staniak
+* 2019-03-18 - (zaplanowane) ExplainPrediction & sales example - Mateusz Staniak
 * 2019-03-11 - (zaplanowane) TFML - Michał Kuźba
-* 2019-03-04 - (zaplanowane) Pakiet ExplainPrediction i metodologia - Katarzyna Kobylińska
+* 2019-03-04 - (zaplanowane) Lokalne wyjaśnienia (IME & EXPLAIN) - Katarzyna Kobylińska
 * 2019-02-25 - (zaplanowane) Bioinformatyka - Michał Burdukiewicz
 * 2019-02-18 - Seminarium organizacyjne
 * 2019-01-28 - [Przegląd prac z konferencji FATML - Dominika Basaj](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2019_01_28_fatml/fat_ml_basaj.pdf)
