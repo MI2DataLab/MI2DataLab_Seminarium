@@ -19,7 +19,7 @@ Poniedziałki, 10:00 w Mi2 Data Lab
 * 2019-04-01 - (zaplanowane) NLP - Tomasz Stanisławek
 * 2019-03-25 - (zaplanowane) Artykuł na ACL - Dominika Basaj i Alicja Gosiewska
 * 2019-03-18 - (zaplanowane) ExplainPrediction & sales example - Mateusz Staniak
-* 2019-03-11 - [TFML - Michał Kuźba](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2019_03_11_tfml/TFML)19-2.pdf)
+* 2019-03-11 - [TFML - Michał Kuźba](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2019_03_11_tfml/TFML_19-2.pdf)
 * 2019-03-04 - [Explaining Classifications for Individual Instances - Katarzyna Kobylińska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2019_03_04_explainprediction/Prezentacja.pdf)
 * 2019-02-25 - (zaplanowane) Bioinformatyka - Michał Burdukiewicz
 * 2019-02-18 - Seminarium organizacyjne
