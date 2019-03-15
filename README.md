@@ -7,6 +7,8 @@ Poniedziałki, 10:00 w Mi2 Data Lab
 
 ## Rok 2018/2019
 
+### Semestr letni
+
 * 2019-06-10 - (zaplanowane) Podsumowanie roku 
 * 2019-06-03 - TBA
 * 2019-05-27 - (zaplanowane) Adversarial training on text datasets - Kamil Grabowski
@@ -23,6 +25,9 @@ Poniedziałki, 10:00 w Mi2 Data Lab
 * 2019-03-04 - [Explaining Classifications for Individual Instances - Katarzyna Kobylińska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2019/2019_03_04_explainprediction/Prezentacja.pdf)
 * 2019-02-25 - (zaplanowane) Bioinformatyka - Michał Burdukiewicz
 * 2019-02-18 - Seminarium organizacyjne
+
+### Semestr zimowy
+
 * 2019-01-28 - [Przegląd prac z konferencji FATML - Dominika Basaj](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2019/2019_01_28_fatml/fat_ml_basaj.pdf)
 * 2019-01-21 - [Wizualna eksploracja modeli - Agnieszka Ciepielewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2019/2019_01_21_modelvis/Wizualna_eksploracja_modeli.pdf)
 * 2019-01-14 - [NA - Alicja Gosiewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2019/2019_01_14_na/prezentacja_braki_danych_seminariumMI2.pdf)
