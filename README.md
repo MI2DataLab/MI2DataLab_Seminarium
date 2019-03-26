@@ -2,7 +2,7 @@
 
 Termin seminarium:
 
-Poniedziałki, 10:00 w Mi2 Data Lab 
+Poniedziałki, 13:00 w MI2 Data Lab 
 (sala 044 na MiNI PW).
 
 ## Rok 2018/2019
