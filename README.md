@@ -16,7 +16,7 @@ Poniedziałki, 10:30 w MI2 Data Lab
 * 2019-05-13 - (zaplanowane) Mikrosegmentacja - Adam Dobrakowski
 * 2019-05-06 - (zaplanowane) Przyczynowość - Mateusz Kobos
 * 2019-04-29 - (zaplanowane) Optymalizacja bayesowska - magistrant Michała Burdukiewicza
-* 2019-04-15 - (zaplanowane) AutoML - Alicja Gosiewska
+* 2019-04-15 - (zaplanowane) Tunability of ML algorithms - Alicja Gosiewska
 * 2019-04-08 - (zaplanowane) Feast - Przemysław Biecek
 * 2019-04-01 - (zaplanowane) NLP - Tomasz Stanisławek
 * 2019-03-25 - Artykuł na ACL - Dominika Basaj i Alicja Gosiewska (prezentacja zostanie udostępniona po zakończeniu procesu recenzji).
