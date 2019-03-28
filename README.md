@@ -19,7 +19,7 @@ Mondays, 10:30 @ MI2 DataLab (room 044, Faculty of Mathematics and Information S
 * 2019-05-20 - (zaplanowane) Analiza danych marketingowych - Adrian Foltyn
 * 2019-05-13 - (zaplanowane) Mikrosegmentacja - Adam Dobrakowski
 * 2019-05-06 - (zaplanowane) Przyczynowość - Mateusz Kobos
-* 2019-04-29 - (zaplanowane) Optymalizacja bayesowska - magistrant Michała Burdukiewicza
+* 2019-04-29 - (zaplanowane) Optymalizacja bayesowska - Michał Burdukiewicz
 * 2019-04-15 - (zaplanowane) Tunability: Importance of Hyperparameters of Machine Learning Algorithms (https://arxiv.org/abs/1802.09596) - Alicja Gosiewska
 * 2019-04-08 - (zaplanowane) Feast (https://github.com/gojek/feast) - Przemysław Biecek
 * 2019-04-01 - (zaplanowane) NLP - Tomasz Stanisławek
