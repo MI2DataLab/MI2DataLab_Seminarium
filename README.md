@@ -20,8 +20,8 @@ Mondays, 10:30 @ MI2 DataLab (room 044, Faculty of Mathematics and Information S
 * 2019-05-13 - (zaplanowane) Mikrosegmentacja - Adam Dobrakowski
 * 2019-05-06 - (zaplanowane) Przyczynowość - Mateusz Kobos
 * 2019-04-29 - (zaplanowane) Optymalizacja bayesowska - Michał Burdukiewicz
-* 2019-04-15 - (zaplanowane) [Tunability: Importance of Hyperparameters of Machine Learning Algorithms - Alicja Gosiewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2019/2019_04_15_tuning_hyperparameters/tunability.pdf)
-* 2019-04-08 - (zaplanowane) Feast (https://github.com/gojek/feast) - Przemysław Biecek
+* 2019-04-15 - [Tunability: Importance of Hyperparameters of Machine Learning Algorithms - Alicja Gosiewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2019/2019_04_15_tuning_hyperparameters/tunability.pdf)
+* 2019-04-08 - Feast (https://github.com/gojek/feast) - Przemysław Biecek
 * 2019-04-01 - [Named Entity Recognition - is there a glass ceiling? - Tomasz Stanisławek](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2019/2019_04_01_ner/NER.pdf)
 * 2019-03-25 - Artykuł na ACL - Dominika Basaj i Alicja Gosiewska.
 * 2019-03-18 - [ExplainPrediction & sales example - Mateusz Staniak](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2019/2019_03_18_b2b/prezentacja_marzec.pdf)
