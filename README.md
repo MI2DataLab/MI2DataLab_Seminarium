@@ -16,7 +16,7 @@ Mondays, 10:30 @ MI2 DataLab (room 044, Faculty of Mathematics and Information S
 * 2019-06-10 - (zaplanowane) Podsumowanie roku 
 * 2019-06-03 - (zaplanowane) Analiza danych marketingowych - Adrian Foltyn
 * 2019-05-27 - (zaplanowane) Adversarial training on text datasets - Kamil Grabowski
-* 2019-05-20 - TBA
+* 2019-05-20 - mini-hackaton dot wizualizacji modeli
 * 2019-05-13 - (zaplanowane) Mikrosegmentacja - Adam Dobrakowski
 * 2019-05-06 - (zaplanowane) Przyczynowość - Mateusz Kobos
 * 2019-04-29 - (zaplanowane) Optymalizacja bayesowska - Michał Burdukiewicz
