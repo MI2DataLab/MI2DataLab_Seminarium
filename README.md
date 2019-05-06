@@ -18,8 +18,8 @@ Mondays, 10:30 @ MI2 DataLab (room 044, Faculty of Mathematics and Information S
 * 2019-05-27 - (zaplanowane) Adversarial training on text datasets - Kamil Grabowski
 * 2019-05-20 - mini-hackaton dot wizualizacji modeli
 * 2019-05-13 - (zaplanowane) Mikrosegmentacja - Adam Dobrakowski
-* 2019-05-06 - (zaplanowane) Przyczynowość - Mateusz Kobos
-* 2019-04-29 - (zaplanowane) Optymalizacja bayesowska - Michał Burdukiewicz
+* 2019-05-06 - Przyczynowość - Mateusz Kobos
+* 2019-04-29 - Optymalizacja bayesowska - Michał Burdukiewicz
 * 2019-04-15 - [Tunability: Importance of Hyperparameters of Machine Learning Algorithms - Alicja Gosiewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2019/2019_04_15_tuning_hyperparameters/tunability.pdf)
 * 2019-04-08 - [Feast](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2019/2019_04_08_feast/feast.pdf) - Przemysław Biecek
 * 2019-04-01 - [Named Entity Recognition - is there a glass ceiling? - Tomasz Stanisławek](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2019/2019_04_01_ner/NER.pdf)
