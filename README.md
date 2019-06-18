@@ -13,7 +13,7 @@ Mondays, 10:30 @ MI2 DataLab (room 044, Faculty of Mathematics and Information S
 
 ### Semestr letni
 
-* 2019-06-10 - (zaplanowane) Podsumowanie roku 
+* 2019-06-10 - Podsumowanie roku 
 * 2019-06-03 - Analiza danych marketingowych - Adrian Foltyn
 * 2019-05-27 - Adversarial training on text datasets - Kamil Grabowski
 * 2019-05-20 - Mini-hackaton dot. wizualizacji modeli
