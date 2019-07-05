@@ -7,4 +7,8 @@
 # Journals
 
 * Foundations and Trends in Machine Learning https://www.nowpublishers.com/MAL/
-
+* Journal of Computational and Graphical Statistics https://www.tandfonline.com/toc/ucgs20/current
+* The R Journal https://journal.r-project.org/
+* Journal of Machine Learning Research http://www.jmlr.org/
+* The Journal of Open Source Software https://joss.theoj.org/
+* Journal of Statistical Software https://www.jstatsoft.org/index
