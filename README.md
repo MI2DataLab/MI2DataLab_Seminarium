@@ -9,6 +9,16 @@ Poniedziałki, 10:30 w MI2 Data Lab
 
 Mondays, 10:30 @ MI2 DataLab (room 044, Faculty of Mathematics and Information Science, Warsaw University of Technology).
 
+## Rok 2019/2020
+
+### Semestr zimowy
+
+* 2019-10-07 
+  - Elo - Kasia Woźnica, Maciej Zwoliński
+  - Funnel plot - Szymon Maksymiuk
+* 2019-09-30 - Seminarium organizacyjne
+
+
 ## Rok 2018/2019
 
 ### Semestr letni
