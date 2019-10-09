@@ -14,7 +14,7 @@ Mondays, 10:00 @ MI2 DataLab (room 044, Faculty of Mathematics and Information S
 ### Semestr zimowy
 
 * 2019-10-07 
-  - Elo - Kasia Woźnica, Maciej Zwoliński
+  - [Elo - Kasia Woźnica](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2019/2019_10_07_elo/2019_10_07_elo.pdf)
   - Funnel plot - Szymon Maksymiuk
 * 2019-09-30 - Seminarium organizacyjne
 
