@@ -4,10 +4,10 @@ Materials from the weekly seminar of MI^2 DataLab group.
 
 Termin seminarium:
 
-Poniedziałki, 10:30 w MI2 Data Lab 
+Poniedziałki, 10:00 w MI2 Data Lab 
 (sala 044 na MiNI PW).
 
-Mondays, 10:30 @ MI2 DataLab (room 044, Faculty of Mathematics and Information Science, Warsaw University of Technology).
+Mondays, 10:00 @ MI2 DataLab (room 044, Faculty of Mathematics and Information Science, Warsaw University of Technology).
 
 ## Rok 2019/2020
 
