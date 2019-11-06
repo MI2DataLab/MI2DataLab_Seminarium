@@ -13,7 +13,7 @@ Mondays, 10:00 @ MI2 DataLab (room 044, Faculty of Mathematics and Information S
 
 ### Semestr zimowy
 * 2019-10-28 - [Inpainting - Weronika Hryniewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2019/2019_10_28_inpainting/2019_10_28_Inpainting.pdf)
-* 2019-10-21 - Analiza dźwięku - Piotr Czarnecki
+* 2019-10-21 - [Analiza dźwięku - Piotr Czarnecki](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2019/2019_10_21_analiza%20dzwieku/2019_10_21_analiza_dzwieku.pdf)
 * 2019-10-07 
   - [Elo - Kasia Woźnica](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2019/2019_10_07_elo/2019_10_07_elo.pdf)
   - [Funnel plot - Szymon Maksymiuk](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2019/2019_10_07_funnel_plot/2019_10_07_funnel_plot.pdf)
