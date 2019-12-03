@@ -13,6 +13,9 @@ Mondays, 10:00 @ MI2 DataLab (room 044, Faculty of Mathematics and Information S
 
 ### Semestr zimowy
 
+* 2019-12-02 
+  - [Multiple Defaults - Kasia Woźnica](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2019/2019_12_02_multiple_defaults/2019_12_02_multiple_defaults.pdf)
+  - Michał Kuźba
 * 2019-11-25 - [Neural Machine Translation: achievements, challenges and the way forward - Barbara Rychalska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2019/2019_11_25_Neural_Machine_Translation/2019_11_25_Neural_Machine_Translation.pdf)
 * 2019-11-18 - [CONLL & EMNLP - Tomasz Stanisławek](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2019/2019_11_18_conll_and_emnlp/2019_11_18_conll_and_emnlp.pdf)
 * 2019-10-28 - [Inpainting - Weronika Hryniewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2019/2019_10_28_inpainting/2019_10_28_Inpainting.pdf)
