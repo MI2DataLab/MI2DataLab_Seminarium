@@ -13,7 +13,7 @@ Mondays, 10:00 @ MI2 DataLab (room 044, Faculty of Mathematics and Information S
 
 ### Semestr zimowy
 
-* 2019-12-16 - Barbara Rychalska
+* 2019-12-16 - Podsumowanie roku 
 * 2019-12-09 - How can we discover a biomarker for Chronic Fatigue Syndrome? - Nuno Sepúlveda
 * 2019-12-02 
   - [Multiple Defaults - Kasia Woźnica](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2019/2019_12_02_multiple_defaults/2019_12_02_multiple_defaults.pdf)
