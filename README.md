@@ -12,7 +12,7 @@ Mondays, 10:00 @ MI2 DataLab (room 044, Faculty of Mathematics and Information S
 ## Rok 2019/2020
 
 ### Semestr zimowy
-
+* 2020-01-13 - [ARA: accurate, reliable and active histopathological image classification framework with Bayesian deep learning - Łukasz Rączkowski](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_01_13_ARA/2020_01_13_ARA.pdf)
 * 2019-12-16 - Podsumowanie roku 
 * 2019-12-09 - How can we discover a biomarker for Chronic Fatigue Syndrome? - Nuno Sepúlveda
 * 2019-12-02 
