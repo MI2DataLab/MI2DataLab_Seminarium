@@ -12,7 +12,12 @@ Mondays, 10:00 @ MI2 DataLab (room 044, Faculty of Mathematics and Information S
 ## Rok 2019/2020
 
 ### Semestr zimowy
-* 2020-01-20 - The World of Decisions - Stanisław Łaniewski
+* 2020-01-27
+  - flashlight czyli prześwietlanie czarnych skrzynek - Alicja Gosiewska
+  - - Kasia Kobylińska
+* 2020-01-20 
+  - The World of Decisions - Stanisław Łaniewski
+  - ACL, ICONIP - Barbara Rychalska, Dominika Basaj
 * 2020-01-13 - [ARA: accurate, reliable and active histopathological image classification framework with Bayesian deep learning - Łukasz Rączkowski](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_01_13_ARA/2020_01_13_ARA.pdf)
 * 2019-12-16 - Podsumowanie roku 
 * 2019-12-09 - How can we discover a biomarker for Chronic Fatigue Syndrome? - Nuno Sepúlveda
