@@ -13,8 +13,8 @@ Mondays, 10:00 @ MI2 DataLab (room 044, Faculty of Mathematics and Information S
 
 ### Semestr zimowy
 * 2020-01-27
-  - flashlight czyli prześwietlanie czarnych skrzynek - Alicja Gosiewska
-  - - Kasia Kobylińska
+  - [flashlight czyli prześwietlanie czarnych skrzynek - Alicja Gosiewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_01_27_flashlight/2020_01_27_flashlight.pdf)
+  - [Wyjaśnialny ML w naukach medycznych - Kasia Kobylińska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_01_27_ML_nauki_medyczne/2020_01_27_ML_nauki_medyczne.pdf)
 * 2020-01-20 
   - The World of Decisions - Stanisław Łaniewski
   - ACL, ICONIP - Barbara Rychalska, Dominika Basaj
