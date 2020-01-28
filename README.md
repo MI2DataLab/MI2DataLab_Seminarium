@@ -16,7 +16,7 @@ Mondays, 10:00 @ MI2 DataLab (room 044, Faculty of Mathematics and Information S
   - [flashlight czyli prześwietlanie czarnych skrzynek - Alicja Gosiewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_01_27_flashlight/2020_01_27_flashlight.pdf)
   - [Wyjaśnialny ML w naukach medycznych - Kasia Kobylińska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_01_27_ML_nauki_medyczne/2020_01_27_ML_nauki_medyczne.pdf)
 * 2020-01-20 
-  - The World of Decisions - Stanisław Łaniewski
+  - [The World of Decisions - Stanisław Łaniewski](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2020/2020_01_20_The_World_of_Decision/2020_01_20_The_World_of_Decision.pdf)
   - ACL, ICONIP - Barbara Rychalska, Dominika Basaj
 * 2020-01-13 - [ARA: accurate, reliable and active histopathological image classification framework with Bayesian deep learning - Łukasz Rączkowski](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_01_13_ARA/2020_01_13_ARA.pdf)
 * 2019-12-16 - Podsumowanie roku 
