@@ -11,6 +11,29 @@ Mondays, 10:00 @ MI2 DataLab (room 044, Faculty of Mathematics and Information S
 
 ## Rok 2019/2020
 
+### Semestr letni
+
+* 2020-06-18
+* 2020-06-08
+* 2020-06-01
+* 2020-05-25
+* 2020-05-18
+* 2020-05-11
+* 2020-05-04
+* 2020-04-27
+* 2020-04-20
+* 2020-04-06
+* 2020-03-30
+* 2020-03-23
+* 2020-03-16
+* 2020-03-09
+* 2020-03-02
+* 2020-02-24
+
+
+
+
+
 ### Semestr zimowy
 * 2020-01-27
   - [flashlight czyli prześwietlanie czarnych skrzynek - Alicja Gosiewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_01_27_flashlight/2020_01_27_flashlight.pdf)
