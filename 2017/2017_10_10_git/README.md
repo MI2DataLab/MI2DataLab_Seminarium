@@ -1,8 +1,8 @@
 # Git, GitHub
 
-## [Top 10 reguł - GitHub](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2017_10_10_git/zasady_github.md)
+## [Top 10 reguł - GitHub](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2017/2017_10_10_git/zasady_github.md)
 
-## [Prezentacja](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2017_10_10_git/Git.pdf)
+## [Prezentacja](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2017/2017_10_10_git/Git.pdf)
 
 ## Do poczytania
 * [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159)
