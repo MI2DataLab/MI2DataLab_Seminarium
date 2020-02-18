@@ -21,14 +21,14 @@ Mondays, 10:00 @ MI2 DataLab (room 044, Faculty of Mathematics and Information S
 * 2020-05-11
 * 2020-05-04
 * 2020-04-27
-* 2020-04-20
-* 2020-04-06
-* 2020-03-30
-* 2020-03-23
-* 2020-03-16
-* 2020-03-09
-* 2020-03-02
-* 2020-02-24
+* 2020-04-20 - Podsumowanie NIAM 2020
+* 2020-04-06 - Podsumowanie warsztatów OpenML i MLR3 - Przemysław Biecek
+* 2020-03-30 - Sieci neuronowe - Dominika Basaj
+* 2020-03-23 - 
+* 2020-03-16 - The Mythos of Model Interpretability - Kasia Woźnica, Anna Kozak
+* 2020-03-09 - NLP: Current trends in language modelling and transfer learning - Tomasz Stanisławek
+* 2020-03-02 -  - Alicja Gosiewska 
+* 2020-02-24 - Wyjaśnienia sieci ARA - Weronika Hryniewska
 
 
 
