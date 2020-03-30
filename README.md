@@ -23,7 +23,7 @@ Mondays, 10:00 @ MI2 DataLab (room 044, Faculty of Mathematics and Information S
 * 2020-04-27
 * 2020-04-20 - 
 * 2020-04-06 - Sieci neuronowe - Dominika Basaj
-* 2020-03-30 - [The Mythos of Model Interpretability - Kasia Woźnica, Anna Kozak](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_03_30_XAI/2020_03_30.pdf)
+* 2020-03-30 - [The Mythos of Model Interpretability - Kasia Woźnica, Anna Kozak](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_03_30_XAI/2020_03_30_XAI.pdf)
 * 2020-03-23 - [AI Explainability 360 by IBM - Michał Kuźba](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_03_23_AIX360/2020_03_23_AIX360.pdf)
 * 2020-03-09 - [NLP: Current trends in language modelling and transfer learning - Tomasz Stanisławek](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_03_09_NLP/2020_03_09_NLP.pdf)
 * 2020-03-02 - [Lifting Interpretability-Performance Trade-off via Automated Feature Engineering (SAFE) - Alicja Gosiewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_03_02_SAFE/2020_03_02_SAFE.pdf)
