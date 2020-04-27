@@ -18,10 +18,19 @@ Mondays, 10:00 @ MI2 DataLab (room 044, Faculty of Mathematics and Information S
 * 2020-06-01
 * 2020-05-25
 * 2020-05-18
+  - Istotność hiperparametrów - Kasia Woźnica
+  - Pretrained Transformers Improve Out-of-Distribution Robustness - Dominika Basaj
 * 2020-05-11
+  - Benchmart dla NLP ERASER - Alicja Gosiewska
+  - Weight Poisoning Attacks on Pre-trained Models - Tomasz Stanisławek
 * 2020-05-04
-* 2020-04-27
-* 2020-04-20 - 
+  - A Survey on Explainable Artificial Intelligence (XAI): Towards Medical XAI - Weronika Hryniewska
+  - Semi-Supervised Classification with Graph Convolutional Networks - Piotr Czarnecki 
+* 2020-04-27 
+  - [Learning Disentangled Representations for Recommendation - Barbara Rychalska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_04_27_macridvae/2020_04_27_macridvae.pdf
+)
+  - [AI dla raka płuc - Katarzyna Kobylińska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_04_27_AI_dla_raka_pluc/2020_04_27_AI_dla_raka_pluc.pdf
+)
 * 2020-04-06 - [Visualizing and Measuring the Geometry of BERT - Dominika Basaj](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_04_06_BERT_geometry/2020_04_06_BERT_geometry.pdf)
 * 2020-03-30 - [The Mythos of Model Interpretability - Kasia Woźnica, Anna Kozak](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_03_30_XAI/2020_03_30_XAI.pdf)
 * 2020-03-23 - [AI Explainability 360 by IBM - Michał Kuźba](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_03_23_AIX360/2020_03_23_AIX360.pdf)
