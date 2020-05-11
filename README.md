@@ -22,10 +22,9 @@ Mondays, 10:00 @ MI2 DataLab (room 044, Faculty of Mathematics and Information S
   - Pretrained Transformers Improve Out-of-Distribution Robustness - Dominika Basaj
 * 2020-05-11
   - [Benchmart dla NLP ERASER - Alicja Gosiewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_05_11_ERASER/2020_05_11_ERASER.pdf)
-  - Weight Poisoning Attacks on Pre-trained Models - Tomasz Stanisławek
+  - [Weight Poisoning Attacks on Pre-trained Models - Tomasz Stanisławek](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_05_11_attacks/2020_05_11_attacks.pdf)
 * 2020-05-04
   - A Survey on Explainable Artificial Intelligence (XAI): Towards Medical XAI - Weronika Hryniewska
-  - Semi-Supervised Classification with Graph Convolutional Networks - Piotr Czarnecki 
 * 2020-04-27 
   - [Learning Disentangled Representations for Recommendation - Barbara Rychalska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_04_27_macridvae/2020_04_27_macridvae.pdf
 )
