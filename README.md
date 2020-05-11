@@ -21,7 +21,7 @@ Mondays, 10:00 @ MI2 DataLab (room 044, Faculty of Mathematics and Information S
   - Istotność hiperparametrów - Kasia Woźnica
   - Pretrained Transformers Improve Out-of-Distribution Robustness - Dominika Basaj
 * 2020-05-11
-  - Benchmart dla NLP ERASER - Alicja Gosiewska
+  - [Benchmart dla NLP ERASER - Alicja Gosiewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_05_11_ERASER/2020_05_11_ERASER.pdf)
   - Weight Poisoning Attacks on Pre-trained Models - Tomasz Stanisławek
 * 2020-05-04
   - A Survey on Explainable Artificial Intelligence (XAI): Towards Medical XAI - Weronika Hryniewska
