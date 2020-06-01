@@ -15,7 +15,7 @@ Mondays, 10:00 @ MI2 DataLab (room 044, Faculty of Mathematics and Information S
 
 * 2020-06-18
 * 2020-06-08
-* 2020-06-01 Agnieszka Mikołajczyk
+* 2020-06-01  [Detecting and overcoming bias in data with explainable artificial intelligence - Agnieszka Mikołajczyk](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_06_01_detecting_and_overcoming_bias_in_data/2020_06_01_detecting_and_overcoming_bias_in_data.pdf)
 * 2020-05-25 Piotr Czarnecki
 * 2020-05-18
   - [Hyperparameter importance - Kasia Woźnica](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_05_18_hyperparameter_importance/2020_05_18_hyperparameter_importance.pdf)
