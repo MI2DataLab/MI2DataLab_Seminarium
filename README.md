@@ -13,9 +13,9 @@ Mondays, 10:00 @ MI2 DataLab (room 044, Faculty of Mathematics and Information S
 
 ### Semestr letni
 
-* 2020-06-18
-* 2020-06-08
-* 2020-06-01  [Detecting and overcoming bias in data with explainable artificial intelligence - Agnieszka Mikołajczyk](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_06_01_detecting_and_overcoming_bias_in_data/2020_06_01_detecting_and_overcoming_bias_in_data.pdf)
+
+* 2020-06-08 [ - Przemysław Biecek]()
+* 2020-06-01 [Detecting and overcoming bias in data with explainable artificial intelligence - Agnieszka Mikołajczyk](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_06_01_detecting_and_overcoming_bias_in_data/2020_06_01_detecting_and_overcoming_bias_in_data.pdf)
 * 2020-05-25 [Graph Convolutional Networks - Piotr Czarnecki](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_05_25_graph_convolutional_networks/2020_05_25_graph_convolutional_networks.pdf)
 * 2020-05-18
   - [Hyperparameter importance - Kasia Woźnica](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_05_18_hyperparameter_importance/2020_05_18_hyperparameter_importance.pdf)
@@ -24,7 +24,7 @@ Mondays, 10:00 @ MI2 DataLab (room 044, Faculty of Mathematics and Information S
   - [Benchmart dla NLP ERASER - Alicja Gosiewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_05_11_ERASER/2020_05_11_ERASER.pdf)
   - [Weight Poisoning Attacks on Pre-trained Models - Tomasz Stanisławek](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_05_11_attacks/2020_05_11_attacks.pdf)
 * 2020-05-04
-  - A Survey on Explainable Artificial Intelligence (XAI): Towards Medical XAI - Weronika Hryniewska
+  - [A Survey on Explainable Artificial Intelligence (XAI): Towards Medical XAI - Weronika Hryniewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_05_04_prostate_biopsies/2020_05_04_prostate_biopsies.pdf)
 * 2020-04-27 
   - [Learning Disentangled Representations for Recommendation - Barbara Rychalska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_04_27_macridvae/2020_04_27_macridvae.pdf
 )
