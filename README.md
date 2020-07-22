@@ -14,7 +14,7 @@ Mondays, 10:00 @ MI2 DataLab (room 044, Faculty of Mathematics and Information S
 ### Semestr letni
 
 
-* 2020-06-08 [ - Przemysław Biecek]()
+* 2020-06-08 [XAI for modelling of covid-19 mortality for the Polish population - Przemysław Biecek](https://github.com/MOCOS-COVID19/mortality)
 * 2020-06-01 [Detecting and overcoming bias in data with explainable artificial intelligence - Agnieszka Mikołajczyk](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_06_01_detecting_and_overcoming_bias_in_data/2020_06_01_detecting_and_overcoming_bias_in_data.pdf)
 * 2020-05-25 [Graph Convolutional Networks - Piotr Czarnecki](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_05_25_graph_convolutional_networks/2020_05_25_graph_convolutional_networks.pdf)
 * 2020-05-18
