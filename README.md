@@ -12,6 +12,7 @@ Mondays, 10:00 @ MI2 DataLab (room 044, Faculty of Mathematics and Information S
 ## Rok 2019/2020
 
 ### Semestr letni
+* 2020-09-11 [Semantyczne modelowanie danych doświadczalnych i jego zastosowanie w analizie wyników fenotypowania roślin - Hanna Ćwiek-Kupczyńska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_09_11_semantyczne_modelowanie_danych_doswiadczalnych/2020_09_11_semantyczne_modelowanie_danych_doswiadczalnych.pdf)
 * 2020-08-03 [Review of chest imaging findings in COVID-19 - Weronika Hryniewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_08_03_review_chest_covid19/2020_08_03_review_chest_covid19.pdf)
 * 2020-07-28 [Introduction to fairness - basic concepts and implementation of fairmodels package - Jakub Wiśniewski](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_07_28_fairmodels/2020_07_28_fairmodels.pdf)
 * 2020-06-08 [XAI for modelling of covid-19 mortality for the Polish population - Przemysław Biecek](https://github.com/MOCOS-COVID19/mortality)
