@@ -9,6 +9,26 @@ Poniedziałki, 10:00 w MI2 Data Lab
 
 Mondays, 10:00 @ MI2 DataLab (room 044, Faculty of Mathematics and Information Science, Warsaw University of Technology).
 
+## Rok 2020/2021
+
+### Semestr zimowy
+
+* 2021-01-25
+* 2021-01-18
+* 2021-01-11
+* 2020-12-21
+* 2020-12-14
+* 2020-12-07
+* 2020-11-30
+* 2020-11-23
+* 2020-11-16
+* 2020-11-09
+* 2020-11-02
+* 2020-10-26
+* 2020-10-19
+* 2020-10-12
+* 2020-10-05 - Seminarium organizacyjne
+
 ## Rok 2019/2020
 
 ### Semestr letni
