@@ -26,11 +26,11 @@ Mondays, 10:00 @ MI2 DataLab (room 044, Faculty of Mathematics and Information S
 * 2020-11-02
 * 2020-10-26
 * 2020-10-19
-- Piotr Piątyszek
-- fairmodels- flexible tool for bias detection, visualization, and mitigation - Jakub Wiśniewski 
+  - Piotr Piątyszek
+  - fairmodels- flexible tool for bias detection, visualization, and mitigation - Jakub Wiśniewski 
 * 2020-10-12
-- Hubert Baniecki
-- Landscape of R packages for eXplainable Artificial Intelligence - Szymon Maksymiuk
+  - Hubert Baniecki
+  - Landscape of R packages for eXplainable Artificial Intelligence - Szymon Maksymiuk
 * 2020-10-05 - Seminarium organizacyjne
 
 ## Rok 2019/2020
