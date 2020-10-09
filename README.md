@@ -2,12 +2,11 @@
 
 Materials from the weekly seminar of MI^2 DataLab group.
 
-Termin seminarium:
+Join us at http://meet.google.com/rbo-kgmm-orb
 
-Poniedziałki, 10:00 w MI2 Data Lab 
-(sala 044 na MiNI PW).
+We meet every Monday, 10:00 online or at MI2 DataLab (room 044, Faculty of Mathematics and Information Science, Warsaw University of Technology).
 
-Mondays, 10:00 @ MI2 DataLab (room 044, Faculty of Mathematics and Information Science, Warsaw University of Technology).
+Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiNI PW).
 
 ## Rok 2020/2021
 
