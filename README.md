@@ -1,4 +1,4 @@
-# Materiały z Seminarium Badawczego prowadzonego w MI^2 DataLab
+# Materiały z Seminarium Badawczego prowadzonego w MI^2 DataLab  <img src="prezentacja.png" align="right" width="300"/>
 
 Materials from the weekly seminar of MI^2 DataLab group.
 
