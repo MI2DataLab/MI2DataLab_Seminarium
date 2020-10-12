@@ -28,8 +28,8 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
   - Arena - the universal dashboard for models exploration & Telemetry - API for collecting anonymized data from DrWhy.AI tools - Piotr Piątyszek
   - fairmodels - flexible tool for bias detection, visualization, and mitigation - Jakub Wiśniewski 
 * 2020-10-12
-  - Hubert Baniecki
-  - Landscape of R packages for eXplainable Artificial Intelligence - Szymon Maksymiuk
+  - [Autumn update - Hubert Baniecki](https://sway.office.com/zfC1GiJUk9mDc0f1?ref=Link )
+  - [Landscape of R packages for eXplainable Artificial Intelligence - Szymon Maksymiuk](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_10_12_Landscape_of_R_packages_for_eXplainable_Artificial_Intelligence/2020_10_12_Landscape_of_R_packages_for_eXplainable_Artificial_Intelligence.pdf)
 * 2020-10-05 - Seminarium organizacyjne
 
 ## Rok 2019/2020
