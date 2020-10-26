@@ -20,8 +20,8 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 * 2020-12-07
 * 2020-11-30
 * 2020-11-23
-* 2020-11-16
-* 2020-11-09 Interpretable Machine Learning - State-of-the-Art and Challenges - Alicja Gosiewska
+* 2020-11-16 Interpretable Machine Learning - State-of-the-Art and Challenges - Alicja Gosiewska
+* 2020-11-09 XAI in medicine - Katarzyna Kobylińska
 * 2020-11-02 Graph-based Recommendation Systems - Barbara Rychalska
 * 2020-10-26 [2020 NLP trends](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_10_26_NLP/2020_10_26_nlp_trend_2020.pdf) [& UniCase - Rethinking Casing in Language Models - Tomasz Stanisławek](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_10_26_NLP/2020_10_26_UniCase.pdf)
 * 2020-10-19
