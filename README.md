@@ -19,7 +19,7 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 * 2020-12-14
 * 2020-12-07
 * 2020-11-30
-* 2020-11-23
+* 2020-11-23 Looking to listen: Audio separation and localization with visual clues - Piotr Czarnecki
 * 2020-11-16 [Interpretable Machine Learning with application to Credit Scoring - Alicja Gosiewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_11_16_Interpretable_Machine_Learning_with_application_to_Credit_Scoring/2020_11_16_Interpretable_Machine_Learning_with_application_to_Credit_Scoring.pdf)
 * 2020-11-09 [XAI in medicine - Katarzyna Kobylińska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_11_09_xai_in_medicine/2020_11_09_xai_in_medicine.pdf)
 * 2020-11-02 [Graph-based Recommendation Systems - Barbara Rychalska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_11_02_Graph-based_Recommendation_Systems/2020_11_02_Graph-based_Recommendation_Systems.pdf) 
@@ -30,7 +30,7 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 * 2020-10-12
   - [Autumn update - Hubert Baniecki](https://sway.office.com/zfC1GiJUk9mDc0f1?ref=Link )
   - [Landscape of R packages for eXplainable Artificial Intelligence - Szymon Maksymiuk](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_10_12_Landscape_of_R_packages_for_eXplainable_Artificial_Intelligence/2020_10_12_Landscape_of_R_packages_for_eXplainable_Artificial_Intelligence.pdf)
-* 2020-10-05 - Seminarium organizacyjne
+* 2020-10-05 Seminarium organizacyjne
 
 ## Rok 2019/2020
 
@@ -54,12 +54,12 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 )
   - [AI dla raka płuc - Katarzyna Kobylińska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_04_27_AI_dla_raka_pluc/2020_04_27_AI_dla_raka_pluc.pdf
 )
-* 2020-04-06 - [Visualizing and Measuring the Geometry of BERT - Dominika Basaj](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_04_06_BERT_geometry/2020_04_06_BERT_geometry.pdf)
-* 2020-03-30 - [The Mythos of Model Interpretability - Kasia Woźnica, Anna Kozak](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_03_30_XAI/2020_03_30_XAI.pdf)
-* 2020-03-23 - [AI Explainability 360 by IBM - Michał Kuźba](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_03_23_AIX360/2020_03_23_AIX360.pdf)
-* 2020-03-09 - [NLP: Current trends in language modelling and transfer learning - Tomasz Stanisławek](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_03_09_NLP/2020_03_09_NLP.pdf)
-* 2020-03-02 - [Lifting Interpretability-Performance Trade-off via Automated Feature Engineering (SAFE) - Alicja Gosiewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_03_02_SAFE/2020_03_02_SAFE.pdf)
-* 2020-02-24 - [Wyjaśnienia sieci ARA - Weronika Hryniewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_02_24_ARA_XAI/2020_02_24_ARA_XAI.pdf)
+* 2020-04-06 [Visualizing and Measuring the Geometry of BERT - Dominika Basaj](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_04_06_BERT_geometry/2020_04_06_BERT_geometry.pdf)
+* 2020-03-30 [The Mythos of Model Interpretability - Kasia Woźnica, Anna Kozak](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_03_30_XAI/2020_03_30_XAI.pdf)
+* 2020-03-23 [AI Explainability 360 by IBM - Michał Kuźba](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_03_23_AIX360/2020_03_23_AIX360.pdf)
+* 2020-03-09 [NLP: Current trends in language modelling and transfer learning - Tomasz Stanisławek](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_03_09_NLP/2020_03_09_NLP.pdf)
+* 2020-03-02 [Lifting Interpretability-Performance Trade-off via Automated Feature Engineering (SAFE) - Alicja Gosiewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_03_02_SAFE/2020_03_02_SAFE.pdf)
+* 2020-02-24 [Wyjaśnienia sieci ARA - Weronika Hryniewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_02_24_ARA_XAI/2020_02_24_ARA_XAI.pdf)
 
 
 
@@ -72,20 +72,20 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 * 2020-01-20 
   - [The World of Decisions - Stanisław Łaniewski](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2020/2020_01_20_The_World_of_Decision/2020_01_20_The_World_of_Decision.pdf)
   - [ACL, ICONIP - Barbara Rychalska, Dominika Basaj](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2020/2020_01_20_ACL_ICONIP/2020_01_20_ACL_ICONIP.pdf)
-* 2020-01-13 - [ARA: accurate, reliable and active histopathological image classification framework with Bayesian deep learning - Łukasz Rączkowski](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_01_13_ARA/2020_01_13_ARA.pdf)
-* 2019-12-16 - Podsumowanie roku 
-* 2019-12-09 - How can we discover a biomarker for Chronic Fatigue Syndrome? - Nuno Sepúlveda
+* 2020-01-13 [ARA: accurate, reliable and active histopathological image classification framework with Bayesian deep learning - Łukasz Rączkowski](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_01_13_ARA/2020_01_13_ARA.pdf)
+* 2019-12-16 Podsumowanie roku 
+* 2019-12-09 How can we discover a biomarker for Chronic Fatigue Syndrome? - Nuno Sepúlveda
 * 2019-12-02 
   - [Multiple Defaults - Kasia Woźnica](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2019/2019_12_02_multiple_defaults/2019_12_02_multiple_defaults.pdf)
   - [Internships - Michał Kuźba](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2019/2019_12_02_internships/2019_12_02_internships.pdf)
-* 2019-11-25 - [Neural Machine Translation: achievements, challenges and the way forward - Barbara Rychalska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2019/2019_11_25_Neural_Machine_Translation/2019_11_25_Neural_Machine_Translation.pdf)
-* 2019-11-18 - [CONLL & EMNLP - Tomasz Stanisławek](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2019/2019_11_18_conll_and_emnlp/2019_11_18_conll_and_emnlp.pdf)
-* 2019-10-28 - [Inpainting - Weronika Hryniewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2019/2019_10_28_inpainting/2019_10_28_Inpainting.pdf)
-* 2019-10-21 - [Analiza dźwięku - Piotr Czarnecki](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2019/2019_10_21_analiza%20dzwieku/2019_10_21_analiza_dzwieku.pdf)
+* 2019-11-25 [Neural Machine Translation: achievements, challenges and the way forward - Barbara Rychalska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2019/2019_11_25_Neural_Machine_Translation/2019_11_25_Neural_Machine_Translation.pdf)
+* 2019-11-18 [CONLL & EMNLP - Tomasz Stanisławek](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2019/2019_11_18_conll_and_emnlp/2019_11_18_conll_and_emnlp.pdf)
+* 2019-10-28 [Inpainting - Weronika Hryniewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2019/2019_10_28_inpainting/2019_10_28_Inpainting.pdf)
+* 2019-10-21 [Analiza dźwięku - Piotr Czarnecki](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2019/2019_10_21_analiza%20dzwieku/2019_10_21_analiza_dzwieku.pdf)
 * 2019-10-07 
   - [Elo - Kasia Woźnica](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2019/2019_10_07_elo/2019_10_07_elo.pdf)
   - [Funnel plot - Szymon Maksymiuk](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2019/2019_10_07_funnel_plot/2019_10_07_funnel_plot.pdf)
-* 2019-09-30 - Seminarium organizacyjne
+* 2019-09-30 Seminarium organizacyjne
 
 
 ## Rok 2018/2019
