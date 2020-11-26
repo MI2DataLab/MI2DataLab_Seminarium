@@ -15,10 +15,10 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 * 2021-01-25
 * 2021-01-18
 * 2021-01-11
-* 2020-12-21
-* 2020-12-14
-* 2020-12-07
-* 2020-11-30
+* 2020-12-21 Podsumowanie roku 2020
+* 2020-12-14 Methods for better understanding of meta-models - Kasia Woźnica
+* 2020-12-07 Responsible AI & H2O - Jean-Matthieu SCHERTZER
+* 2020-11-30 XAI for image based COVID-19 detection - Weronika Hryniewska
 * 2020-11-23 Looking to listen: Audio separation and localization with visual clues - Piotr Czarnecki
 * 2020-11-16 [Interpretable Machine Learning with application to Credit Scoring - Alicja Gosiewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_11_16_Interpretable_Machine_Learning_with_application_to_Credit_Scoring/2020_11_16_Interpretable_Machine_Learning_with_application_to_Credit_Scoring.pdf)
 * 2020-11-09 [XAI in medicine - Katarzyna Kobylińska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_11_09_xai_in_medicine/2020_11_09_xai_in_medicine.pdf)
