@@ -15,10 +15,10 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 * 2021-01-25
 * 2021-01-18
 * 2021-01-11 Adversarial attacks on Explainable AI methods - Hubert Baniecki, Wojciech Kretowicz
-* 2020-12-21 Podsumowanie roku 2020
+* 2020-12-21 *Podsumowanie roku 2020*
 * 2020-12-14 [Towards explainable meta-learning - Kasia Woźnica](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_12_14_Towards_explainable_meta-learning/2020_12_14_Towards_explainable_meta-learning.pdf) 
-* 2020-12-07 Responsible AI & H2O - Jean-Matthieu SCHERTZER
-* 2020-11-30 XAI for image based COVID-19 detection - Weronika Hryniewska
+* 2020-12-07 *Responsible AI & H2O - Jean-Matthieu SCHERTZER*
+* 2020-11-30 [XAI for image based COVID-19 detection - Weronika Hryniewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_11_30_XAI_for_image_based_COVID_19_detection__works/2020_11_30_XAI_for_image_based_COVID_19_detection__works.pdf)
 * 2020-11-23 [Looking to listen: Audio separation and localization with visual clues - Piotr Czarnecki](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_11_23_Looking_to_listen_Audio_separation_and_localization_with_visual_clues/2020_11_23_Looking_to_listen_Audio_separation_and_localization_with_visual_clues.pdf)
 * 2020-11-16 [Interpretable Machine Learning with application to Credit Scoring - Alicja Gosiewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_11_16_Interpretable_Machine_Learning_with_application_to_Credit_Scoring/2020_11_16_Interpretable_Machine_Learning_with_application_to_Credit_Scoring.pdf)
 * 2020-11-09 [XAI in medicine - Katarzyna Kobylińska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_11_09_xai_in_medicine/2020_11_09_xai_in_medicine.pdf)
@@ -30,7 +30,7 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 * 2020-10-12
   - [Autumn update - Hubert Baniecki](https://sway.office.com/zfC1GiJUk9mDc0f1?ref=Link )
   - [Landscape of R packages for eXplainable Artificial Intelligence - Szymon Maksymiuk](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_10_12_Landscape_of_R_packages_for_eXplainable_Artificial_Intelligence/2020_10_12_Landscape_of_R_packages_for_eXplainable_Artificial_Intelligence.pdf)
-* 2020-10-05 Seminarium organizacyjne
+* 2020-10-05 *Seminarium organizacyjne*
 
 ## Rok 2019/2020
 
@@ -73,8 +73,8 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
   - [The World of Decisions - Stanisław Łaniewski](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2020/2020_01_20_The_World_of_Decision/2020_01_20_The_World_of_Decision.pdf)
   - [ACL, ICONIP - Barbara Rychalska, Dominika Basaj](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/tree/master/2020/2020_01_20_ACL_ICONIP/2020_01_20_ACL_ICONIP.pdf)
 * 2020-01-13 [ARA: accurate, reliable and active histopathological image classification framework with Bayesian deep learning - Łukasz Rączkowski](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_01_13_ARA/2020_01_13_ARA.pdf)
-* 2019-12-16 Podsumowanie roku 
-* 2019-12-09 How can we discover a biomarker for Chronic Fatigue Syndrome? - Nuno Sepúlveda
+* 2019-12-16 *Podsumowanie roku* 
+* 2019-12-09 *How can we discover a biomarker for Chronic Fatigue Syndrome? - Nuno Sepúlveda*
 * 2019-12-02 
   - [Multiple Defaults - Kasia Woźnica](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2019/2019_12_02_multiple_defaults/2019_12_02_multiple_defaults.pdf)
   - [Internships - Michał Kuźba](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2019/2019_12_02_internships/2019_12_02_internships.pdf)
@@ -85,7 +85,7 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 * 2019-10-07 
   - [Elo - Kasia Woźnica](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2019/2019_10_07_elo/2019_10_07_elo.pdf)
   - [Funnel plot - Szymon Maksymiuk](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2019/2019_10_07_funnel_plot/2019_10_07_funnel_plot.pdf)
-* 2019-09-30 Seminarium organizacyjne
+* 2019-09-30 *Seminarium organizacyjne*
 
 
 ## Rok 2018/2019
