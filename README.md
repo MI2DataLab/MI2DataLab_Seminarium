@@ -13,7 +13,7 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 ### Semestr zimowy
 
 * 2021-01-25
-* 2021-01-18 Transfer Learning of pre-trained CNN representations - Michał Sokólski
+* 2021-01-18 [Transfer Learning of pre-trained CNN representations - Michał Sokólski](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_01_18_transfer_learning_of_pre-trained_cnn_representations/2021_01_18_transfer_learning_of_pre-trained_cnn_representations.pdf)
 * 2021-01-11 Adversarial attacks on Explainable AI methods - Hubert Baniecki, Wojciech Kretowicz
 * 2020-12-21 *Podsumowanie roku 2020*
 * 2020-12-14 [Towards explainable meta-learning - Kasia Woźnica](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_12_14_Towards_explainable_meta-learning/2020_12_14_Towards_explainable_meta-learning.pdf) 
