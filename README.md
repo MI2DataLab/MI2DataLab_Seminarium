@@ -25,7 +25,7 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 * 2021-03-22
 * 2021-03-15
 * 2021-03-08
-* 2021-03-01
+* 2021-03-01 [Cleora - Barbara Rychalska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_03_01_cleora/2021_03_01_cleora.pdf) 
 * 2021-02-22
 
 ### Semestr zimowy
