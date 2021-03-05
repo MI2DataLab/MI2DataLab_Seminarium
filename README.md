@@ -18,7 +18,7 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 * 2021-05-24 *Weronika Łajewska*
 * 2021-05-17 What Will You Tell Me About the Chart? - Recognition and Description Process - Karolina Seweryn
 * 2021-05-10 *Hubert Baniecki*
-* 2021-04-26
+* 2021-04-26 *Marius Lindauer*
 * 2021-04-19
 * 2021-04-12 *Weronika Hryniewska*
 * 2021-03-29 Pakiet R `sport` przykładowe zastosowanie - Dawid Kałędkowski
