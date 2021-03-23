@@ -22,7 +22,7 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 * 2021-04-19 *MI2DataLab against Covid19*
 * 2021-04-12 *Weronika Hryniewska*
 * 2021-03-29 Pakiet R `sport` przykładowe zastosowanie - Dawid Kałędkowski
-* 2021-03-22 *Piotr Czarnecki*
+* 2021-03-22 [Beyond Fairness: Towards a Just, Equitable, and Accountable Computer Vision - Piotr Czarnecki](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_03_22_beyond_fairness/2021_03_22_beyond_fairness.pdf)
 * 2021-03-15 *Discussion on reviewing conference papers*
 * 2021-03-08 [MIMIC III - Medical Information Mart for Intensive Care - Katarzyna Kobylińska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_03_08_mimic/2021_03_08_mimic.pdf)
 * 2021-03-01 [Cleora - Barbara Rychalska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_03_01_cleora/2021_03_01_cleora.pdf) 
