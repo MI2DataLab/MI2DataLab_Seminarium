@@ -18,7 +18,7 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 * 2021-05-24 *Weronika Łajewska*
 * 2021-05-17 Cross-validation: what does it estimate and how well does it do it? - Alicja Gosiewska
 * 2021-05-10 *Hubert Baniecki*
-* 2021-04-26 *Marius Lindauer*
+* 2021-04-26 [Towards Explainable AutoML: xAutoML - Marius Lindauer](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_04_26_xautoml/2021_04_26_xautoml.pdf)
 * 2021-04-19 *MI2DataLab against Covid19*
 * 2021-04-12 [Generative Adversarial Network in Medical Imaging - Weronika Hryniewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_04_12_GAN/2021_04_12_GAN.pdf)
 * 2021-03-29 [Marginal Attribution by Conditioning on Quantiles - Anna Kozak](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_03_29_MACQ/2021_03_29_MACQ.pdf)
