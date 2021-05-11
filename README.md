@@ -15,7 +15,7 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 * 2021-06-14 
 * 2021-06-07 What Will You Tell Me About the Chart? - Recognition and Description Process - Karolina Seweryn
 * 2021-05-31 *Sebastian Cygert*
-* 2021-05-24 *Weronika Łajewska*
+* 2021-05-24 *Protagonists’ Catcher in Novels - A Dataset and A Tool - Weronika Łajewska*
 * 2021-05-17 Cross-validation: what does it estimate and how well does it do it? - Alicja Gosiewska
 * 2021-05-10 [Monitor wariantów SARS-CoV-2 - Hubert Baniecki, Piotr Piątyszek, Hanna Zdulska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_05_10_monitor/2021_05_10_monitor.pdf)
 * 2021-04-26 [Towards Explainable AutoML: xAutoML - Marius Lindauer](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_04_26_xautoml/2021_04_26_xautoml.pdf)
