@@ -68,7 +68,7 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
   - [Benchmart dla NLP ERASER - Alicja Gosiewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_05_11_ERASER/2020_05_11_ERASER.pdf)
   - [Weight Poisoning Attacks on Pre-trained Models - Tomasz Stanisławek](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_05_11_attacks/2020_05_11_attacks.pdf)
 * 2020-05-04
-  - [A Survey on Explainable Artificial Intelligence (XAI): Towards Medical XAI - Weronika Hryniewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_05_04_prostate_biopsies/2020_05_04_prostate_biopsies.pdf)
+  - [Pathologist-Level Grading of Prostate Biopsies with Artificial Intelligence - Weronika Hryniewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_05_04_prostate_biopsies/2020_05_04_prostate_biopsies.pdf)
 * 2020-04-27 
   - [Learning Disentangled Representations for Recommendation - Barbara Rychalska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2020/2020_04_27_macridvae/2020_04_27_macridvae.pdf
 )
