@@ -12,6 +12,7 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 
 ### Semestr letni
 
+* 2021-06-17 MI2 responsible AI talks - [An artificial intelligence system for predicting the deterioration of COVID-19 patients in the emergency department - Farah Shamout](https://www.nature.com/articles/s41746-021-00453-0) & DeCoviD team
 * 2021-06-14 
 * 2021-06-07 What Will You Tell Me About the Chart? - Recognition and Description Process - Karolina Seweryn
 * 2021-05-31 Robustness in Computer Vision - Sebastian Cygert
