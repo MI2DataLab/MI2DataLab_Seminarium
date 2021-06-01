@@ -15,7 +15,7 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 * 2021-06-17 *MI2 responsible AI talks* - [An artificial intelligence system for predicting the deterioration of COVID-19 patients in the emergency department - Farah Shamout](https://www.nature.com/articles/s41746-021-00453-0) & DeCoviD team
 * 2021-06-14 
 * 2021-06-07 What Will You Tell Me About the Chart? - Recognition and Description Process - Karolina Seweryn
-* 2021-05-31 Robustness in Computer Vision - Sebastian Cygert
+* 2021-05-31 [Robustness in Computer Vision - Sebastian Cygert](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_05_31_robustness_in_computer_vision/2021_05_31_robustness_in_computer_vision.pdf)
 * 2021-05-24 [Protagonists’ Catcher in Novels - A Dataset and A Tool - Weronika Łajewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_05_24_protagonists_catcher_in_novels/2021_05_24_protagonists_catcher_in_novels.pdf)
 * 2021-05-19 [Cross-validation: what does it estimate and how well does it do it? - Alicja Gosiewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_05_19_cv/2021_05_19_cv.pdf)
 * 2021-05-17 [The deriving of a computational approach test for testing equality of several populations’ means in the presence of nuisance parameter - Mustafa Cauvus](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_05_17_mcavus/2021_05_17_mcavus.pdf)
