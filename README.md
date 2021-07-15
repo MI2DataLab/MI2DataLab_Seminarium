@@ -23,8 +23,8 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 	- Stanisław Giziński
 	- Mateusz Grzyb
 * 2021-07-15 
-	- Hubert Baniecki
-	- [Weronika Hryniewska - CVPR](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_07_15_CVPR/2021_07_15_CVPR.pdf)
+	- [i-Algebra: Towards Interactive Interpretability of Deep Neural Networks - Hubert Baniecki](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_07_15_iAlgebra/2021_07_15_iAlgebra.pdf)
+	- [CVPR - Weronika Hryniewska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_07_15_CVPR/2021_07_15_CVPR.pdf)
 
 ------------------------
 
