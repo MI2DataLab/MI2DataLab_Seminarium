@@ -12,6 +12,23 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 
 ### Semestr letni
 
+------------------------
+*Wakacyjny Klub Dyskusyjny, czwartki o 10:00*
+* 2021-08-26
+* 2021-08-19
+* 2021-08-12
+* 2021-08-05
+* 2021-07-29
+* 2021-07-22
+	- Stanisław Giziński
+	- Mateusz Grzyb
+* 2021-07-15 
+	- Hubert Baniecki
+	- Weronika Hryniewska
+
+------------------------
+
+
 * 2021-06-17 *MI2 responsible AI talks* - [An artificial intelligence system for predicting the deterioration of COVID-19 patients in the emergency department - Farah Shamout](https://www.nature.com/articles/s41746-021-00453-0) & DeCoviD team at 1 p.m. 
 * 2021-06-14 *Podsumowanie roku*
 * 2021-06-07 [What Will You Tell Me About the Chart? - Recognition and Description Process - Karolina Seweryn, Katarzyna Lorenc](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_06_07_methods_for_detecting/2021_06_07_methods_for_detecting.pdf)
