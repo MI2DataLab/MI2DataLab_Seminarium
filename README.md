@@ -24,7 +24,7 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 	- Mateusz Grzyb
 * 2021-07-15 
 	- Hubert Baniecki
-	- Weronika Hryniewska
+	- [Weronika Hryniewska - CVPR](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_07_15_cvpr/2021_07_15_cvpr.pdf)
 
 ------------------------
 
