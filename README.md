@@ -21,6 +21,7 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 	- Jakub Wiśniewski
 * 2021-07-29
 	- Mateusz Krzyziński
+	- Zuzanna Trafas
 * 2021-07-22
 	- Stanisław Giziński
 	- Mateusz Grzyb
