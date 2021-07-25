@@ -23,7 +23,7 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 	- Mateusz Krzyziński
 	- Zuzanna Trafas
 * 2021-07-22
-	- Stanisław Giziński
+	- [DVC (Data Version Control) - Stanisław Giziński](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_07_22_DVC/2021_07_22_DVC.pdf)
 	- Mateusz Grzyb
 * 2021-07-15 
 	- [i-Algebra: Towards Interactive Interpretability of Deep Neural Networks - Hubert Baniecki](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_07_15_iAlgebra/2021_07_15_iAlgebra.pdf)
