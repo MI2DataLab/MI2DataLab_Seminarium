@@ -15,6 +15,7 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 ------------------------
 *Wakacyjny Klub Dyskusyjny, czwartki o 10:00*
 * 2021-08-26
+	- Hoang Thien Ly	
 * 2021-08-19
 * 2021-08-12
 * 2021-08-05
