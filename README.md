@@ -14,7 +14,7 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 
 ------------------------
 
-### MI2 Summer CONF August 2, 2021 - [Agenda](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/MI2SummerCONF/MI2SummerCONF.pdf)
+### MI2 Summer CONF August 2, 2021 - [Conference Book](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/MI2SummerCONF/MI2SummerCONF.pdf)
 
 [triplot4python: the remedy for dealing with correlated features in explanations](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/MI2SummerCONF/triplot4python) - *Mateusz Krzyziński , Artur  Żółkowski*
 
