@@ -14,21 +14,21 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 
 ------------------------
 
-#### [MI2 Summer CONF 2021](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/MI2SummerCONF/MI2SummerCONF.pdf)
+### MI2 Summer CONF August 2, 2021 - [Agenda](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/MI2SummerCONF/MI2SummerCONF.pdf)
 
-[triplot4python: the remedy for dealing with correlated features in explanations - *Mateusz Krzyziński , Artur  Żółkowski*](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/MI2SummerCONF/triplot4python)
+[triplot4python: the remedy for dealing with correlated features in explanations](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/MI2SummerCONF/triplot4python) - *Mateusz Krzyziński , Artur  Żółkowski*
 
-[The medLIME algorithm - *Adrianna Grudzień*](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/MI2SummerCONF/medLIME)
+[The medLIME algorithm](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/MI2SummerCONF/medLIME) - *Adrianna Grudzień*
 
-[Multitasking and transfer learning capabilities in Deep Learning - *Maria Kałuska*](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/MI2SummerCONF/multitasking)
+[Multitasking and transfer learning capabilities in Deep Learning](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/MI2SummerCONF/multitasking) - *Maria Kałuska*
 
-[Guide through jungle of models! forester: An R package to automatically select between tree-based models - *Hoang Thien Ly, Szymon Szmajdziński*](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/MI2SummerCONF/forester)
+[Guide through jungle of models! forester: An R package to automatically select between tree-based models](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/MI2SummerCONF/forester) - *Hoang Thien Ly, Szymon Szmajdziński*
 
-[FairPANs - bringing fairness to neural networks - *Hubert Ruczyński*](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/MI2SummerCONF/fairPAN)
+[FairPANs - bringing fairness to neural networks](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/MI2SummerCONF/fairPAN) - *Hubert Ruczyński*
 
-[metaMIMIC: an analysis of hyperparameter transfer possibilities for tabular data using MIMIC-IV database - *Mateusz Grzyb , Zuzanna Trafas*](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/MI2SummerCONF/metaMIMIC)
+[metaMIMIC: an analysis of hyperparameter transfer possibilities for tabular data using MIMIC-IV database](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/MI2SummerCONF/metaMIMIC) - *Mateusz Grzyb , Zuzanna Trafas*
 
-[Monitoring of AI regulation - *Stanisław Giziński*](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/MI2SummerCONF/AIregulation)
+[Monitoring of AI regulation](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/MI2SummerCONF/AIregulation) - *Stanisław Giziński*
 
 ------------------------
 *Wakacyjny Klub Dyskusyjny, czwartki o 10:00*
