@@ -16,6 +16,8 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 
 ### MI2 Summer CONF August 2, 2021 - [Conference Book](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/MI2SummerCONF/MI2SummerCONF.pdf)
 
+[SUCCESSful data visualization using International Business Communication Standard](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/MI2SummerCONF/successful) - *Bartosz Sawicki, Kinga Ułasik*
+
 [triplot4python: the remedy for dealing with correlated features in explanations](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/MI2SummerCONF/triplot4python) - *Mateusz Krzyziński , Artur  Żółkowski*
 
 [The medLIME algorithm](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/MI2SummerCONF/medLIME) - *Adrianna Grudzień*
