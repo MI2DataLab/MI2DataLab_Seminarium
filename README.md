@@ -41,9 +41,10 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
  	- Tomasz Stanisławek
 * 2021-08-05
 	- Jakub Wiśniewski
+	- Anna Kozak
 * 2021-07-29
 	- [Shapley Flow: A Graph-based Approach to Interpreting Model Predictions - Mateusz Krzyziński](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_07_29_Shapley_Flow/2021_07_29_Shapley_Flow.pdf)
-	- Zuzanna Trafas
+	- [Hackathons - Zuzanna Trafas](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_07_29_hackathons/hackathons.pdf)
 * 2021-07-22
 	- [DVC (Data Version Control) - Stanisław Giziński](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_07_22_DVC/2021_07_22_DVC.pdf)
 	- [Metaheuristic optimization - Mateusz Grzyb](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_07_22_metaheuristics/metaheurystyki_optymalizacyjne.pdf)
