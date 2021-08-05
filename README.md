@@ -39,9 +39,10 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 * 2021-08-19
 * 2021-08-12
  	- Tomasz Stanisławek
+ 	- Maria Kałuska
 * 2021-08-05
-	- Jakub Wiśniewski
-	- Anna Kozak
+	- [A brief introduction to object detection - Jakub Wiśniewski](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_08_05_intro_to_object_detection/A%20brief%20introduction%20to%20object%20detection.pdf)
+	- [The use of denoising autoencoders for categorical and continuous variables - Anna Kozak](https://insurancedatascience.org/downloads/London2021/Session_3b/Anna_Kozak.pdf)
 * 2021-07-29
 	- [Shapley Flow: A Graph-based Approach to Interpreting Model Predictions - Mateusz Krzyziński](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_07_29_Shapley_Flow/2021_07_29_Shapley_Flow.pdf)
 	- [Hackathons - Zuzanna Trafas](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_07_29_hackathons/hackathons.pdf)
