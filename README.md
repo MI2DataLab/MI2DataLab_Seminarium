@@ -38,7 +38,7 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 	- Hoang Thien Ly	
 * 2021-08-19
 * 2021-08-12
- 	- Tomasz Stanisławek
+ 	- [NeurIPS 2021 Datasets and Benchmarks Track - Tomasz Stanisławek](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_08_12-NeurIPS_2021_Datasets_and_Benchmarks_Track/Datasets_and_Benchmarks_Track.pdf)
  	- Maria Kałuska
 * 2021-08-05
 	- [A brief introduction to object detection - Jakub Wiśniewski](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_08_05_intro_to_object_detection/A%20brief%20introduction%20to%20object%20detection.pdf)
