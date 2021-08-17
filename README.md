@@ -39,7 +39,7 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 * 2021-08-19
 * 2021-08-12
  	- [NeurIPS 2021 Datasets and Benchmarks Track - Tomasz Stanisławek](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_08_12-NeurIPS_2021_Datasets_and_Benchmarks_Track/Datasets_and_Benchmarks_Track.pdf)
- 	- Maria Kałuska
+ 	- [The Lean Startup - Maria Kałuska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_08_12_the_lean_startup/TheLeanStartup.pdf)
 * 2021-08-05
 	- [A brief introduction to object detection - Jakub Wiśniewski](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_08_05_intro_to_object_detection/A%20brief%20introduction%20to%20object%20detection.pdf)
 	- [The use of denoising autoencoders for categorical and continuous variables - Anna Kozak](https://insurancedatascience.org/downloads/London2021/Session_3b/Anna_Kozak.pdf)
