@@ -36,7 +36,6 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 *Wakacyjny Klub Dyskusyjny, czwartki o 10:00*
 * 2021-08-26
 	- Hoang Thien Ly	
-* 2021-08-19
 * 2021-08-12
  	- [NeurIPS 2021 Datasets and Benchmarks Track - Tomasz Stanisławek](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_08_12-NeurIPS_2021_Datasets_and_Benchmarks_Track/Datasets_and_Benchmarks_Track.pdf)
  	- [The Lean Startup - Maria Kałuska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_08_12_the_lean_startup/TheLeanStartup.pdf)
