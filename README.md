@@ -8,6 +8,13 @@ We meet every Monday, 10:00 online or at MI2 DataLab (room 044, Faculty of Mathe
 
 Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiNI PW).
 
+## Rok 2021/2022
+
+### Semestr zimowy 
+
+
+
+
 ## Rok 2020/2021
 
 ### Semestr letni
@@ -35,7 +42,7 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 ------------------------
 *Wakacyjny Klub Dyskusyjny, czwartki o 10:00*
 * 2021-08-26
-	- Hoang Thien Ly	
+	- [Sickest-first policy & Predictive Models for Liver Transplant Candidates in the US - Hoang Thien Ly](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_08_26_Sickest-first_policy_%26_Predictive_Models_for_Liver_Transplant_Candidates_in_the_US/Sickest-first_policy_%26_Predictive_Models_for_Transplant_Candidates_in_the_US.pdf)
 * 2021-08-12
  	- [NeurIPS 2021 Datasets and Benchmarks Track - Tomasz Stanisławek](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_08_12-NeurIPS_2021_Datasets_and_Benchmarks_Track/Datasets_and_Benchmarks_Track.pdf)
  	- [The Lean Startup - Maria Kałuska](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_08_12_the_lean_startup/TheLeanStartup.pdf)
