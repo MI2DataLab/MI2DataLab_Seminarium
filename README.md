@@ -13,20 +13,20 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 ### Semestr zimowy 
 
 * 2022-01-31
-* 2022-01-24
-* 2022-01-17
-* 2022-01-10
-* 2022-01-03
-* 2021-12-20
-* 2021-12-13
-* 2021-12-06
-* 2021-11-29
-* 2021-11-22
-* 2021-11-15
-* 2021-11-08
-* 2021-10-25
-* 2021-10-18
-* 2021-10-11
+* 2022-01-24 RDL 6 - (guest)
+* 2022-01-17 autoML 6
+* 2022-01-10 RDL 5 - (guest)
+* 2022-01-03 autoML 5
+* 2021-12-20 RDL 4 - Paulina Tomaszewska
+* 2021-12-13 Takeaways from AutoML fall school - Kasia Woźnica
+* 2021-12-06 XAI - Hubert Baniecki
+* 2021-11-29 Auto-sklearn:Automating Design Decisions in AutoML - Mustafa Cavus
+* 2021-11-22 MONAI project - Michał Sokólski
+* 2021-11-15 Auto-sklearn: Portfolio Successive Halving in PoSH - Mustafa Cavus
+* 2021-11-08 Multimodal neural networks - Piotr Czarnecki
+* 2021-10-25 Auto-sklearn: problem statement + challenge description - Kasia Woźnica
+* 2021-10-18 Nuno Sepúlveda (guest)
+* 2021-10-11 Nicholas Spyrison (guest)
 * 2021-10-04 *Seminarium organizacyjne*
 
 
