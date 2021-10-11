@@ -15,11 +15,11 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 * 2022-01-31
 * 2022-01-24 RDL 6 - (guest)
 * 2022-01-17 autoML 6
-* 2022-01-10 RDL 5 - (guest)
+* 2022-01-10 XAI - Hubert Baniecki
 * 2022-01-03 autoML 5
 * 2021-12-20 RDL 4 - Paulina Tomaszewska
 * 2021-12-13 Takeaways from AutoML fall school - Kasia Woźnica
-* 2021-12-06 XAI - Hubert Baniecki
+* 2021-12-06 Malaria pipelines - Andre Fonseca (guest)
 * 2021-11-29 Auto-sklearn:Automating Design Decisions in AutoML - Mustafa Cavus
 * 2021-11-22 MONAI project - Michał Sokólski
 * 2021-11-15 Auto-sklearn: Portfolio Successive Halving in PoSH - Mustafa Cavus
