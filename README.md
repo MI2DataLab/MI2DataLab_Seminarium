@@ -26,7 +26,7 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 * 2021-11-08 Stream data analysis - Kamil Wereszyński
 * 2021-10-25 Auto-sklearn: problem statement + challenge description - Kasia Woźnica
 * 2021-10-18 [How to increase the visibility of a statistician in the modern world of collaborative research?](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_10_18_increase_the_visibility/increase_the_visibility.pdf) - Nuno Sepúlveda
-* 2021-10-11 [Multivariate data vis, Linear projections, and their application to local explanations of models](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_10_11_local_explanations_of_models/2021_10_11_local_explanations_of_models.pdf) - Nicholas Spyrison
+* 2021-10-11 [Multivariate data vis, Linear projections, and their application to local explanations of models](https://nspyrison.github.io/mi2_talk/#1) - Nicholas Spyrison
 * 2021-10-04 *Seminarium organizacyjne*
 
 
