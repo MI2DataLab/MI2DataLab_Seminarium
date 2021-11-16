@@ -18,11 +18,11 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 * 2022-01-10 XAI - Hubert Baniecki
 * 2022-01-03 Multimodal neural networks - Piotr Czarnecki
 * 2021-12-20 Continual learning / active learning - Paulina Tomaszewska
-* 2021-12-13 Takeaways from AutoML fall school - Kasia Woźnica
+* 2021-12-13 Auto-sklearn:Automating Design Decisions in AutoML - Mustafa Cavus
 * 2021-12-06 Malaria pipelines - Andre Fonseca
-* 2021-11-29 Auto-sklearn:Automating Design Decisions in AutoML - Mustafa Cavus
+* 2021-11-29 Auto-sklearn: Portfolio Successive Halving in PoSH - Mustafa Cavus
 * 2021-11-22 MONAI project - Michał Sokólski
-* 2021-11-15 Auto-sklearn: Portfolio Successive Halving in PoSH - Mustafa Cavus
+* 2021-11-15 Multi-fidelity optimization - Kasia Woźnica
 * 2021-11-08 Stream data analysis - Kamil Wereszczyński
 * 2021-10-25 [Auto-sklearn: problem statement + challenge description](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_10_25_AutoML_intro/prezentacja_autoML_intro.pdf) - Kasia Woźnica
 * 2021-10-18 [How to increase the visibility of a statistician in the modern world of collaborative research?](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_10_18_increase_the_visibility/increase_the_visibility.pdf) - Nuno Sepúlveda
