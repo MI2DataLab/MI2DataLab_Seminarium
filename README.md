@@ -14,7 +14,7 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 
 * 2022-01-31
 * 2022-01-24 TBA
-* 2022-01-17 TBA
+* 2022-01-17 Bayesian Optimization with a Prior for the Optimum - Bartłomiej Sobieski
 * 2022-01-10 XAI - Hubert Baniecki
 * 2022-01-03 Multimodal neural networks - Piotr Czarnecki
 * 2021-12-20 Continual learning / active learning - Paulina Tomaszewska
