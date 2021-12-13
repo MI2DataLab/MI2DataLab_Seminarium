@@ -17,7 +17,7 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 * 2022-01-17 Bayesian Optimization with a Prior for the Optimum - Bartłomiej Sobieski
 * 2022-01-10 XAI - Hubert Baniecki
 * 2022-01-03 Multimodal neural networks - Piotr Czarnecki
-* 2021-12-20 Continual learning / active learning - Paulina Tomaszewska
+* 2021-12-20 NeurIPS2021 – takeaways - Paulina Tomaszewska
 * 2021-12-13 Auto-sklearn:Automating Design Decisions in AutoML - Mustafa Cavus
 * 2021-12-06 Malaria pipelines - Andre Fonseca
 * 2021-11-29 Auto-sklearn: Portfolio Successive Halving in PoSH - Mustafa Cavus
