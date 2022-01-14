@@ -15,7 +15,7 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 * 2022-01-31
 * 2022-01-24 Impact of Imperfect Diagnostic Tests in ME/CFS Association Analyses - João Malato
 * 2022-01-17 Bayesian Optimization with a Prior for the Optimum - Bartłomiej Sobieski
-* 2022-01-10 XAI - Hubert Baniecki
+* 2022-01-10 [Evaluating explanations](https://github.com/MI2DataLab/MI2DataLab_Seminarium/blob/master/2022/2022_01_10_evaluating_explanations/evaluating-explanations.pdf) - Hubert Baniecki
 * 2022-01-03 [Explanations of multimodal neural networks](https://github.com/MI2DataLab/MI2DataLab_Seminarium/blob/master/2022/2022_01_03_Explanations_of_multimodal_neural_networks/multimodal.pdf) - Piotr Czarnecki
 * 2021-12-20 [NeurIPS2021 – takeaways](https://github.com/MI2DataLab/MI2DataLab_Seminarium/blob/master/2021/2021_12_20_NeurIPS2021_takeaways/NeurIPS2021_takeaways.pdf) - Paulina Tomaszewska
 * 2021-12-13 [Auto-sklearn:Automating Design Decisions in AutoML](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_12_14_AutoML_Autosklearn_2/Autosklearn_2.pdf)  - Mustafa Cavus
