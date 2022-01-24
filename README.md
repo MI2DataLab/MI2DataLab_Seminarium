@@ -2,7 +2,7 @@
 
 Materials from the weekly seminar of MI^2 DataLab group.
 
-Join us at http://meet.google.com/rbo-kgmm-orb
+Join us at https://meet.google.com/nno-okiz-bxy (or http://meet.drwhy.ai/)
 
 We meet every Monday, 10:00 online or at MI2 DataLab (room 044, Faculty of Mathematics and Information Science, Warsaw University of Technology).
 
