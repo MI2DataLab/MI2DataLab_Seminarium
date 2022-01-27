@@ -13,7 +13,7 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 ### Semestr zimowy 
 
 * 2022-01-31 Impact of Imperfect Diagnostic Tests in ME/CFS Association Analyses - João Malato
-* 2022-01-24 Prototype Generation in XAI with ProtoPNet architecture - Adam Kozłowski
+* 2022-01-24 [Models selecting prototypes with ProtoPNet](https://github.com/MI2DataLab/MI2DataLab_Seminarium/blob/master/2022/2022_01_24_Models_selecting_prototypes_with_ProtoPNet/Models_selecting_prototypes_with_ProtoPNet.pdf) - Adam Kozłowski
 * 2022-01-17 [Bayesian Optimization with a Prior for the Optimum](https://github.com/MI2DataLab/MI2DataLab_Seminarium/blob/master/2022/2022_01_17_Bayesian_Optimization_with_a_Prior_for_the_Optimum/Bayesian_Optimization.pdf) - Bartłomiej Sobieski
 * 2022-01-10 [Evaluating explanations](https://github.com/MI2DataLab/MI2DataLab_Seminarium/blob/master/2022/2022_01_10_evaluating_explanations/evaluating-explanations.pdf) - Hubert Baniecki
 * 2022-01-03 [Explanations of multimodal neural networks](https://github.com/MI2DataLab/MI2DataLab_Seminarium/blob/master/2022/2022_01_03_Explanations_of_multimodal_neural_networks/multimodal.pdf) - Piotr Czarnecki
