@@ -10,6 +10,23 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 
 ## Rok 2021/2022
 
+### Semestr letni
+
+* 2022-06-13
+* 2022-06-06
+* 2022-05-30
+* 2022-05-23
+* 2022-05-16
+* 2022-05-09
+* 2022-04-25
+* 2022-04-11
+* 2022-04-04
+* 2022-03-28
+* 2022-03-21
+* 2022-03-14
+* 2022-03-07
+* 2022-02-28 
+
 ### Semestr zimowy 
 
 * 2022-01-31 Impact of Imperfect Diagnostic Tests in ME/CFS Association Analyses - João Malato
