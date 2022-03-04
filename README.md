@@ -1,8 +1,8 @@
-# Materials from the weekly seminar of MI^2 group  <img src="prezentacja.png" align="right" width="300"/>
+# Materials from the weekly seminar of the MI^2 group  <img src="prezentacja.png" align="right" width="300"/>
 
-We meet every Monday, 10 AM at MI^2 DataLab (room 044, Faculty of Mathematics and Information Science, Warsaw University of Technology) or online.
+We meet every Monday, at 10 AM in MI^2 DataLab (room 044, Faculty of Mathematics and Information Science, Warsaw University of Technology) or online.
 
-Join us at https://meet.google.com/nno-okiz-bxy (or http://meet.drwhy.ai/).
+Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 
 ## Year 2021/2022
 
