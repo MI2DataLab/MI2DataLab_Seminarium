@@ -1,33 +1,29 @@
-# Materiały z Seminarium Badawczego prowadzonego w MI^2 DataLab  <img src="prezentacja.png" align="right" width="300"/>
+# Materials from the weekly seminar of MI^2 group  <img src="prezentacja.png" align="right" width="300"/>
 
-Materials from the weekly seminar of MI^2 DataLab group.
+We meet every Monday, 10 AM at MI^2 DataLab (room 044, Faculty of Mathematics and Information Science, Warsaw University of Technology) or online.
 
-Join us at https://meet.google.com/nno-okiz-bxy (or http://meet.drwhy.ai/)
+Join us at https://meet.google.com/nno-okiz-bxy (or http://meet.drwhy.ai/).
 
-We meet every Monday, 10:00 online or at MI2 DataLab (room 044, Faculty of Mathematics and Information Science, Warsaw University of Technology).
+## Year 2021/2022
 
-Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiNI PW).
+### Spring semester
 
-## Rok 2021/2022
-
-### Semestr letni
-
-* 2022-06-13
-* 2022-06-06
+* 2022-06-13 *Summary of the seminar and ongoing matters*
+* 2022-06-06 TBA - Weronika Hryniewska
 * 2022-05-30
-* 2022-05-23
+* 2022-05-23 TBA - Bartek Sobieski
 * 2022-05-16
-* 2022-05-09
-* 2022-04-25
-* 2022-04-11
-* 2022-04-04
-* 2022-03-28
-* 2022-03-21
-* 2022-03-14
-* 2022-03-07
-* 2022-02-28 
+* 2022-05-09 TBA - Mateusz Krzyziński
+* 2022-04-25 TBA - Stanisław Łaniewski
+* 2022-04-11 
+* 2022-04-04 TBA - Stanisław Giziński
+* 2022-03-28 Running services and calculations in our Kubernetes cluster - Piotr Piątyszek
+* 2022-03-21 Cognitive Map and Decision Tree in making medical decisions - Hoang Thien Ly
+* 2022-03-14 PhD research domain + Duel-based Deep Learning system for solving IQ tests - Paulina Tomaszewska
+* 2022-03-07 Expected goal (xG) models and XAI - Mustafa Cavus
+* 2022-02-28 *Organisation of the seminar and ongoing matters*
 
-### Semestr zimowy 
+### Fall semester
 
 * 2022-01-31 Impact of Imperfect Diagnostic Tests in ME/CFS Association Analyses - João Malato
 * 2022-01-24 [Models selecting prototypes with ProtoPNet](https://github.com/MI2DataLab/MI2DataLab_Seminarium/blob/master/2022/2022_01_24_Models_selecting_prototypes_with_ProtoPNet/Models_selecting_prototypes_with_ProtoPNet.pdf) - Adam Kozłowski
@@ -44,7 +40,7 @@ Spotykamy się w poniedziałki, 10:00 online lub w MI2 Data Lab (sala 044 na MiN
 * 2021-10-25 [Auto-sklearn: problem statement + challenge description](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_10_25_AutoML_intro/prezentacja_autoML_intro.pdf) - Kasia Woźnica
 * 2021-10-18 [How to increase the visibility of a statistician in the modern world of collaborative research?](https://github.com/mi2-warsaw/MI2DataLab_Seminarium/blob/master/2021/2021_10_18_increase_the_visibility/increase_the_visibility.pdf) - Nuno Sepúlveda
 * 2021-10-11 [Multivariate data vis, Linear projections, and their application to local explanations of models](https://nspyrison.github.io/mi2_talk/#1) - Nicholas Spyrison
-* 2021-10-04 *Seminarium organizacyjne*
+* 2021-10-04 *Organisation of the seminar*
 
 
 ## Rok 2020/2021
