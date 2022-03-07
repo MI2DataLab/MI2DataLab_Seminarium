@@ -20,7 +20,7 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 * 2022-03-28 Running services and calculations in our Kubernetes cluster - Piotr Piątyszek
 * 2022-03-21 Cognitive Map and Decision Tree in making medical decisions - Hoang Thien Ly
 * 2022-03-14 PhD research domain + Duel-based Deep Learning system for solving IQ tests - Paulina Tomaszewska
-* 2022-03-07 Expected goal (xG) models and XAI - Mustafa Cavus
+* 2022-03-07 [Expected goal (xG) models and XAI](https://github.com/mcavs/MI2DataLab_Seminarium/blob/master/2022/2022_03_07_Expected_goal_models_and_XAI/Expected_goal_models_and_XAI.pdf) - Mustafa Cavus
 * 2022-02-28 *Organisation of the seminar and ongoing matters*
 
 ### Fall semester
