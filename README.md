@@ -15,8 +15,8 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 * 2022-05-16
 * 2022-05-09 TBA - Mateusz Krzyziński
 * 2022-04-25 TBA - Stanisław Łaniewski
-* 2022-04-11 
-* 2022-04-04 TBA - Stanisław Giziński
+* 2022-04-11 TBA - Stanisław Giziński
+* 2022-04-04 *PhD defense (11-14 am)* - Tomasz Stanisławek
 * 2022-03-28 Running services and calculations in our Kubernetes cluster - Piotr Piątyszek
 * 2022-03-21 Cognitive Map and Decision Tree in making medical decisions - Hoang Thien Ly
 * 2022-03-14 PhD research domain + Duel-based Deep Learning system for solving IQ tests - Paulina Tomaszewska
