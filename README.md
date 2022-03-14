@@ -10,9 +10,9 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 
 * 2022-06-13 *Summary of the seminar and ongoing matters*
 * 2022-06-06 TBA - Weronika Hryniewska
-* 2022-05-30
+* 2022-05-30 
 * 2022-05-23 TBA - Bartek Sobieski
-* 2022-05-16
+* 2022-05-16 TBA - Katarzyna Woźnica
 * 2022-05-09 TBA - Mateusz Krzyziński
 * 2022-04-25 TBA - Stanisław Łaniewski
 * 2022-04-11 TBA - Stanisław Giziński
