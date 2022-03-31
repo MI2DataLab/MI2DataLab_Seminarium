@@ -19,7 +19,7 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 * 2022-04-04 *PhD defense (11-14 am)* - Tomasz Stanisławek
 * 2022-03-28 Running services and calculations in our Kubernetes cluster - Piotr Piątyszek
 * 2022-03-21 [Hybrid model of Fuzzy Cognitive Map - Decision Tree in making medical decisions](https://github.com/MI2DataLab/MI2DataLab_Seminarium/blob/master/2022/2022_03_21_Fuzzy_cognitive_maps_%26_tree_based_models_in_making_medical_decisions/Fuzzy_Map%20%26%20%20DT%20-%20Thien.pdf) - Hoang Thien Ly
-* 2022-03-14 PhD research domain + Duel-based Deep Learning system for solving IQ tests - Paulina Tomaszewska
+* 2022-03-14 [Duel-based Deep Learning system for solving IQ tests] (https://github.com/MI2DataLab/MI2DataLab_Seminarium/blob/master/2022/2022_03_14_Duel_based_DL_system_for_IQ_tests/Duel-IQ.pdf) - Paulina Tomaszewska
 * 2022-03-07 [Expected goal (xG) models and XAI](https://github.com/mcavs/MI2DataLab_Seminarium/blob/master/2022/2022_03_07_Expected_goal_models_and_XAI/Expected_goal_models_and_XAI.pdf) - Mustafa Cavus
 * 2022-02-28 *Organisation of the seminar and ongoing matters*
 
