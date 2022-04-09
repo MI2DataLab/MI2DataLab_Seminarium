@@ -1,0 +1,39 @@
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: example-2-pvc
+spec:
+  accessModes:
+    - ReadWriteMany
+  volumeMode: Filesystem
+  resources:
+    requests:
+      storage: 100Gi
+  storageClassName: zfs-rs64k
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: example-2
+spec:
+  containers:
+  - name: example
+    image: ubuntu:latest
+    command: ['sh', '-c', 'sleep infinity']
+    resources:
+      requests:
+        memory: 500M
+        cpu: 1
+      limits:
+        memory: 500M
+        cpu: 1
+    volumeMounts:
+    - mountPath: "/storage"
+      name: storage
+  automountServiceAccountToken: false
+  restartPolicy: OnFailure
+  volumes:
+    - name: storage
+      persistentVolumeClaim:
+        claimName: example-2-pvc
+
