@@ -15,7 +15,7 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 * 2022-05-16 TBA - Katarzyna Woźnica
 * 2022-05-09 TBA - Mateusz Krzyziński
 * 2022-04-25 TBA - Stanisław Łaniewski
-* 2022-04-11 Monitoring of AI regulations using natural language processing - Stanisław Giziński
+* 2022-04-11 ~~Monitoring of AI regulations using natural language processing - Stanisław Giziński~~
 * 2022-04-04 🎉 *PhD defense (11-14 am)* - Tomasz Stanisławek
 * 2022-03-28 Running services and calculations in our Kubernetes cluster - Piotr Piątyszek
 * 2022-03-21 [Hybrid model of Fuzzy Cognitive Map - Decision Tree in making medical decisions](https://github.com/MI2DataLab/MI2DataLab_Seminarium/blob/master/2022/2022_03_21_Fuzzy_cognitive_maps_%26_tree_based_models_in_making_medical_decisions/Fuzzy_Map%20%26%20%20DT%20-%20Thien.pdf) - Hoang Thien Ly
