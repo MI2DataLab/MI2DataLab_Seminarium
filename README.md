@@ -12,9 +12,9 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 * 2022-06-06 TBA - Weronika Hryniewska
 * 2022-05-30 TBA - Tomasz Stanisławek
 * 2022-05-23 TBA - Bartek Sobieski
-* 2022-05-16 TBA - Katarzyna Woźnica
+* 2022-05-16 Monitoring of AI regulations using natural language processing - Stanisław Giziński & Stanisław Łaniewski
 * 2022-05-09 TBA - Mateusz Krzyziński
-* 2022-04-25 TBA - Stanisław Łaniewski
+* 2022-04-25 TBA - Piotr Zawierucha
 * 2022-04-11 ~~Monitoring of AI regulations using natural language processing - Stanisław Giziński~~
 * 2022-04-04 🎉 *PhD defense (11-14 am)* - Tomasz Stanisławek
 * 2022-03-28 Running services and calculations in our Kubernetes cluster - Piotr Piątyszek
