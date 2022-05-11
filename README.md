@@ -13,7 +13,7 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 * 2022-05-30 TBA - Tomasz Stanisławek
 * 2022-05-23 TBA - Bartek Sobieski
 * 2022-05-16 Monitoring of AI regulations using natural language processing - Stanisław Giziński & Stanisław Łaniewski
-* 2022-05-09 Extensions of the SHAP method: using Shapley value to interpret models with dependencies and survival analysis models - Mateusz Krzyziński
+* 2022-05-09 [Extensions of the SHAP method: using Shapley value to interpret models with dependencies and survival analysis models](https://github.com/MI2DataLab/MI2DataLab_Seminarium/blob/master/2022/2022_05_09_SHAP_Extensions_survSHAP/SHAP_extensions_survSHAP.pdf) - Mateusz Krzyziński
 * 2022-04-25 [Comparative analysis of veins and arteries used in coronary artery bypass grafting. PhD Thesis](https://github.com/MI2DataLab/MI2DataLab_Seminarium/blob/master/2022/2022_04_25_Comparative_analysis_of_veins_and_arteries_used_in_coronary_artery_bypass_grafting/PhD%20defense.pdf) - Piotr Zawierucha
 * 2022-04-11 ~~Monitoring of AI regulations using natural language processing - Stanisław Giziński~~
 * 2022-04-04 🎉 *PhD defense (11-14 am)* - Tomasz Stanisławek
