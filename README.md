@@ -10,7 +10,7 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 
 * 2022-06-13 *Summary of the seminar and ongoing matters*
 * 2022-06-06 TBA - Weronika Hryniewska
-* 2022-05-30 TBA - Tomasz Stanisławek
+* 2022-05-30 Industrial PhD (lesson learned) - Tomasz Stanisławek
 * 2022-05-23 [Hyperparameter optimization with Reinforcement Learning](https://github.com/MI2DataLab/MI2DataLab_Seminarium/blob/master/2022/2022_05_23_Hyperparameter_optimization_with_reinforcement_learning/Hyp_RL.pdf) - Bartek Sobieski
 * 2022-05-16 Monitoring of AI regulations using natural language processing - Stanisław Giziński & Stanisław Łaniewski
 * 2022-05-09 [Extensions of the SHAP method: using Shapley value to interpret models with dependencies and survival analysis models](https://github.com/MI2DataLab/MI2DataLab_Seminarium/blob/master/2022/2022_05_09_SHAP_Extensions_survSHAP/SHAP_extensions_survSHAP.pdf) - Mateusz Krzyziński
