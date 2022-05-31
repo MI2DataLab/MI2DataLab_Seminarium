@@ -9,7 +9,7 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 ### Spring semester
 
 * 2022-06-13 *Summary of the seminar and ongoing matters*
-* 2022-06-06 TBA - Weronika Hryniewska
+* 2022-06-06 LIMEcraft: Handcrafted superpixel selection and inspection for Visual eXplanations - Weronika Hryniewska
 * 2022-05-30 [Industrial PhD (lesson learned)](https://github.com/MI2DataLab/MI2DataLab_Seminarium/blob/master/2022/2022_05_30_Industrial_PhD_lesson_learnd/Industrial_PhD_lesson_learned.pdf) - Tomasz Stanisławek
 * 2022-05-23 [Hyperparameter optimization with Reinforcement Learning](https://github.com/MI2DataLab/MI2DataLab_Seminarium/blob/master/2022/2022_05_23_Hyperparameter_optimization_with_reinforcement_learning/Hyp_RL.pdf) - Bartek Sobieski
 * 2022-05-16 [Monitoring of AI regulations using natural language processing](https://github.com/MI2DataLab/MI2DataLab_Seminarium/blob/master/2022/2022_05_16_MAIR/MAIR.pdf) - Stanisław Giziński & Stanisław Łaniewski
