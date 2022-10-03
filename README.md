@@ -15,6 +15,7 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 * 2022-10-17 - overview HOMER
 * 2022-10-24 - overview MAIR
 <br/>
+
 *Research phase*
 
 * 2022-11-07 - research presentation HOMER
@@ -27,6 +28,7 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 * 2022-11-12 - research presentation ?xLungs
 * 2022-11-19 - research presentation ?MAIR
 <br/>
+
 *Update phase*
 
 * 2023-01-02 - update ?HOMER
