@@ -19,10 +19,12 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 * 2022-11-21 - research presentation ?MAIR
 * 2022-11-28 - TBD
 <br/>
+
 * 2022-12-05 - research presentation ?HOMER
 * 2022-11-12 - research presentation ?xLungs
 * 2022-11-19 - research presentation ?MAIR
 <br/>
+
 * 2023-01-02 - update ?HOMER
 * 2023-01-09 - update ?xLungs
 * 2023-01-16 - update ?MAIR
