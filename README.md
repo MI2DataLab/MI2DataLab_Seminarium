@@ -8,11 +8,15 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 
 ### Fall semester
 
-* 2022-10-03 - Organisation of the seminar
+*Overview phase*
+
+* 2022-10-03 - [Organisation of the seminar](https://github.com/MI2DataLab/MI2DataLab_Seminarium/blob/master/2022/2022_10_03_Winter_2022_Seminar_Org/2022_10_03_Winter_2022_Seminar_Org.pdf)
 * 2022-10-10 - overview xLungs
 * 2022-10-17 - overview HOMER
 * 2022-10-24 - overview MAIR
 <br/>
+
+*Research phase*
 
 * 2022-11-07 - research presentation HOMER
 * 2022-11-14 - research presentation ?xLungs
@@ -24,6 +28,8 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 * 2022-11-12 - research presentation ?xLungs
 * 2022-11-19 - research presentation ?MAIR
 <br/>
+
+*Update phase*
 
 * 2023-01-02 - update ?HOMER
 * 2023-01-09 - update ?xLungs
