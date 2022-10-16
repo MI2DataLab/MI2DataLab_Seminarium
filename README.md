@@ -13,6 +13,7 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 * 2022-10-03 - [Organisation of the seminar](https://github.com/MI2DataLab/MI2DataLab_Seminarium/blob/master/2022/2022_10_03_Winter_2022_Seminar_Org/2022_10_03_Winter_2022_Seminar_Org.pdf)
 * 2022-10-10 - [xLungs - Efficient and Explainable Diagnostics’ Support for Radiologists](https://github.com/MI2DataLab/MI2DataLab_Seminarium/blob/master/2022/2022_10_10_Overview_xLungs/xLungs%20-%20overview%20presentation.pdf)
 * 2022-10-17 - overview: HOMER
+
 ***Abstract:** Human Oriented autoMated machinE leaRning (HOMER) project focuses on automated machine learning accompanied by exploratory data analysis and model explanation. During the seminar we will discuss it in three aspects such as Research, Education and Solution. The start point of the presentation is Education, which often actually is the beginning of new research projects. In next part we'll cover current research ideas and results related to automatic machine learning, explainable machine learning and data mining. Ideally summary of that area is applications of our work for external entities, i.e. solutions. Finally, we will summarize everything together by presenting a roadmap.*
 * 2022-10-24 - overview: MAIR
 <br/>
