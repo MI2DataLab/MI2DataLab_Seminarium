@@ -1,0 +1,4 @@
+## HOMER - Achieving Responsible ML by Human Oriented autoMated machinE leaRning 
+
+
+**Abstract:** Human Oriented autoMated machinE leaRning (HOMER) project focuses on automated machine learning accompanied by exploratory data analysis and model explanation. During the seminar we will discuss it in three aspects such as Research, Education and Solution. The start point of the presentation is Education, which often actually is the beginning of new research projects. In next part we'll cover current research ideas and results related to automatic machine learning, explainable machine learning and data mining. Ideally summary of that area is applications of our work for external entities, i.e. solutions. Finally, we will summarize everything together by presenting a roadmap.
