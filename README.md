@@ -21,7 +21,7 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 * 2022-10-03 - [Organisation of the seminar](https://github.com/MI2DataLab/MI2DataLab_Seminarium/blob/master/2022/2022_10_03_Winter_2022_Seminar_Org/2022_10_03_Winter_2022_Seminar_Org.pdf)
 * 2022-10-10 - [xLungs - Efficient and Explainable Diagnostics’ Support for Radiologists](https://github.com/MI2DataLab/MI2DataLab_Seminarium/blob/master/2022/2022_10_10_Overview_xLungs/xLungs%20-%20overview%20presentation.pdf)
 * 2022-10-17 - [HOMER - Achieving Responsible ML by Human Oriented autoMated machinE leaRning](https://github.com/MI2DataLab/MI2DataLab_Seminarium/blob/master/2022/2022_10_17_Overview_HOMER/HOMER-overview-presentation.pdf)
-* 2022-10-24 - overview: MAIR
+* 2022-10-24 - [ATLAS - Automated documenT anaLysis for sociAl awareneSs](https://github.com/MI2DataLab/MI2DataLab_Seminarium/blob/master/2022/2022_10_24_ATLAS_Overview/ATLAS_Overview.pdf)
 
 <br/>
 
@@ -29,7 +29,7 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 
 * 2022-11-07 - HOMER: SurvSHAP(t)- Mateusz Krzyziński, Mikołaj Spytek, Hubert Baniecki
 * 2022-11-14 - xLungs: Creation of embeddings (e.g. via autoencoders)  - Maciej Chrabąszcz
-* 2022-11-21 - MAIR: Explaining abstract summarization - Emilia Wiśnios
+* 2022-11-21 - ATLAS: Explaining abstractive summarization - Emilia Wiśnios
 * 2022-11-28 - TBD
 <br/>
 
