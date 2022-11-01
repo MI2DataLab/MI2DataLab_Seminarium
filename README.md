@@ -10,9 +10,11 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 
 #### Upcoming presentation
 
-**2022-10-24 - overview: MAIR**
+**2022-11-07 - Explainable machine learning for survival analysis**
 
-**Abstract:** Monitoring of AI Regulations (MAIR) started as a project focusing on language analysis of policy documents regarding AI. As the NLP for policy analysis is young research field, one of the main project goals is development of such methods and testing them on various use cases, with support of policy experts. During the seminar we will present our four main streams of work. We will start with motivations of all projects, then we’re going to talk about our approaches to document analysis, including clustering of embeddings, different ways of topic modeling and argument mining. At the end we will present our plans for future work.
+**Abstract:** We already have well-grounded and tested methods for model-agnostic explainable machine learning in classification and regression. Yet, time-to-event prediction is at the forefront of medical applications, which require interpretability and rigorous evaluation to progress beyond the (often limited) statistical approaches. How can we translate explanations from [Explanatory Model Analysis](https://ema.drwhy.ai/) to a new dimension - time?
+
+During the seminar, we will discuss methods and tools for time-dependent explanations of survival models: [SurvSHAP(t)](https://arxiv.org/abs/2208.11080), [SurvLIME](https://arxiv.org/abs/2003.08371), and the [survex](https://github.com/ModelOriented/survex) R package. Expect mathematical derivations, evaluation results, and exemplary visualizations.
 
 ### Schedule
 
@@ -27,7 +29,7 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 
 ##### Research phase
 
-* 2022-11-07 - HOMER: SurvSHAP(t)- Mateusz Krzyziński, Mikołaj Spytek, Hubert Baniecki
+* 2022-11-07 - Explainable machine learning for survival analysis - Mateusz Krzyziński, Mikołaj Spytek, Hubert Baniecki
 * 2022-11-14 - xLungs: Creation of embeddings (e.g. via autoencoders)  - Maciej Chrabąszcz
 * 2022-11-21 - ATLAS: Explaining abstractive summarization - Emilia Wiśnios
 * 2022-11-28 - TBD
@@ -35,14 +37,14 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 
 * 2022-12-05 - research presentation: ?HOMER
 * 2022-11-12 - research presentation: ?xLungs
-* 2022-11-19 - research presentation: ?MAIR
+* 2022-11-19 - research presentation: ?ATLAS
 <br/>
 
 ##### Update phase
 
 * 2023-01-02 - update: ?HOMER
 * 2023-01-09 - update: ?xLungs
-* 2023-01-16 - update: ?MAIR
+* 2023-01-16 - update: ?ATLAS
 * 2023-01-23 - Summary
 <br/>
 
