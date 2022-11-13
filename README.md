@@ -10,11 +10,9 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 
 #### Upcoming presentation
 
-**2022-11-07 - Explainable machine learning for survival analysis**
+**2022-11-14 - Lungs vector representations**
 
-**Abstract:** We already have well-grounded and tested methods for model-agnostic explainable machine learning in classification and regression. Yet, time-to-event prediction is at the forefront of medical applications, which require interpretability and rigorous evaluation to progress beyond the (often limited) statistical approaches. How can we translate explanations from [Explanatory Model Analysis](https://ema.drwhy.ai/) to a new dimension - time?
-
-During the seminar, we will discuss methods and tools for time-dependent explanations of survival models: [SurvSHAP(t)](https://arxiv.org/abs/2208.11080), [SurvLIME](https://arxiv.org/abs/2003.08371), and the [survex](https://github.com/ModelOriented/survex) R package. Expect mathematical derivations, evaluation results, and exemplary visualizations.
+**Abstract:** It’s well-known that the medical domain datasets contain few labeled instances. Thus, leveraging informative numerical representation of lungs can allow training models which do not require large amounts of labeled samples and still perform well on downstream tasks. In xLungs we try to create lung representations in unsupervised fashion which are later applied for disease classification. We will familiarize you with three attempts for creating vector representations of lungs. First is the Siamese network, which allows us to create embeddings from X-ray images. Another approach that will be introduced is embeddings created from CT scans using the Swin-UNETR model. Finally, we will show you how one can create interpretable features from organ masks (not only created by humans).
 
 ### Schedule
 
@@ -29,8 +27,8 @@ During the seminar, we will discuss methods and tools for time-dependent explana
 
 ##### Research phase
 
-* 2022-11-07 - Explainable machine learning for survival analysis - Mateusz Krzyziński, Mikołaj Spytek, Hubert Baniecki
-* 2022-11-14 - xLungs: Creation of embeddings (e.g. via autoencoders)  - Maciej Chrabąszcz
+* 2022-11-07 - [Explainable machine learning for survival analysis](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2022/2022_11_07_survsSHAP_survex) - Mateusz Krzyziński, Mikołaj Spytek, Hubert Baniecki
+* 2022-11-14 - Lungs vector representations  - Maciej Chrabąszcz
 * 2022-11-21 - ATLAS: Explaining abstractive summarization - Emilia Wiśnios
 * 2022-11-28 - TBD
 <br/>
