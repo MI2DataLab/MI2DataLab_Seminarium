@@ -33,9 +33,9 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 * 2022-11-28 - TBD
 <br/>
 
-* 2022-12-05 - research presentation: ?HOMER
-* 2022-11-12 - research presentation: ?xLungs
-* 2022-11-19 - research presentation: ?ATLAS
+* 2022-12-05 - research presentation: ATLAS
+* 2022-11-12 - research presentation: HOMER
+* 2022-11-19 - research presentation: xLungs
 <br/>
 
 ##### Update phase
