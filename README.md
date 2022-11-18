@@ -10,9 +10,9 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 
 #### Upcoming presentation
 
-**2022-11-14 - Lungs vector representations**
+**2022-11-21 - Explaining abstractive summarization**
 
-**Abstract:** It’s well-known that the medical domain datasets contain few labeled instances. Thus, leveraging informative numerical representation of lungs can allow training models which do not require large amounts of labeled samples and still perform well on downstream tasks. In xLungs we try to create lung representations in unsupervised fashion which are later applied for disease classification. We will familiarize you with three attempts for creating vector representations of lungs. First is the Siamese network, which allows us to create embeddings from X-ray images. Another approach that will be introduced is embeddings created from CT scans using the Swin-UNETR model. Finally, we will show you how one can create interpretable features from organ masks (not only created by humans).
+**Abstract:** Reading long documents can be oppressive. Fortunately, machine learning comes to the rescue - many different models for extractive and abstractive summarization exist. However, how are these summaries made? Can we trust that they are reliable? In this seminar, I will briefly introduce summarization, their problems and current techniques for explaining models.
 
 ### Schedule
 
@@ -28,7 +28,7 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 ##### Research phase
 
 * 2022-11-07 - [Explainable machine learning for survival analysis](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2022/2022_11_07_survsSHAP_survex) - Mateusz Krzyziński, Mikołaj Spytek, Hubert Baniecki
-* 2022-11-14 - Lungs vector representations  - Maciej Chrabąszcz
+* 2022-11-14 - [Lungs vector representations](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2022/2022_11_14_xLungs_vector_representations) - Maciej Chrabąszcz, Bartek Sobieski, Weronika Hryniewska-Guzik
 * 2022-11-21 - ATLAS: Explaining abstractive summarization - Emilia Wiśnios
 * 2022-11-28 - TBD
 <br/>
