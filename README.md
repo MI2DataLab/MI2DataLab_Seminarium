@@ -29,7 +29,7 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 
 * 2022-11-07 - [Explainable machine learning for survival analysis](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2022/2022_11_07_survsSHAP_survex) - Mateusz Krzyziński, Mikołaj Spytek, Hubert Baniecki
 * 2022-11-14 - [Lungs vector representations](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2022/2022_11_14_xLungs_vector_representations) - Maciej Chrabąszcz, Bartek Sobieski, Weronika Hryniewska-Guzik
-* 2022-11-21 - ATLAS: Explaining abstractive summarization - Emilia Wiśnios
+* 2022-11-21 - [TL;DR - why do summaries make sense (or don't)?](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2022/2022_11_21_TLDR) - Emilia Wiśnios
 * 2022-11-28 - TBD
 <br/>
 
