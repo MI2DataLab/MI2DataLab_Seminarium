@@ -34,7 +34,7 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 <br/>
 
 * 2022-12-05 - Cancelled
-* 2022-11-12 - research presentation: HOMER
+* 2022-11-12 - [New era of AutoML?](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2022/2022_12_12_HOMER_AutoML) - Katarzyna Woźnica, Anna Kozak
 * 2022-11-19 - research presentation: xLungs
 <br/>
 
