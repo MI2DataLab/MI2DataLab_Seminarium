@@ -10,11 +10,9 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 
 #### Upcoming presentation
 
-**2022-12-12 - New era of AutoML?**
+**2022-12-19**
 
-**Abstract:** On the one hand, the term AutoML is coming up more and more often in discussions about machine learning, but how many of us have actually used it? Do we need AutoML? What should be the AutoML we need? These will be the guiding questions of our presentation.
-
-We will start with a bird’s eye view of the current state of the art and situate our research in this landscape. We will definitely talk about hyperparameter optimization, data processing, meta-learning and ensembling.   We will also point out what aspects have been highlighted by publications in recent months.  The presentation will also juxtapose the challenges perceived by the community of the field and the expectations of potential audiences.
+**Abstract:** In the age of Deep Learning in the field of Computer Vision there still exist several classical algorithms that are perfect for segmentation task, like active contours. When they are perfect for single cases with human supervision (like in photoshop) they struggle when it comes to performance on scale. However, is there a way to find relationship between image features and algorithm's parameters and how do they influence each other? On the next seminar I would like to give presentation on my recent research towards answering this question, where classical algorithms will meet with autoML.
 
 ### Schedule
 
