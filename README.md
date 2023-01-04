@@ -40,9 +40,9 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 
 ##### Update phase
 
-* 2023-01-02 - update: ?HOMER
-* 2023-01-09 - update: ?xLungs
-* 2023-01-16 - update: ?ATLAS
+* 2023-01-02 - update: HOMER
+* 2023-01-09 - update: ATLAS
+* 2023-01-16 - Workshop: How to prepare presentation with storytelling? - Zuzanna Kwiatkowska
 * 2023-01-23 - Summary
 <br/>
 
