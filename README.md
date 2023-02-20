@@ -6,15 +6,30 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 
 ## Year 2022/2023
 
+### Spring semester
+
+#### Schedule
+
+* 2023-02-20 - set-up meeting
+* 2023-02-27 - Acquisition of chess knowledge in AlphaZero - Bartek Sobieski, Mikołaj Spytek
+* 2023-03-06 - Aggregation of explanations - Weronika Hryniewska,
+* 2023-03-13 - Algorithm selection on a meta level - Anna Kozak, Hubert Ruczyński
+* 2023-03-20 - Unfooling Perturbation-Based Post Hoc Explainers - Hubert Baniecki, Mateusz Krzyziński
+* 2023-03-27 - Globally-Consistent Rule-Based Summary-Explanations for Machine Learning Models: Application to Credit-Risk Evaluation - Mikołaj Spytek, Mateusz Krzyziński
+* 2023-04-03 - From “Where” to “What”… - Maciej Chrabąszcz, Bartek Sobieski
+* 2023-04-17 - Two-Stage Transfer Surrogate Model for Automatic Hyperparameter Optimization - Mateusz Grzyb, Kasia Woźnica
+* 2023-04-24 - Post hoc Explanations may be Ineffective for Detecting Unknown Spurious Correlation - Mateusz Krzyziński, Hubert Baniecki
+* 2023-05-08 - Meta-learning from Tasks with Heterogeneous Attribute Spaces - Kasia Woźnica,
+* 2023-05-15 - Automated Benchmark-Driven Design and Explanation of Hyperparameter Optimizers - Hubert Ruczyński, Anna Kozak
+* 2023-05-22 - Transfer Learning - Paulina Tomaszewska,
+* 2023-05-29 -  Adaptive Testing and Debugging of NLP models - Emilia Wiśnios, Maciej Chrabąszcz
+* 2023-06-05 -  AutoML for time series - Stanisław Łaniewski,
+* 2023-06-12  - summary meeting 
+
+
 ### Fall semester
 
-#### Upcoming presentation
 
-**2022-12-19**
-
-**Abstract:** In the age of Deep Learning in the field of Computer Vision there still exist several classical algorithms that are perfect for segmentation task, like active contours. When they are perfect for single cases with human supervision (like in photoshop) they struggle when it comes to performance on scale. However, is there a way to find relationship between image features and algorithm's parameters and how do they influence each other? On the next seminar I would like to give presentation on my recent research towards answering this question, where classical algorithms will meet with autoML.
-
-### Schedule
 
 ##### Overview phase
 
