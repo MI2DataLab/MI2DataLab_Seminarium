@@ -11,7 +11,7 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 #### Schedule
 
 * 2023-02-20 - set-up meeting
-* 2023-02-27 - Acquisition of chess knowledge in AlphaZero - Bartek Sobieski, Mikołaj Spytek
+* 2023-02-27 - [Acquisition of chess knowledge in AlphaZero](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2023/2023_02_27_Acquisition_of_chess_knowledge_in_AlphaZero) - Bartek Sobieski, Mikołaj Spytek
 * 2023-03-06 - Aggregation of explanations - Weronika Hryniewska,
 * 2023-03-13 - Algorithm selection on a meta level - Anna Kozak, Hubert Ruczyński
 * 2023-03-20 - Unfooling Perturbation-Based Post Hoc Explainers - Hubert Baniecki, Mateusz Krzyziński
