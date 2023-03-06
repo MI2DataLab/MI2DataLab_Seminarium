@@ -2,7 +2,7 @@
 
 We meet every Monday, at 10 AM in MI^2 DataLab (room 044, Faculty of Mathematics and Information Science, Warsaw University of Technology) or online.
 
-Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
+Join us at https://meet.drwhy.ai.
 
 ## Year 2022/2023
 
