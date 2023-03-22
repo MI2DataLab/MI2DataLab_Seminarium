@@ -14,7 +14,7 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 * 2023-02-27 - [Acquisition of chess knowledge in AlphaZero](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2023/2023_02_27_Acquisition_of_chess_knowledge_in_AlphaZero) - Bartek Sobieski, Mikołaj Spytek
 * 2023-03-06 - [Aggregation of explanations](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2023/2023_03_06_Ensemble_XAI) - Weronika Hryniewska, Przemysław Biecek
 * 2023-03-13 - [Ensembles of models - how to get the most benefits](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2023/2023_03_13_ensemble_selection) - Anna Kozak, Hubert Ruczyński
-* 2023-03-20 - Unfooling Perturbation-Based Post Hoc Explainers - Hubert Baniecki, Mateusz Krzyziński
+* 2023-03-20 - [Unfooling Perturbation-Based Post Hoc Explainers](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2023/2023_03_20_unfooling) - Hubert Baniecki, Mateusz Krzyziński
 * 2023-03-27 - Globally-Consistent Rule-Based Summary-Explanations for Machine Learning Models: Application to Credit-Risk Evaluation - Mikołaj Spytek, Mateusz Krzyziński
 * 2023-04-03 - From “Where” to “What”… - Maciej Chrabąszcz, Bartek Sobieski
 * 2023-04-17 - Two-Stage Transfer Surrogate Model for Automatic Hyperparameter Optimization - Mateusz Grzyb, Kasia Woźnica
