@@ -17,9 +17,11 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 * 2023-03-20 - [Unfooling Perturbation-Based Post Hoc Explainers](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2023/2023_03_20_unfooling) - Hubert Baniecki, Mateusz Krzyziński
 * 2023-03-27 - [Globally-Consistent Rule-Based Summary-Explanations for Machine Learning Models: Application to Credit-Risk Evaluation](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2023_03_27_globally_consistent/) - Mikołaj Spytek, Mateusz Krzyziński
 * 2023-04-03 - From “Where” to “What”… - Maciej Chrabąszcz, Bartek Sobieski
-* 2023-04-17 - Two-Stage Transfer Surrogate Model for Automatic Hyperparameter Optimization - Mateusz Grzyb, Kasia Woźnica
+* 2023-04-17 - Explainable Artificial Intelligence for the Study of the Impact of Environmental Factors on Human Health- Donato Romano (guest, remote meeting)
 * 2023-04-24 - Post hoc Explanations may be Ineffective for Detecting Unknown Spurious Correlation - Mateusz Krzyziński, Hubert Baniecki
-* 2023-05-08 - Meta-learning from Tasks with Heterogeneous Attribute Spaces - Kasia Woźnica,
+* 2023-05-08 
+  + Two-Stage Transfer Surrogate Model for Automatic Hyperparameter Optimization - Mateusz Grzyb, Kasia Woźnica
+  + Meta-learning from Tasks with Heterogeneous Attribute Spaces - Kasia Woźnica
 * 2023-05-15 - Automated Benchmark-Driven Design and Explanation of Hyperparameter Optimizers - Hubert Ruczyński, Anna Kozak
 * 2023-05-22 - Transfer Learning - Paulina Tomaszewska,
 * 2023-05-29 -  Adaptive Testing and Debugging of NLP models - Emilia Wiśnios, Maciej Chrabąszcz
