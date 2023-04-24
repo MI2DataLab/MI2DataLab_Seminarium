@@ -1,4 +1,4 @@
-# From "Where" to "What": Towards Human-Understandable Explanations through Concept Relevance Propagation
+# Shapley values and functional decompositions
 
 **Based on:**
 - Munir Hiabu, Joseph T. Meyer, Marvin N. Wright. ***Unifying local and global model explanations by functional decomposition of low dimensional structures***
