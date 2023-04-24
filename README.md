@@ -18,7 +18,7 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 * 2023-03-27 - [Globally-Consistent Rule-Based Summary-Explanations for Machine Learning Models: Application to Credit-Risk Evaluation](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2023/2023_03_27_globally_consistent) - Mikołaj Spytek, Mateusz Krzyziński
 * 2023-04-03 - [From "Where" to "What": Towards Human-Understandable Explanations through Concept Relevance Propagation](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2023/2023_04_03_from_where_to_what) - Maciej Chrabąszcz, Bartek Sobieski
 * 2023-04-17 - Explainable Artificial Intelligence for the Study of the Impact of Environmental Factors on Human Health- Donato Romano (guest, remote meeting)
-* 2023-04-24 - Post hoc Explanations may be Ineffective for Detecting Unknown Spurious Correlation - Mateusz Krzyziński, Hubert Baniecki
+* 2023-04-24 - [Shapley values and functional decompositions](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2023/2023_04_24_shap_functional_decomposition) - Mateusz Krzyziński, Hubert Baniecki
 * 2023-05-08 
   + Two-Stage Transfer Surrogate Model for Automatic Hyperparameter Optimization - Mateusz Grzyb, Kasia Woźnica
   + Meta-learning from Tasks with Heterogeneous Attribute Spaces - Kasia Woźnica
