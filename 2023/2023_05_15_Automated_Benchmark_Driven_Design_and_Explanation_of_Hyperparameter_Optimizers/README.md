@@ -1,0 +1,6 @@
+# Automated_Benchmark_Driven_Design_and_Explanation_of_Hyperparameter_Optimizers
+
+Hyperparameter optimization is a crucial autoML part, a time-consuming task, and very often a chaotic task. In recent years, the development of new hyperparameter optimization methods relies on further exploiting and enhancing the existing solutions. Moreover, more complex optimization techniques rely on a mixture of well-known algorithms, and expert knowledge, which often makes the optimization process chaotic and non-standardized. The paper ‘Automated Benchmark-Driven Design and Explanation of Hyperparameter Optimizers’ presented during the next seminar tackles this problem and the authors propose an automatic algorithm to design and tune new Hyperparameter Optimizers (HPO). Their research is focused on multi-fidelity (MF) solutions as they yield beneficial aspects for this task.
+Presentation: [Automated Benchmark-Driven Design and Explanation of Hyperparameter Optimizers.pdf](https://github.com/MI2DataLab/MI2DataLab_Seminarium/files/11477881/Automated.Benchmark-Driven.Design.and.Explanation.of.Hyperparameter.Optimizers.pdf)
+
+Paper: [Automated_Benchmark_Driven_Design_and_Explanation_of_Hyperparameter_Optimizers.pdf](https://github.com/MI2DataLab/MI2DataLab_Seminarium/files/11477882/Automated_Benchmark_Driven_Design_and_Explanation_of_Hyperparameter_Optimizers.pdf)
