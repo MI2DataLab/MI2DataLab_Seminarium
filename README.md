@@ -22,7 +22,7 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 * 2023-05-08 - [Scalable Gaussian process-based transfer surrogates for hyperparameter optimization](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2023/2023_05_08_Scalable_Gaussian_process-based_transfer_surrogates_for_hyperparameter_optimization) - Mateusz Grzyb, Katarzyna Woźnica
 * 2023-05-15 - [Automated Benchmark-Driven Design and Explanation of Hyperparameter Optimizers](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2023/2023_05_15_Automated_Benchmark_Driven_Design_and_Explanation_of_Hyperparameter_Optimizers) - Hubert Ruczyński, Anna Kozak
 * 2023-05-22 - Formal methods for neural networks verification - Paulina Tomaszewska,
-* 2023-05-29 -  Adaptive Testing and Debugging of NLP models - Emilia Wiśnios, Maciej Chrabąszcz
+* 2023-05-29 -  [Adaptive Testing and Debugging of NLP models](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2023/2023_05_29_Adaptive_Testing_And_Debugging_Of_NLP_Models) - Emilia Wiśnios, Maciej Chrabąszcz
 * 2023-06-05 -  Meta-learning from Tasks with Heterogeneous Attribute Spaces - Katarzyna Woźnica
 * 2023-06-12  - summary meeting 
 
