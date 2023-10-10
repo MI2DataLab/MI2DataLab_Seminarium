@@ -10,7 +10,7 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 
 #### Schedule
 
-* 09.10.2023 - Organizational matters - Hubert Baniecki, Maciej Chrabąszcz, Bartek Sobieski
+* 09.10.2023 - [Organizational matters](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2023/2023_10_09_Organizational_matters_winter_edition) - Hubert Baniecki, Maciej Chrabąszcz, Bartek Sobieski
 * 16.10.2023 - On Minimizing the Impact of Dataset Shifts on Actionable Explanations				
 * 23.10.2023 - On the Robustness of Removal-Based Feature Attributions
 * 26.10.2023 - Discussion - Adversarial XAI
@@ -27,5 +27,5 @@ Join us at https://meet.drwhy.ai (or https://meet.google.com/nno-okiz-bxy).
 * 22.01.2024 - TBD
 
 **Overviews of previous editions**  
-[2022/2023](https://github.com/MI2DataLab/MI2DataLab_Seminarium/blob/master/README_ARCHIVE_22_23.md)
+[2022/2023](https://github.com/MI2DataLab/MI2DataLab_Seminarium/blob/master/README_ARCHIVE_22_23.md)  
 [2021/2022](https://github.com/MI2DataLab/MI2DataLab_Seminarium/blob/master/README_ARCHIVE.md)  
