@@ -1,0 +1,2 @@
+paper: https://proceedings.mlr.press/v216/meyer23a.html
+slides: http://hbaniecki.com/iml_journal_club_2023
