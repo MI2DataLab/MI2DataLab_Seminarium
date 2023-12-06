@@ -1,0 +1,5 @@
+# Representation Engineering
+
+AI systems pose many challenges and risks, such as transparency, safety, ethics, and fairness. How can we understand and control the inner workings of AI systems, especially large language models (LLMs) that have remarkable capabilities across various domains? In this seminar, we will explore the emerging area of representation engineering (RepE), a top-down approach to AI transparency that places representations at the center of analysis. We will learn about the methods and applications of RepE, such as reading and controlling representations of concepts and functions in LLMs, and how RepE can address various safety-relevant problems, such as honesty, hallucination, utility, power-seeking, emotion, harmlessness, bias, and more. We will also discuss the limitations and future directions of RepE and how it can contribute to developing more transparent and trustworthy AI systems.
+
+Paper: https://arxiv.org/abs/2310.01405
