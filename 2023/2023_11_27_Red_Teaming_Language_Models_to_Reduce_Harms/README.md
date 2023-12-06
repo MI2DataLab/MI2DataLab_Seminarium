@@ -1,0 +1,6 @@
+# Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned
+
+The paper from the Anthropic team, a prominent AI company, details their pioneering efforts in red teaming Large Language Models (LLMs) to assess and reduce their potentially harmful outputs. The authors investigate the scaling effects in red teaming across different model sizes (2.7B, 13B, 52B parameters) and types. This includes a basic language model, a model prompted for safety and honesty, one with rejection sampling, and a Reinforcement Learning from Human Feedback (RLHF) model trained for harmlessness. Additional value of the paper is the sharing of the largest dataset to date, comprising 38,961 red team attacks, offering insights into a range of harmful outputs, from blatantly offensive language to subtly unethical content. Finally, the authors thoroughly discuss the aspects of crowdsourcing labelers, their performance, and detail methodologies, along with the inherent uncertainties in red teaming. This is done with the goal of encouraging community collaboration to establish ethical standards and practices for language models.
+
+Paper: https://arxiv.org/abs/2209.07858
+This article was written by Anthropic and published on arXiv.
