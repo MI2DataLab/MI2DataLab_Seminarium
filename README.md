@@ -19,7 +19,7 @@ Join us at https://meet.drwhy.ai.
 * 20.11.2023 - [Red Teaming Language Models with Language Models](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2023/2023_11_20_Red_Teaming_Language_Models_with_Language_Models) - Piotr Wilczyński
 * 27.11.2023 - [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2023/2023_11_27_Red_Teaming_Language_Models_to_Reduce_Harms) - Vladimir Zaigrajew
 * 04.12.2023 - Discussion - RedTeaming of foundation models
-* 11.12.2023 - Introduction to Diffusion Models - Bartek Sobieski
+* 11.12.2023 - [Introduction to Diffusion Models](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2023/2023_12_11_intro_to_diffusion_models) - Bartek Sobieski
 * 18.12.2023 - Glaze: Protecting artists from style mimicry by text-to-image model - Tymoteusz Kwieciński
 * 08.01.2023 - Red-Teaming the Stable Diffusion Safety Filter - Mateusz Grzyb
 * 15.01.2024 - TBD - Hubert Ruczyński
