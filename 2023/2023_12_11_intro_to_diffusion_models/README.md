@@ -1,0 +1,3 @@
+# Introduction to diffusion models
+
+Diffusion probabilistic models have revolutionized generative modelling in computer vision. Understanding their theoretical underpinnings is crucial not only for the development of the field of generative modelling itself, but also in terms of potential adaptations in other fields, such as Explainable Artificial Intelligence. Because of that, the upcoming seminar will focus on a general overview of diffusion models - from the theory and its motivations to specific applications. This knowledge will serve us in discussing subsequent articles focusing on specific adaptations of diffusion models presented at future meetings.
