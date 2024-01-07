@@ -1,0 +1,5 @@
+# Glaze: Protecting Artists from Style Mimicry by Text-to-Image Models
+
+Generative AI models have drastically changed how we create and consume images and art. Models like MidJourney and Stable Diffusion have been trained on large datasets like LAION-5B containing scraped private or copyrighted images. As a result, many artists were placed before deciding whether to upload their art online and risk their artwork being illegally used in models' training or losing a vital way of promoting their artwork. An even more significant threat for artists is "style mimicry" - a specific attack in which a model is fine-tuned on artists' images. The final tuned model can produce images in the personal style of the target artists, which usually takes years for the artist to achieve. During the following Monday's presentation, I will briefly recap how Stable Diffusion works and present a tool that helps artists protect their style. Glaze is a solution that allows disrupting the image enough; in a way, the specific artist's style can't be extracted from the data.
+
+The presentation will be based on [this](https://arxiv.org/abs/2302.04222) paper
