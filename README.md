@@ -21,8 +21,8 @@ Join us at https://meet.drwhy.ai.
 * 04.12.2023 - Discussion - RedTeaming of foundation models
 * 11.12.2023 - [Introduction to Diffusion Models](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2023/2023_12_11_intro_to_diffusion_models) - Bartek Sobieski
 * 18.12.2023 - [Glaze: Protecting artists from style mimicry by text-to-image model](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2023/2023_12_18_glaze_protecting_artists_from_style_mimicry) - Tymoteusz Kwieciński
-* 08.01.2023 - [Red-Teaming the Stable Diffusion Safety Filter](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2023/2024_01_15_red_teaming_stable_diffusion_safety_filter) - Mateusz Grzyb
-* 15.01.2024 - TBD - Hubert Ruczyński
+* 08.01.2024 - TBD - Hubert Ruczyński
+* 15.01.2024 - [Red-Teaming the Stable Diffusion Safety Filter](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2023/2024_01_15_red_teaming_stable_diffusion_safety_filter) - Mateusz Grzyb
 * 22.01.2024 - Discussion - Diffusion models for XAI
 
 **Overviews of previous editions**  
