@@ -6,6 +6,15 @@ Join us at https://meet.drwhy.ai.
 
 ## Year 2023/2024
 
+### Summer semester
+
+#### Schedule
+
+* 25.03.2024 - Introduction to counterfactual explanations track - Mateusz Krzyziński, Bartek Sobieski
+* 08.04.2024 - TBD
+* 15.04.2024 - TBD
+* 22.04.2024 - TBD
+
 ### Winter semester
 
 #### Schedule
