@@ -10,10 +10,10 @@ Join us at https://meet.drwhy.ai.
 
 #### Schedule
 
-* 25.03.2024 - Introduction to counterfactual explanations track - Mateusz Krzyziński, Bartek Sobieski
-* 08.04.2024 - TBD
+* 08.04.2024 - Introduction to counterfactual explanations track - Mateusz Krzyziński, Bartek Sobieski
 * 15.04.2024 - TBD
 * 22.04.2024 - TBD
+* 29.04.2024 - TBD
 
 ### Winter semester
 
