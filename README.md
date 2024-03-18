@@ -10,10 +10,21 @@ Join us at https://meet.drwhy.ai.
 
 #### Schedule
 
+* 19.02.2024 - PhD Thesis discussion Explanation methods for sequential data model
+* 26.02.2024 - PhD Thesis discussion Modele rekomendacyjne wspólnej filtracji w serwisach ogłoszeniowych
+* 04.02.2024 - PhD Thesis presentation Modele rekomendacyjne wspólnej filtracji w serwisach ogłoszeniowych
+* 11.03.2024 - PhD Thesis discussion Analysis and texture recognition of digital images for computer aided skin lesions diagnostics
+* 18.03.2024 - PhD Thesis presentation Analysis and texture recognition of digital images for computer aided skin lesions diagnostics
+* 25.03.2024 - Law in AI - Andrzej Porębski
 * 08.04.2024 - Introduction to counterfactual explanations track - Mateusz Krzyziński, Bartek Sobieski
 * 15.04.2024 - TBD
 * 22.04.2024 - TBD
 * 06.05.2024 - TBD
+* 13.05.2024 - TBD
+* 20.05.2024 - TBD
+* 27.05.2024 - TBD
+* 03.06.2024 - TBD
+* 10.06.2024 - TBD
 
 ### Winter semester
 
