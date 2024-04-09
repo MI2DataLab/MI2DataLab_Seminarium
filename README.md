@@ -17,10 +17,10 @@ Join us at https://meet.drwhy.ai.
 * 18.03.2024 - PhD Thesis presentation Analysis and texture recognition of digital images for computer aided skin lesions diagnostics
 * 25.03.2024 - Law in AI - Andrzej Porębski
 * 08.04.2024 - Introduction to counterfactual explanations track - Mateusz Krzyziński, Bartek Sobieski
-* 15.04.2024 - TBD
-* 22.04.2024 - TBD
-* 06.05.2024 - TBD
-* 13.05.2024 - TBD
+* 15.04.2024 - The Privacy Issue of Counterfactual Explanations: Explanation Linkage Attacks - Mikołaj Spytek
+* 22.04.2024 - Text-to-Image Models for Counterfactual Explanations: A Black-Box Approach - Tymoteusz Kwieciński
+* 06.05.2024 - GLOBE-CE: A Translation Based Approach for Global Counterfactual Explanations - Piotr Wilczyński
+* 13.05.2024 - Introduction to ViT and tranformer attributions - Filip Kołodziejczyk
 * 20.05.2024 - TBD
 * 27.05.2024 - TBD
 * 03.06.2024 - TBD
