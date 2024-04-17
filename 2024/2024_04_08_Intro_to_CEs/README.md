@@ -1,0 +1,3 @@
+# Introduction to counterfactual explanations
+
+Together with Mateusz Krzyziński, we will provide a concise introduction to the counterfactual explanations track, that we will follow for the next 3 weeks. Our goal is to familiarize everyone with the general concept of these explanations and move on to two different points of view - tabular data and images. We will also focus on current research problems in this field to point out potential interesting directions for anyone interested in working on this topic. Overall, the upcoming presentation will be a good starting point for future meetings concerned with specific methods.
