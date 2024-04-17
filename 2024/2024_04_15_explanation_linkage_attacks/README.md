@@ -1,0 +1,3 @@
+ 
+This time we will tackle the topic of security of counterfactual explanations. We will and study explanation linkage attacks, which are ways of identifying individuals by obtaining private or semi-private protected attributes based on counterfactual explanations. We will also take a look at the proposed solution of making counterfactuals k-anonymous, that is indistinguishable between at least k factual observations from the training set by generalizing the protected attributes via the CF-K algorithm. Finally, we will analyze the experimental results and discuss the findings of the authors.
+This presentation is based on [this paper](https://dl.acm.org/doi/full/10.1145/3608482).
