@@ -19,7 +19,7 @@ Join us at https://meet.drwhy.ai.
 * 08.04.2024 - [Introduction to counterfactual explanations track](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2024/2024_04_08_Intro_to_CEs) - Mateusz Krzyziński, Bartek Sobieski
 * 15.04.2024 - [The Privacy Issue of Counterfactual Explanations: Explanation Linkage Attacks](https://github.com/HubertR21/MI2DataLab_Seminarium/tree/master/2024/2024_04_15_explanation_linkage_attacks) - Mikołaj Spytek
 * 22.04.2024 - [Text-to-Image Models for Counterfactual Explanations: A Black-Box Approach](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2024/2024_04_22_TIME_Text-To-Image_For_Counterfactual_Explanations) - Tymoteusz Kwieciński
-* 06.05.2024 - GLOBE-CE: A Translation Based Approach for Global Counterfactual Explanations - Piotr Wilczyński
+* 06.05.2024 - [GLOBE-CE: A Translation Based Approach for Global Counterfactual Explanations](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2024/2024_05_06_GLOBE-CE) - Piotr Wilczyński
 * 13.05.2024 - Introduction to ViT and transformer attributions - Filip Kołodziejczyk
 * 20.05.2024 - TBD
 * 27.05.2024 - TBD
