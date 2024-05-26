@@ -21,10 +21,10 @@ Join us at https://meet.drwhy.ai.
 * 22.04.2024 - [Text-to-Image Models for Counterfactual Explanations: A Black-Box Approach](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2024/2024_04_22_TIME_Text-To-Image_For_Counterfactual_Explanations) - Tymoteusz Kwieciński
 * 06.05.2024 - [GLOBE-CE: A Translation Based Approach for Global Counterfactual Explanations](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2024/2024_05_06_GLOBE-CE) - Piotr Wilczyński
 * 13.05.2024 - Introduction to ViT and transformer attributions - Filip Kołodziejczyk
-* 20.05.2024 - TBD
-* 27.05.2024 - TBD
-* 03.06.2024 - TBD
-* 10.06.2024 - TBD
+* 20.05.2024 - MI^2 PhD thesis presentations - Weronika Guzik, Katarzyna Kobylińska, Katarzyna Woźnica.
+* 27.05.2024 - AtMan: Understanding Transformer Predictions Through Memory Efficient Attention Manipulation - Maciej Chrabąszcz
+* 03.06.2024 - Learning to Estimate Shapley Values with Vision Transformers - Vladimir Zaigrajew
+* 10.06.2024 - Semester summary and discussion.
 
 ### Winter semester
 
