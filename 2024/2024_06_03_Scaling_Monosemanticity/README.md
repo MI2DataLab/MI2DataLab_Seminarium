@@ -1,0 +1,8 @@
+# Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet
+
+One of the roadblocks to a better understanding of neural networks' internals is polysemanticity, where neurons appear to activate in multiple, semantically distinct contexts. Polysemanticity prevents us from identifying concise, human-understandable explanations for what neural networks are doing internally. One hypothesized cause of polysemanticity is superposition, where neural networks represent more features than they have neurons by assigning features to an overcomplete set of directions in activation space, rather than to individual neurons. Recent successful works have attempted to resolve this problem through a dictionary learning approach, where sparse autoencoders are trained on model activations to produce disentangled, interpretable, and monosemantic representations. We will explore how sparse autoencoders work, their application, and their interpretation within large language models (LLMs), with a main focus on recent research article from Anthropic. This article demonstrates how sparse autoencoders can scale with LLMs producing monosemantic representations and how this representations can be used to understand inner representations of the model.
+
+[Main paper](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
+[Previous paper from Anthropic about this approach](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
+[Paper introducing sparse autoencoders into LLms](https://arxiv.org/abs/2309.08600)
+[Additional Paper trying to improve shrinkage problem in sparse autoencoders](https://arxiv.org/abs/2404.16014)

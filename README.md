@@ -23,7 +23,7 @@ Join us at https://meet.drwhy.ai.
 * 13.05.2024 - Introduction to ViT and transformer attributions - Filip Kołodziejczyk
 * 20.05.2024 - MI^2 PhD thesis presentations - Weronika Guzik, Katarzyna Kobylińska, Katarzyna Woźnica.
 * 27.05.2024 - AtMan: Understanding Transformer Predictions Through Memory Efficient Attention Manipulation - Maciej Chrabąszcz
-* 03.06.2024 - Learning to Estimate Shapley Values with Vision Transformers - Vladimir Zaigrajew
+* 03.06.2024 - [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2024/2024_06_03_Scaling_Monosemanticity) - Vladimir Zaigrajew
 * 10.06.2024 - Semester summary and discussion.
 
 ### Winter semester
