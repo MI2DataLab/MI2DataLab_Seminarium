@@ -4,6 +4,20 @@ We meet every Monday, at 10 AM in MI^2 DataLab (room 044, Faculty of Mathematics
 
 Join us at https://meet.drwhy.ai.
 
+## Year 2024/2025
+
+### Winter semester
+
+#### Schedule for the first half of the semester (track: Context matters in Deep Learning Models - Computer Vision):
+
+* 07.10 - guest lecture by nadkom. dr Paweł Olber
+* 14.10 - Do Not Explain Vision Models without Context - Paulina Tomaszewska
+* 21.10 - Positional Label for Self-Supervised Vision Transformer - Filip Kołodziejczyk
+* 28.10 - ADC: Adversarial attacks against object Detection that evade Context consistency checks - Hubert Baniecki
+* 04.11 - Unlocking the Power of Spatial and Temporal Information in Medical Multimodal Pre-training - Bartosz Kochański
+* 14.11 - …
+* 18.11 - Vision Transformers provably learn spatial structure - Vladimir Zaigrajew
+
 ## Year 2023/2024
 
 ### Summer semester
