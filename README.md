@@ -12,7 +12,7 @@ Join us at https://meet.drwhy.ai.
 
 * 07.10 - guest lecture by nadkom. dr Paweł Olber
 * 14.10 - Do Not Explain Vision Models without Context - Paulina Tomaszewska
-* 21.10 - Positional Label for Self-Supervised Vision Transformer - Filip Kołodziejczyk
+* 21.10 - [Positional Label for Self-Supervised Vision Transformer](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2024/2024_10_21_Positional_Label_for_Self-Supervised_Vision_Transformer) - Filip Kołodziejczyk
 * 28.10 - ADC: Adversarial attacks against object Detection that evade Context consistency checks - Hubert Baniecki
 * 04.11 - Unlocking the Power of Spatial and Temporal Information in Medical Multimodal Pre-training - Bartosz Kochański
 * 14.11 - …
