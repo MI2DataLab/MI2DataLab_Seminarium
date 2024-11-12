@@ -16,8 +16,8 @@ Join us at https://meet.drwhy.ai.
 * 28.10 - [Adversarial examples vs. context consistency defense for object detection](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2024/2024_10_28_Adversarial_attacks_against_object_detection.md) - Hubert Baniecki
 * 04.11 - Unlocking the Power of Spatial and Temporal Information in Medical Multimodal Pre-training - Bartosz Kochański
 * 18.11 - Vision Transformers provably learn spatial structure - Vladimir Zaigrajew
-* 25.11 - Null-text Inversion for Editing Real Images using Guided Diffusion Models - TBD
-* 02.12 - Diffusion-Based Scene Graph to Image Generation with Masked Contrastive Pre-Training - TBD
+* 25.11 - Null-text Inversion for Editing Real Images using Guided Diffusion Models - Dawid Płudowski
+* 02.12 - Diffusion-Based Scene Graph to Image Generation with Masked Contrastive Pre-Training - Tymoteusz Kwieciński
 
 ## Year 2023/2024
 
