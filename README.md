@@ -18,6 +18,7 @@ Join us at https://meet.drwhy.ai.
 * 18.11 - Vision Transformers provably learn spatial structure - Vladimir Zaigrajew
 * 25.11 - Null-text Inversion for Editing Real Images using Guided Diffusion Models - Dawid Płudowski
 * 02.12 - Diffusion-Based Scene Graph to Image Generation with Masked Contrastive Pre-Training - Tymoteusz Kwieciński
+* 20.01 - Connecting counterfactual and attributions modes of explanation - Jan Jakubik
 
 ## Year 2023/2024
 
