@@ -16,7 +16,7 @@ Join us at https://meet.drwhy.ai.
 * 28.10 - [Adversarial examples vs. context consistency defense for object detection](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2024/2024_10_28_Adversarial_attacks_against_object_detection.md) - Hubert Baniecki
 * 04.11 - Unlocking the Power of Spatial and Temporal Information in Medical Multimodal Pre-training - Bartosz Kochański
 * 18.11 - User study: Visual Counterfactual Explanations for Improved Model Understanding - Bartek Sobieski
-* 25.11 - Vision Transformers provably learn spatial structure - Vladimir Zaigrajew
+* 25.11 - [Vision Transformers provably learn spatial structure](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2024/2024_11_25_Vision_Transformers_provably_learn_spatial_structure) - Vladimir Zaigrajew
 * 02.12 - Null-text Inversion for Editing Real Images using Guided Diffusion Models - Dawid Płudowski
 * 09.12 - Diffusion-Based Scene Graph to Image Generation with Masked Contrastive Pre-Training - Tymoteusz Kwieciński
 * 20.01 - Connecting counterfactual and attributions modes of explanation - Jan Jakubik
