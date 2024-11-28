@@ -14,7 +14,7 @@ Join us at https://meet.drwhy.ai.
 * 14.10 - Do Not Explain Vision Models without Context - Paulina Tomaszewska
 * 21.10 - [Positional Label for Self-Supervised Vision Transformer](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2024/2024_10_21_Positional_Label_for_Self-Supervised_Vision_Transformer) - Filip Kołodziejczyk
 * 28.10 - [Adversarial examples vs. context consistency defense for object detection](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2024/2024_10_28_Adversarial_attacks_against_object_detection.md) - Hubert Baniecki
-* 04.11 - Unlocking the Power of Spatial and Temporal Information in Medical Multimodal Pre-training - Bartosz Kochański
+* 04.11 - [Unlocking the Power of Spatial and Temporal Information in Medical Multimodal Pre-training](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2024/2024_11_04_Unlocking_the_Power_of_Spatial_and_Temporal_Information_in_Medical_Multimodal_Pre-training) - Bartosz Kochański
 * 18.11 - User study: Visual Counterfactual Explanations for Improved Model Understanding - Bartek Sobieski
 * 25.11 - Vision Transformers provably learn spatial structure - Vladimir Zaigrajew
 * 02.12 - Null-text Inversion for Editing Real Images using Guided Diffusion Models - Dawid Płudowski
