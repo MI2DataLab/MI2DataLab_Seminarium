@@ -17,7 +17,7 @@ Join us at https://meet.drwhy.ai.
 * 04.11 - [Unlocking the Power of Spatial and Temporal Information in Medical Multimodal Pre-training](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2024/2024_11_04_Unlocking_the_Power_of_Spatial_and_Temporal_Information_in_Medical_Multimodal_Pre-training) - Bartosz Kochański
 * 18.11 - User study: Visual Counterfactual Explanations for Improved Model Understanding - Bartek Sobieski
 * 25.11 - [Vision Transformers provably learn spatial structure](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2024/2024_11_25_Vision_Transformers_provably_learn_spatial_structure) - Vladimir Zaigrajew
-* 02.12 - Null-text Inversion for Editing Real Images using Guided Diffusion Models - Dawid Płudowski
+* 02.12 - [Null-text Inversion for Editing Real Images using Guided Diffusion Models](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2024/2024_12_02_Null_text_optimization_for_editing_real_images) - Dawid Płudowski
 * 09.12 - Diffusion-Based Scene Graph to Image Generation with Masked Contrastive Pre-Training - Tymoteusz Kwieciński
 * 20.01 - Connecting counterfactual and attributions modes of explanation - Jan Jakubik
 
