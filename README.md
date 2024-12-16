@@ -19,6 +19,7 @@ Join us at https://meet.drwhy.ai.
 * 25.11 - [Vision Transformers provably learn spatial structure](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2024/2024_11_25_Vision_Transformers_provably_learn_spatial_structure) - Vladimir Zaigrajew
 * 02.12 - [Null-text Inversion for Editing Real Images using Guided Diffusion Models](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2024/2024_12_02_Null_text_optimization_for_editing_real_images) - Dawid Płudowski
 * 09.12 - Diffusion-Based Scene Graph to Image Generation with Masked Contrastive Pre-Training - Tymoteusz Kwieciński
+* 16.12 - [Rethinking Visual Counterfactual Explanations Through Region Constraint](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2024/2024_12_16_rethinking_visual_counterfactual_explanations_through_region_constraint) - Bartek Sobieski
 * 20.01 - Connecting counterfactual and attributions modes of explanation - Jan Jakubik
 
 ## Year 2023/2024
