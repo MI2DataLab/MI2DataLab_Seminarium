@@ -20,7 +20,7 @@ Join us at https://meet.drwhy.ai.
 * 02.12 - [Null-text Inversion for Editing Real Images using Guided Diffusion Models](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2024/2024_12_02_Null_text_optimization_for_editing_real_images) - Dawid Płudowski
 * 09.12 - Diffusion-Based Scene Graph to Image Generation with Masked Contrastive Pre-Training - Tymoteusz Kwieciński
 * 16.12 - [Rethinking Visual Counterfactual Explanations Through Region Constraint](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2024/2024_12_16_rethinking_visual_counterfactual_explanations_through_region_constraint) - Bartek Sobieski
-* 13.01 - Controlling The World by Sleight of Hand - Jakub Świstak
+* 13.01 - [Controlling The World by Sleight of Hand](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2025/2025_01_13_controlling_the_world_by_sleight_of_hand) - Jakub Świstak
 * 20.01 - Connecting counterfactual and attributions modes of explanation - Jan Jakubik
 
 ## Year 2023/2024
