@@ -5,5 +5,4 @@ This task poses several challenging characteristics for image classification. It
 
 In next week's presentation, I will talk about the first black-box method of generating Counterfactual Explanations for image classification. TIME (Text-to-Image Models for Counterfactual Explanations) is a novel method that generates CEs using diffusion models combining two different ideas - textual inversion, and EDICT- which create an ingenious method of explaining the image classifiers
 
-
-Presentation will is based on [this paper](https://arxiv.org/pdf/2309.07944.pdf)
+Presentation is based on [this paper](https://arxiv.org/pdf/2309.07944.pdf)
