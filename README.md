@@ -6,7 +6,24 @@ Join us at https://meet.drwhy.ai.
 
 ## Year 2024/2025
 
-### Winter semester
+### Spring semester
+
+* 24.02
+* 03.03
+* 10.03
+* 17.03
+* 24.03
+* 31.03
+* 07.04
+* 14.04
+* 28.04
+* 12.05
+* 19.05
+* 26.05
+* 02.06
+* 09.06
+
+### Fall semester
 
 #### Schedule for the first half of the semester (track: Context matters in Deep Learning Models - Computer Vision):
 
