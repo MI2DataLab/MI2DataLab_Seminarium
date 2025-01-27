@@ -13,9 +13,9 @@ Join us at https://meet.drwhy.ai.
 * 10.03 - Vlad
 * 17.03 - Vlad
 * 24.03 - Vlad
-* 31.03 - Hubert
-* 07.04 - Hubert
-* 14.04 - Hubert
+* 31.03 - PIP-Net - (advising Hubert)
+* 07.04 - ProtoViT - (advising Hubert)
+* 14.04 - Adversarial analysis of intrinsically interpretable deep learning - Hubert Baniecki
 * 28.04 - Vlad
 * 12.05 - Bartek
 * 19.05 - Bartek
