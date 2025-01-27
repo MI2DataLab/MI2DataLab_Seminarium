@@ -9,10 +9,10 @@ Join us at https://meet.drwhy.ai.
 ### Spring semester
 
 * 24.02
-* 03.03 - Vlad
-* 10.03 - Vlad
-* 17.03 - Vlad
-* 24.03 - Vlad
+* 03.03 - Introduction to Sparse Autoencoders (ReLU, TopK, Anthropic Works)  - (Vladimir)
+* 10.03 - New and Related Work in SAE - (Vladimir) 
+* 17.03 - New and Related Work in SAE (additional time) - (Vladimir) 
+* 24.03 - Interpreting CLIP with Hierarchical Sparse Autoencoders - Vladimir Zaigrajew
 * 31.03 - PIP-Net - (advising Hubert)
 * 07.04 - ProtoViT - (advising Hubert)
 * 14.04 - Adversarial analysis of intrinsically interpretable deep learning - Hubert Baniecki
