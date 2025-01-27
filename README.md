@@ -20,6 +20,7 @@ Join us at https://meet.drwhy.ai.
 * 12.05 - Bartek
 * 19.05 - Bartek
 * 26.05 - Bartek
+* 31.05 - Wyjazd zespołu do Wilgi
 * 02.06 - Bartek
 * 09.06
 
