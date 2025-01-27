@@ -9,18 +9,18 @@ Join us at https://meet.drwhy.ai.
 ### Spring semester
 
 * 24.02
-* 03.03
-* 10.03
-* 17.03
-* 24.03
-* 31.03
-* 07.04
-* 14.04
-* 28.04
-* 12.05
-* 19.05
-* 26.05
-* 02.06
+* 03.03 - Vlad
+* 10.03 - Vlad
+* 17.03 - Vlad
+* 24.03 - Vlad
+* 31.03 - Hubert
+* 07.04 - Hubert
+* 14.04 - Hubert
+* 28.04 - Hubert
+* 12.05 - Bartek
+* 19.05 - Bartek
+* 26.05 - Bartek
+* 02.06 - Bartek
 * 09.06
 
 ### Fall semester
