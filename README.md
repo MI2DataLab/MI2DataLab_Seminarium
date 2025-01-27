@@ -16,7 +16,7 @@ Join us at https://meet.drwhy.ai.
 * 31.03 - Hubert
 * 07.04 - Hubert
 * 14.04 - Hubert
-* 28.04 - Hubert
+* 28.04 - Vlad
 * 12.05 - Bartek
 * 19.05 - Bartek
 * 26.05 - Bartek
