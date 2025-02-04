@@ -8,12 +8,12 @@ Join us at https://meet.drwhy.ai.
 
 ### Spring semester
 
-* 24.02 - Introduction to Sparse Autoencoders (ReLU, TopK, Anthropic Works)  - (Vladimir)
-* 03.03 - New and Related Work in SAE - (Vladimir) 
-* 10.03 - New and Related Work in SAE (additional time) - (Vladimir) 
-* 17.03 - Interpreting CLIP with Hierarchical Sparse Autoencoders - Vladimir Zaigrajew
-* 24.03 - INTRO + PIP-Net: Patch-based intuitive prototypes for interpretable image classification (CVPR 2023) - (advising HB)
-* 31.03 - Interpretability benchmark for evaluating spatial misalignment of prototypical parts explanations (AAAI 2024) - (advising HB)
+* 24.02 - Tracking informations flow in biosystems from high-throughput data - Miron Kursa
+* 03.03 - Introduction to Sparse Autoencoders (ReLU, TopK, Anthropic Works) - (Vladimir)
+* 10.03 - New and Related Work in SAE - (Vladimir) 
+* 17.03 - New and Related Work in SAE (additional time) - (Vladimir) 
+* 24.03 - Interpreting CLIP with Hierarchical Sparse Autoencoders - Vladimir Zaigrajew
+* 31.03 - INTRO + PIP-Net: Patch-based intuitive prototypes for interpretable image classification (CVPR 2023) - (advising HB)
 * 07.04 - ProtoViT: Interpretable image classification with adaptive prototype-based vision transformers (NeurIPS 2024) - (advising HB)
 * 14.04 - Adversarial analysis of intrinsically interpretable deep learning - Hubert Baniecki
 * 28.04 - Vlad
