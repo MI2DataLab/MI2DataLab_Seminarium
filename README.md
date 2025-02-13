@@ -9,10 +9,10 @@ Join us at https://meet.drwhy.ai.
 ### Spring semester
 
 * 24.02 - Tracking informations flow in biosystems from high-throughput data - Miron Kursa
-* 03.03 - Introduction to Sparse Autoencoders (ReLU, TopK, Anthropic Works) - (Vladimir)
-* 10.03 - New and Related Work in SAE - (Vladimir) 
-* 17.03 - New and Related Work in SAE (additional time) - (Vladimir) 
-* 24.03 - Interpreting CLIP with Hierarchical Sparse Autoencoders - Vladimir Zaigrajew
+* 03.03 - Introduction to Sparse Autoencoders SAE with [ReLU](https://transformer-circuits.pub/2024/scaling-monosemanticity/) (Anthropic; Blog; 21.05.2024), [TopK](https://openreview.net/forum?id=tcsZt9ZNKD) (OpenAI; ICLR 2025; 06.06.2025) and [JumpReLU](https://openreview.net/forum?id=XkMrWOJhNd) (DeepMind; 09.08.2024; EMNLP 2024 Workshop) - (advising Vladimir)
+* 10.03 - [Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models](https://openreview.net/forum?id=I4e82CIDxv) (Northeastern University; ICLR 2025; 31.03.2025) - (advising Vladimir) 
+* 17.03 - [Sparse Autoencoders Do Not Find Canonical Units of Analysis](https://openreview.net/forum?id=9ca9eHNrdH) (Durham University/Independent; ICLR 2025; 07.02.2025) - (advising Vladimir)
+* 24.03 - Interpreting CLIP with Hierarchical Sparse Autoencoders (My paper; ICML 2025 under review; 30.01.2025) - Vladimir Zaigrajew
 * 31.03 - INTRO + PIP-Net: Patch-based intuitive prototypes for interpretable image classification (CVPR 2023) - (advising HB)
 * 07.04 - ProtoViT: Interpretable image classification with adaptive prototype-based vision transformers (NeurIPS 2024) - (advising HB)
 * 14.04 - Adversarial analysis of intrinsically interpretable deep learning - Hubert Baniecki
