@@ -1,4 +1,4 @@
-# Controlling the World by Sleight of Hand
+# Tracking informations flow in biosystems from high-throughput data
 
 Biology investigates ones among the hardest systems to model, due to
 their sheer complexity, but also tight coupling and multi-modality of
