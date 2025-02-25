@@ -8,7 +8,7 @@ Join us at https://meet.drwhy.ai.
 
 ### Spring semester
 
-* 24.02 - Tracking informations flow in biosystems from high-throughput data - Miron Kursa
+* 24.02 - [Tracking information flow in biosystems from high-throughput data](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2025/2025_02_24_tracking_information_flow) - Miron Kursa
 * 03.03 - Introduction to Sparse Autoencoders SAE with [ReLU](https://transformer-circuits.pub/2024/scaling-monosemanticity/) (Anthropic; Blog; 21.05.2024), [TopK](https://openreview.net/forum?id=tcsZt9ZNKD) (OpenAI; ICLR 2025; 06.06.2025) and [JumpReLU](https://openreview.net/forum?id=XkMrWOJhNd) (DeepMind; 09.08.2024; EMNLP 2024 Workshop) - (advising Vladimir)
 * 10.03 - [Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models](https://openreview.net/forum?id=I4e82CIDxv) (Northeastern University; ICLR 2025; 31.03.2025) - (advising Vladimir) 
 * 17.03 - [Sparse Autoencoders Do Not Find Canonical Units of Analysis](https://openreview.net/forum?id=9ca9eHNrdH) (Durham University/Independent; ICLR 2025; 07.02.2025) - (advising Vladimir)
