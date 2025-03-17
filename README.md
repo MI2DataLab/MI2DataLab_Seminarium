@@ -15,7 +15,7 @@ Join us at https://meet.drwhy.ai.
 * 24.03 - [Interpreting CLIP with Hierarchical Sparse Autoencoders](https://arxiv.org/abs/2502.20578) (My paper; Under Review; 30.01.2025) - Vladimir Zaigrajew
 * 31.03 - [PIP-Net: Patch-based intuitive prototypes for interpretable image classification](https://openaccess.thecvf.com/content/CVPR2023/html/Nauta_PIP-Net_Patch-Based_Intuitive_Prototypes_for_Interpretable_Image_Classification_CVPR_2023_paper.html) - Karol Dobiczek
 * 07.04 - [ProtoViT: Interpretable image classification with adaptive prototype-based vision transformers](https://openreview.net/forum?id=hjhpCJfbFG) - Paweł Gelar
-* 14.04 - [Adversarial analysis of intrinsically interpretable deep learning](https://arxiv.org/abs/2503.08636) - Hubert Baniecki
+* 14.04 - [Birds look like cars: Adversarial analysis of intrinsically interpretable deep learning](https://arxiv.org/abs/2503.08636) - Hubert Baniecki
 * 28.04 - Vlad (ICLR)
 * 12.05 - [DiG-IN: Diffusion Guidance for Investigating Networks -- Uncovering Classifier Differences Neuron Visualisations and Visual Counterfactual Explanations](https://arxiv.org/abs/2311.17833) (advising BS)
 * 19.05 - [Explaining in Diffusion: Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models](https://arxiv.org/abs/2412.18604) (advising BS)
