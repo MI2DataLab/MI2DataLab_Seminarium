@@ -17,11 +17,12 @@ Join us at https://meet.drwhy.ai.
 * 07.04 - [PIP-Net: Patch-based intuitive prototypes for interpretable image classification](https://openaccess.thecvf.com/content/CVPR2023/html/Nauta_PIP-Net_Patch-Based_Intuitive_Prototypes_for_Interpretable_Image_Classification_CVPR_2023_paper.html) - Karol Dobiczek
 * 14.04 - [Birds look like cars: Adversarial analysis of intrinsically interpretable deep learning](https://arxiv.org/abs/2503.08636) - Hubert Baniecki
 * 28.04 - Vlad (ICLR)
+* 05.05 - [Explaining in Diffusion: Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models](https://arxiv.org/abs/2412.18604) (advising BS)
 * 12.05 - [DiG-IN: Diffusion Guidance for Investigating Networks -- Uncovering Classifier Differences Neuron Visualisations and Visual Counterfactual Explanations](https://arxiv.org/abs/2311.17833) (advising BS)
-* 19.05 - [Explaining in Diffusion: Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models](https://arxiv.org/abs/2412.18604) (advising BS)
+* 19.05 - [Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model](https://arxiv.org/abs/2212.00490) (advising BS)
 * 26.05 - [Diffusion Posterior Sampling for General Noisy Inverse Problems](https://arxiv.org/abs/2209.14687) (advising BS)
 * 31.05 - Wyjazd zespołu do Wilgi
-* 02.06 - [Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model](https://arxiv.org/abs/2212.00490) (advising BS)
+* 02.06
 * 09.06
 
 ### Fall semester
