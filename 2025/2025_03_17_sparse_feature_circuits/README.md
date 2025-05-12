@@ -1,0 +1,3 @@
+# Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models
+
+The paper presents how to get feature circuits in language models - structured interactions between sparse, interpretable features that collectively influence a model's behaviour. The features in circuits can be interpreted, as we saw in the previous seminars, but also removed during the manual debiasing, which is performed by a novel SHIFT method. The authors argue that this method can be used to, e.g., detect and remove the influence of gender on the profession classification, making language models safe and fair.

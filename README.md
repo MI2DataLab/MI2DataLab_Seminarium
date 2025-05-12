@@ -9,20 +9,20 @@ Join us at https://meet.drwhy.ai.
 ### Spring semester
 
 * 24.02 - [Tracking information flow in biosystems from high-throughput data](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2025/2025_02_24_tracking_information_flow) - Miron Kursa
-* 03.03 - Introduction to Sparse Autoencoders SAE with [ReLU](https://transformer-circuits.pub/2024/scaling-monosemanticity/) (Anthropic; Blog; 21.05.2024), [TopK](https://openreview.net/forum?id=tcsZt9ZNKD) (OpenAI; ICLR 2025; 06.06.2025) and [JumpReLU](https://openreview.net/forum?id=XkMrWOJhNd) (DeepMind; 09.08.2024; EMNLP 2024 Workshop) - (advising Vladimir)
-* 10.03 - [Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models](https://openreview.net/forum?id=I4e82CIDxv) (Northeastern University; ICLR 2025; 31.03.2025) - (advising Vladimir) 
-* 17.03 - [Sparse Autoencoders Do Not Find Canonical Units of Analysis](https://openreview.net/forum?id=9ca9eHNrdH) (Durham University/Independent; ICLR 2025; 07.02.2025) - (advising Vladimir)
-* 24.03 - [Interpreting CLIP with Hierarchical Sparse Autoencoders](https://arxiv.org/abs/2502.20578) (My paper; Under Review; 30.01.2025) - Vladimir Zaigrajew
-* 31.03 - [ProtoViT: Interpretable image classification with adaptive prototype-based vision transformers](https://openreview.net/forum?id=hjhpCJfbFG) - Paweł Gelar
-* 07.04 - [PIP-Net: Patch-based intuitive prototypes for interpretable image classification](https://openaccess.thecvf.com/content/CVPR2023/html/Nauta_PIP-Net_Patch-Based_Intuitive_Prototypes_for_Interpretable_Image_Classification_CVPR_2023_paper.html) - Karol Dobiczek
-* 14.04 - [Birds look like cars: Adversarial analysis of intrinsically interpretable deep learning](https://arxiv.org/abs/2503.08636) - Hubert Baniecki
-* 28.04 - Vlad (ICLR)
-* 05.05 - [Explaining in Diffusion: Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models](https://arxiv.org/abs/2412.18604) (advising BS)
-* 12.05 - [DiG-IN: Diffusion Guidance for Investigating Networks -- Uncovering Classifier Differences Neuron Visualisations and Visual Counterfactual Explanations](https://arxiv.org/abs/2311.17833) (advising BS)
-* 19.05 - [Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model](https://arxiv.org/abs/2212.00490) (advising BS)
-* 26.05 - [Diffusion Posterior Sampling for General Noisy Inverse Problems](https://arxiv.org/abs/2209.14687) (advising BS)
+* 03.03 - [Introduction to Sparse Autoencoders (SAE)](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2025/2025_03_03_scaling_and_evaluating_sparse_autoencoders) with [ReLU](https://transformer-circuits.pub/2024/scaling-monosemanticity/) (Anthropic; Blog; 21.05.2024), [TopK](https://openreview.net/forum?id=tcsZt9ZNKD) (OpenAI; ICLR 2025; 06.06.2025) and [JumpReLU](https://openreview.net/forum?id=XkMrWOJhNd) (DeepMind; 09.08.2024; EMNLP 2024 Workshop) - Vladimir
+* 10.03 - [Sparse Autoencoders Do Not Find Canonical Units of Analysis](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2025/2025_10_03_sparse_autoencoders_do_not_find_canonical_units_of_analysis) - Vladimir
+* 17.03 - [Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models](https://openreview.net/forum?id=I4e82CIDxv) (Northeastern University; ICLR 2025; 31.03.2025) - Dawid Płudowski
+* 24.03 - Interpreting CLIP with Hierarchical Sparse Autoencoders (My paper; Under Review; 30.01.2025) - Vladimir Zaigrajew
+* 31.03 - Short intro (HB) + [PIP-Net: Patch-based intuitive prototypes for interpretable image classification](https://openaccess.thecvf.com/content/CVPR2023/html/Nauta_PIP-Net_Patch-Based_Intuitive_Prototypes_for_Interpretable_Image_Classification_CVPR_2023_paper.html) (CVPR 2023) - (advising HB)
+* 07.04 - [ProtoViT: Interpretable image classification with adaptive prototype-based vision transformers](https://openreview.net/forum?id=hjhpCJfbFG) (NeurIPS 2024) - (advising HB)
+* 14.04 - Adversarial analysis of intrinsically interpretable deep learning - Hubert Baniecki
+* 28.04 - Vlad
+* 05.05 - [Explaining in Diffusion: Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models](https://arxiv.org/abs/2412.18604) - Jakub Świstak
+* 12.05 - [Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model](https://arxiv.org/abs/2212.00490) - Jakub Grzywaczewski
+* 19.05 - [Diffusion Posterior Sampling for General Noisy Inverse Problems](https://arxiv.org/abs/2209.14687) - Tymoteusz Kwieciński
+* 26.05 - [DiG-IN: Diffusion Guidance for Investigating Networks -- Uncovering Classifier Differences Neuron Visualisations and Visual Counterfactual Explanations](https://arxiv.org/abs/2311.17833) - Dawid Płudowski
 * 31.05 - Wyjazd zespołu do Wilgi
-* 02.06
+* 02.06 
 * 09.06
 
 ### Fall semester
