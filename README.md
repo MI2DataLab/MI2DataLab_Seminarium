@@ -18,7 +18,7 @@ Join us at https://meet.drwhy.ai.
 * 14.04 - [Birds look like cars: Adversarial analysis of intrinsically interpretable deep learning](https://arxiv.org/abs/2503.08636) - Hubert Baniecki
 * 28.04 - Vlad (ICLR)
 * 05.05 - [Explaining in Diffusion: Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models](https://arxiv.org/abs/2412.18604) - Jakub Świstak
-* 12.05 - [Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model](https://arxiv.org/abs/2212.00490) - Jakub Grzywaczewski
+* 12.05 - [Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2025/2025_05_12_denoising_diffusion_null_space_models) - Jakub Grzywaczewski
 * 19.05 - [Diffusion Posterior Sampling for General Noisy Inverse Problems](https://arxiv.org/abs/2209.14687) - Tymoteusz Kwieciński
 * 26.05 - [DiG-IN: Diffusion Guidance for Investigating Networks -- Uncovering Classifier Differences Neuron Visualisations and Visual Counterfactual Explanations](https://arxiv.org/abs/2311.17833) - Dawid Płudowski
 * 31.05 - Wyjazd zespołu do Wilgi
