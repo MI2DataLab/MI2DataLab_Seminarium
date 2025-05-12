@@ -18,7 +18,7 @@ Join us at https://meet.drwhy.ai.
 * 14.04 - Adversarial analysis of intrinsically interpretable deep learning - Hubert Baniecki
 * 28.04 - Vlad
 * 05.05 - [Explaining in Diffusion: Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models](https://arxiv.org/abs/2412.18604) - Jakub Świstak
-* 12.05 - [Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model](https://arxiv.org/abs/2212.00490) - Jakub Grzywaczewski (recorded [here](https://drive.google.com/file/d/1N97FA75FLX42lbIseovkOau6dWgf_9a4/view))
+* 12.05 - [Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model](https://arxiv.org/abs/2212.00490) - Jakub Grzywaczewski
 * 19.05 - [Diffusion Posterior Sampling for General Noisy Inverse Problems](https://arxiv.org/abs/2209.14687) - Tymoteusz Kwieciński
 * 26.05 - [DiG-IN: Diffusion Guidance for Investigating Networks -- Uncovering Classifier Differences Neuron Visualisations and Visual Counterfactual Explanations](https://arxiv.org/abs/2311.17833) - Dawid Płudowski
 * 31.05 - Wyjazd zespołu do Wilgi
