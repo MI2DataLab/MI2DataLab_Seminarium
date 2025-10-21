@@ -12,7 +12,7 @@ Join us at https://meet.drwhy.ai.
 
 * 06.10 - organizational meeting
 * 13.10 - Towards scientific discovery with dictionary learning: Extracting biological concepts from microscopy foundation models - Bartosz Kochański
-* 20.10 - Michał Włodarczyk
+* 20.10 - What Has a Foundation Model Found? Using Inductive Bias to Probe for World Models - Michał Włodarczyk
 * 27.10 - Monthly sync meeting (Hubert Baniecki, Dawid Płudowski, Julian Sienkiewicz)
 * 03.11 - Jakub Grzywaczewski
 * 17.11 - Bartek Sobieski
