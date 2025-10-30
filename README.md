@@ -12,9 +12,9 @@ Join us at https://meet.drwhy.ai.
 
 * 06.10 - organizational meeting
 * 13.10 - [Towards scientific discovery with dictionary learning: Extracting biological concepts from microscopy foundation models](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2025/2025-10-13_Towards_scientific_discovery_with_dictionary_learning) - Bartosz Kochański
-* 20.10 - What Has a Foundation Model Found? Using Inductive Bias to Probe for World Models - Michał Włodarczyk
+* 20.10 - [What Has a Foundation Model Found? Using Inductive Bias to Probe for World Models](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2025/2025_10_20_inductive_bias_probe_for_world_models) - Michał Włodarczyk
 * 27.10 - Monthly sync meeting (Hubert Baniecki, Dawid Płudowski, Julian Sienkiewicz)
-* 03.11 - Jakub Grzywaczewski
+* 03.11 - ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features - Jakub Grzywaczewski
 * 17.11 - Bartek Sobieski
 * 24.11 - Monthly sync meeting (Paulina Tomaszewska, Paweł Struski, Vladimir Zaigrajew)
 * 01.12 - Dawid Płudowski
