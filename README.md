@@ -15,7 +15,7 @@ Join us at https://meet.drwhy.ai.
 * 20.10 - [What Has a Foundation Model Found? Using Inductive Bias to Probe for World Models](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2025/2025_10_20_inductive_bias_probe_for_world_models) - Michał Włodarczyk
 * 27.10 - Monthly sync meeting (Hubert Baniecki, Dawid Płudowski, Julian Sienkiewicz)
 * 03.11 - [ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2025/2025_11_03_concept_attention/Concept_Attention.pdf) - Jakub Grzywaczewski
-* 17.11 - Bartek Sobieski
+* 17.11 - [Counterfactual Explanations on Robust Perceptual Geodesics](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2025/2025_11_17_pcg/pcg.pdf) - Bartek Sobieski
 * 24.11 - Monthly sync meeting (Paulina Tomaszewska, Paweł Struski, Vladimir Zaigrajew)
 * 01.12 - Dawid Płudowski
 * 08.12 - Kamil Książek
