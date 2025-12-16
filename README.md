@@ -17,7 +17,7 @@ Join us at https://meet.drwhy.ai.
 * 03.11 - [ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2025/2025_11_03_concept_attention/Concept_Attention.pdf) - Jakub Grzywaczewski
 * 17.11 - Bartek Sobieski
 * 24.11 - Monthly sync meeting (Paulina Tomaszewska, Paweł Struski, Vladimir Zaigrajew)
-* 01.12 - Dawid Płudowski
+* 01.12 - [ImageNet-trained CNNs are not biased towards texture: Revisiting feature reliance through controlled suppression](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2025/2025_12_01_ImageNet_trained_CNNs_are_not_biased_towards_texture/2025_12_01_ImageNet_trained_CNNs_are_not_biased_towards_texture.pdf) - Dawid Płudowski
 * 08.12 - Kamil Książek
 * 15.12 - Monthly sync meeting (Bartek Sobieski, Jakub Grzywaczewski, Michał Włodarczyk)
 * 12.01 - Agata Kaczmarek
