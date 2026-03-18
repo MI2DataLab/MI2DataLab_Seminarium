@@ -8,21 +8,21 @@ Join us at https://meet.drwhy.ai.
 
 ### Spring semester
 
-* 23.02 - invited lecture by [Maximilian Dreyer](https://www.maxdreyer.de/)
-* 02.03 - Organizational meeting
-* 09.03 - Presentation 1
-* 16.03 - Presentation 2
-* 23.03 - 
-* 30.03 - Presentation 3
+* 23.02 - [From local explanations to comprehensive mechanistic understanding of deep vision models](https://depositonce.tu-berlin.de/items/0e283a69-b440-4481-b363-62b948b78c37) - invited lecture by [Maximilian Dreyer](https://www.maxdreyer.de/)
+* 02.03 - Challenges in Bayesian Neural Networks: Balancing Priors and Learning Biases - invited lecture by [Tomasz Kuśmierczyk](https://tkusmierczyk.github.io/)
+* 09.03 - Short Cycles for Local Density and Community Detection - invited lecture by [Ryan DeWolfe](https://ca.linkedin.com/in/ryandewolfe33)
+* 16.03 - Higher Order Attention - special session by Tomasz Steifer
+* 23.03 - Machine learning supervised neurotherapy - special session by Jacek Rogala
+* 30.03 - Presentation 1 - TBA - Julek Sienkiewicz
 * 06.04 - No seminar - spring break
-* 13.04 - Presentation 4
-* 20.04 - Presentation 5
+* 13.04 - Presentation 2 - Bartosz Naskręcki
+* 20.04 - Presentation 3 - TBA
 * 27.04 - 
-* 04.05 - Presentation 6
-* 11.05 - Presentation 7
+* 04.05 - Presentation 4 - Agata Kaczmarek
+* 11.05 - Presentation 5 - Jakub Grzywaczewski
 * 18.05 - 
-* 25.05 - Presentation 8
-* 01.06 - Presentation 9
+* 25.05 - Presentation 6 - Inez Okulska
+* 01.06 - Presentation 7 - TBA
 * 08.06 - 
 * 15.06 - Retro meeting
 
