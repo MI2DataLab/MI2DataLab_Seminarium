@@ -16,7 +16,7 @@ Join us at https://meet.drwhy.ai.
 * 30.03 - Presentation 1 - TBA - Julek Sienkiewicz
 * 06.04 - No seminar - spring break
 * 13.04 - Presentation 2 - Bartosz Naskręcki
-* 20.04 - Presentation 3 - TBA
+* 20.04 - Presentation 3 - Vladimir Zaigrajew
 * 27.04 - 
 * 04.05 - Presentation 4 - Agata Kaczmarek
 * 11.05 - Presentation 5 - Jakub Grzywaczewski
