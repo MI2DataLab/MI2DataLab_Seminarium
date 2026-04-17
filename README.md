@@ -13,17 +13,14 @@ Join us at https://meet.drwhy.ai.
 * 09.03 - Short Cycles for Local Density and Community Detection - invited lecture by [Ryan DeWolfe](https://ca.linkedin.com/in/ryandewolfe33)
 * 16.03 - Higher Order Attention - special session by Tomasz Steifer
 * 23.03 - Machine learning supervised neurotherapy - special session by Jacek Rogala
-* 30.03 - Presentation 1 - TBA - Julek Sienkiewicz
+* 30.03 - CCAI PHYS-XAI leader introduction - special session by Julek Sienkiewicz
 * 06.04 - No seminar - spring break
-* 13.04 - Presentation 2 - Bartosz Naskręcki
-* 20.04 - Presentation 3 - Vladimir Zaigrajew
-* 27.04 - 
-* 04.05 - Presentation 4 - Agata Kaczmarek
-* 11.05 - Presentation 5 - Jakub Grzywaczewski
-* 18.05 - 
-* 25.05 - Presentation 6 - Inez Okulska
-* 01.06 - Presentation 7 - TBA
-* 08.06 - 
+* 13.04 - Presentation 1 - Olympiad-level formal mathematical reasoning with reinforcement learning - Bartosz Naskręcki 
+* 20.04 - Presentation 2 Improving Perturbation-based Explanations by Understanding the Role of Uncertainty Calibration - Vladimir Zaigrajew
+* 04.05 - Presentation 3 - Agata Kaczmarek
+* 11.05 - Presentation 4 - Jakub Grzywaczewski
+* 25.05 - Presentation 5 - Inez Okulska
+* 01.06 - Presentation 6 - TBA
 * 15.06 - Retro meeting
 
 ### Fall semester
