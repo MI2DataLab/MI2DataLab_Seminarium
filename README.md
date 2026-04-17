@@ -15,7 +15,7 @@ Join us at https://meet.drwhy.ai.
 * 23.03 - Machine learning supervised neurotherapy - special session by Jacek Rogala
 * 30.03 - CCAI PHYS-XAI leader introduction - special session by Julek Sienkiewicz
 * 06.04 - No seminar - spring break
-* 13.04 - Presentation 1 - Olympiad-level formal mathematical reasoning with reinforcement learning - Bartosz Naskręcki 
+* 13.04 - [Presentation 1 - Olympiad-level formal mathematical reasoning with reinforcement learning](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2025/2025_04_13_alphaproof) - Bartosz Naskręcki
 * 20.04 - Presentation 2 Improving Perturbation-based Explanations by Understanding the Role of Uncertainty Calibration - Vladimir Zaigrajew
 * 04.05 - Presentation 3 - Agata Kaczmarek
 * 11.05 - Presentation 4 - Jakub Grzywaczewski
