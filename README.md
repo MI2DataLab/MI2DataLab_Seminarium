@@ -16,7 +16,7 @@ Join us at https://meet.drwhy.ai.
 * 30.03 - CCAI PHYS-XAI leader introduction - special session by Julek Sienkiewicz
 * 06.04 - No seminar - spring break
 * 13.04 - [Olympiad-level formal mathematical reasoning with reinforcement learning](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2025/2025_04_13_alphaproof) - Bartosz Naskręcki
-* 20.04 - Improving Perturbation-based Explanations by Understanding the Role of Uncertainty Calibration - Vladimir Zaigrajew
+* 20.04 - [Attribution-Guided Decoding](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2026/2026_04_20_attribution-guided_decoding) - Vladimir Zaigrajew
 * 04.05 - Agata Kaczmarek
 * 11.05 - Jakub Grzywaczewski
 * 25.05 - Inez Okulska
