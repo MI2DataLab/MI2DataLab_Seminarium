@@ -19,8 +19,8 @@ Join us at https://meet.drwhy.ai.
 * 20.04 - [Attribution-Guided Decoding](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2026/2026_04_20_attribution-guided_decoding) - Vladimir Zaigrajew
 * 11.05 - [Flow and Diffusion models + Terrain Diffusion](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2026/2026_05_11_flow_and_terrain_diffusion) - Jakub Grzywaczewski 
 * 18.05 - Semantic Vector Spaces as Scientific Instruments: Measuring Meaning with the Supervised Semantic Differential - invited lecture by [Hubert Plisiecki](https://scholar.google.com/citations?user=Xb0W4xgAAAAJ)
-* 25.05 - Inez Okulska
-* 01.06 - Jan Piotrowski
+* 25.05 - Shifting the Gradient: Understanding How Defensive Training Methods Protect Language Model Integrity - Jan Piotrowski
+* 01.06 - Inez Okulska
 * 08.06 - Agata Kaczmarek
 * 15.06 - Retro meeting
 
